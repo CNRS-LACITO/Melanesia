@@ -124,7 +124,7 @@ subordonnée de type relative. Cette dernière est typiquement marquée comme d�
 \nt AP9-44 = kê mal hoyo a {ne-||mal} hoyo
 \nq
 \dc 16/Feb/2006
-\dt 12/Dec/2013
+\dt 13/Aug/2014
 
 \lx a
 \hm 2
@@ -23185,18 +23185,19 @@ nok gengen.} |fe{Je mangerai} (P|hm{2}) |fe{après avoir bu le kava} (P|hm{1}).
 \dc 31/Mar/2007
 \dt 13/Jul/2011
 
-\lx kokm̄eg goy
-\ph kɔkŋ​͡mʷɛɣ ɣɔj
+\lx kokm̄eg
+\ph kɔkŋ​͡mʷɛɣ
 \ps vt
 \gr
-\sn
-\ge recueillir
+\ge réconforter
 \re
 \he ‡
+\hn ‡
+\sn 1
 \he rare
-\de recueillir ‹qqn› auprès de soi, pour lui offrir de l'affection et de
-la chaleur; offrir le refuge à ‹qqn›
-\dn bring ‹s.o› in, to offer him affection and warmth; give ‹s.o› refuge
+\hn rare
+\de offrir le refuge (à qqn, fv:goy); recueillir auprès de soi pour offrir de l'affection et de la chaleur
+\dn bring in, offer affection and warmth (to s.o., fv:goy); give refuge
 \rf ode-alx:036
 \xv Ige tutu en, kē ni-kokm̄eg goy kēy a lē-kēksan.
 \xe Les poules recueillent leurs poussins contre leur sein (pour les couver).
@@ -23206,10 +23207,21 @@ la chaleur; offrir le refuge à ‹qqn›
 \xe Vous l'avez recueilli auprès de vous, comme s'il s'agissait de votre enfant.
 \xn You brought him in to your home, as if he were your child.
 \lf Cf.
-\lv goy|hm{1} |ax{[10]}
-\lf Cf.
 \lv tayak
 \le adopter
+\ln adopt
+\sn 2
+\he métph
+\de réconforter, consoler qqn (fv:goy) dans un moment de tristesse
+\hn metph
+\dn bring consolation (to s.o., fv:goy), comfort
+\rf Email Lobu 2014-10-19
+\xm Nat tatai non mem so Yatmangen ni gokmeg vasget goi gen del letno tog lolwon agoh. 
+\xv Na-tatay nonmem so Yatmangēn ni-kokm̄eg vasgēt goy gēn del le-tno toglolwon agōh. 
+\xe Nous prions que Dieu veuille tous nous réconforter en ce moment de deuil.
+\xn We pray that God gives us all shelter in this time of mourning.
+\lf Cf.
+\lv goy|hm{1} |ax{[10]}
 \el Mota
 \et kokom̄ag
 \eg keep carefully; faithful
@@ -23217,7 +23229,7 @@ la chaleur; offrir le refuge à ‹qqn›
 \nq
 \dc 25/Jul/2006
 \dc 04/Apr/2007
-\dt 13/Jul/2011
+\dt 19/Oct/2014
 
 \lx kokoym̄eg
 \ph kɔkɔjŋ​͡mʷɛɣ
@@ -23225,9 +23237,10 @@ la chaleur; offrir le refuge à ‹qqn›
 \gr
 \ge absolu
 \re
-\de absolu, extrême. Intensificateur de fv:mōyōs ‘désir / désirer’ et fv:ēglal
-‘savoir’
-\dn absolute, extreme. Intensifyer of fv:mōyōs ‘desire / desire’ and fv:ēglal
+\de absolu, extrême. Intensifieur de certains prédicats psychologiques (fl:ex. fv:mōyōs ‘désirer’, fv:lolwon
+‘regretter’, fv:ēglal ‘connaître’)
+\dn absolute, extreme, deep. Intensifier for certain psychological predicates (|fl{e.g.} fv:mōyōs ‘desire, like’,
+fv:ēglal ‘know’, fv:lolwon ‘sad’)
 \rf
 \xv Tiy mōyōs kokoym̄eg mino yeh so nok so tiok nēk hag en.
 \xe C'est mon désir le plus vif que de te raccompagner là-bas.
@@ -23235,14 +23248,21 @@ la chaleur; offrir le refuge à ‹qqn›
 \rf AP9-12
 \xv Nok so ēglal kokoym̄eg.
 \xe Il faut que je le sache complète^ment, sur le bout des doigts.
-\xn I must know absolutely, inside out.
+\xn I need to know it perfectly.
+\rf
+\rm Email Esward Tagai 2014-10-14
+\xv No-lolwon kokoym̄eg mino ni-van hiy ige nētnētm̄ey nonon, ige bōbō wa ige bōbō gēpgēp
+nonon.
+\xm No lolwun kokoym̄eg mino ni van hiy ige netnetm̄ey nonon, ige bobo wa ige bobo gepgep non itat Masiro.
+\xe Mes condoléances les plus sincères sont pour ses enfants, ses petits-enfants et ses arrière-petits-enfants.
+\xn My deepest condolences go towards his children, his grand^children and his great^grand^children.
 \lf
 \el
 \nt
 \nq
 \dc 11/Sep/2002
 \dc 31/Mar/2007
-\dt 13/Jul/2011
+\dt 19/Oct/2014
 
 \lx kom̄a
 \la no-kom̄a
@@ -28847,7 +28867,7 @@ s.o.
 \oe nuance de tristesse
 \xe Vous voulez déjà rentrer chez vous? (quel dommage)
 \xn You want to back home already? (what a shame)
-\rm P9-27
+\rm AP9-15a
 \xm No et-mōk bat magay^sēn te hay na-hek.
 \xf Je n'avais pas proposé mon nom moi-même (pauvre de moi).
 \lf
@@ -28894,7 +28914,7 @@ s.o.
 \nq
 \dc 22/Sep/2002
 \dc 30/Mar/2008
-\dt 28/Mar/2010
+\dt 29/Apr/2015
 
 \lx magtō
 \la na-magtō
@@ -39189,9 +39209,9 @@ visage
 caractère
 \dn the mouth as seat of speech ; |fl{thus} manner of speaking. 
 \rf feuille 24-12-97
-\xv Na-gatgat to-M̄otlap mal mat le-n̄ye !
+\xv Na-gatgat to-M̄otlap mal mat le-n̄ye!
 \xe La langue mwotlap succombe dans ta bouche ! (Tu la parles parfaite^ment)
-\xn The mwotlap language succumbs in your mouth ! (You speak it perfectly) 
+\xn The Mwotlap language succumbs in your mouth ! (You speak it perfectly) 
 \rf AP5-7
 \xv Kē itōk, ba na-n̄yan ne-het, veg kē ni-boboel memeh.
 \xe Elle a un bon fond, mais elle a un mauvais caractère [ax:litt. sa bouche est mauvaise]: elle se met trop
@@ -39262,7 +39282,7 @@ fv:n̄eye|hm{1}).
 \nq
 \dc 17/Sep/2002
 \dc 14/Aug/2009
-\dt 28/Mar/2010
+\dt 21/Oct/2014
 
 \lx n̄[e]yeg
 \ph ŋɛjɛɣ
@@ -56093,10 +56113,8 @@ mélodie (G3-77); na-lo ni-til = se couche P6-43
 \de façon de s'orienter
 \dn way to find one's bearings
 \sn 1
-\de manière de s'orienter dans l'espace, fl:partic. système
-d'orientation, système des points cardinaux; manière d'employer
-les directionnels spatiaux de la langue, propre à un individu ou
-un groupe
+\de manière de s'orienter dans l'espace, fl:partic. système d'orientation, système des points cardinaux;
+manière d'employer les directionnels spatiaux de la langue, propre à un individu ou un groupe
 \dn how to find one's way in space, fl:esp. directional system, cardinal points, compass;
 how to use space directionals in language, as an individual or as a group
 \rf
@@ -56120,6 +56138,7 @@ real coda.
 \nq
 \dc 04/Aug/2006
 \dc 17/Sep/2009
+\dt 24/Sep/2014
 
 \lx til
 \hm 2
