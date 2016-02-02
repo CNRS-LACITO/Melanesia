@@ -464,7 +464,7 @@
 \nam Fonction linguistique (Ang)
 \desc Créé 8-04-2000 par Alex. Pour indiquer la valeur métalinguistique d'un sens : "figuré", "métaph.", "argot", "technique", "plaisanterie", "méton."... mais en ANGLAIS: c'est la traduction de \he.
 \lng Anglais
-\rngset Quest Sl anc esp fig freq hence maybe met metph mod or rare rather vulg 
+\rngset Quest Sl anc esp fig freq hence maybe met metph mod or rare rather vulg ‡ 
 \+fnt 
 \Name Century Gothic
 \Size 10
@@ -605,6 +605,11 @@
 \CharStyle
 \-mkr
 
+\+mkr ltg
+\lng Francais
+\mkrOverThis lx
+\-mkr
+
 \+mkr lv
 \nam Lexical function lexeme
 \desc Used for the vernacular lexeme in a lexical function network. The \lv field "points to" the vernacular lexeme (a morpheme, word, or phrase) that is semantically related to the current headword as mapped or cataloged by the label in the \lf field.
@@ -677,6 +682,11 @@
 \mkrOverThis se
 \mkrFollowingThis ncv
 \CharStyle
+\-mkr
+
+\+mkr mtp
+\lng Francais
+\mkrOverThis lx
 \-mkr
 
 \+mkr na
@@ -1129,6 +1139,11 @@
 \mkrOverThis sn
 \-mkr
 
+\+mkr tga
+\lng Francais
+\mkrOverThis lx
+\-mkr
+
 \+mkr th
 \nam Thesaurus
 \desc Used for developing a vernacular-based thesaurus. It is to be labeled with the vernacular term governing the semantic domain of the entry. Sorting on this field (within Shoebox) would yield a vernacular thesaurus. Use a Range Set.
@@ -1163,6 +1178,11 @@
 \lng Anglais
 \NoWordWrap
 \mkrOverThis sn
+\-mkr
+
+\+mkr tr
+\lng Francais
+\mkrOverThis lx
 \-mkr
 
 \+mkr tv
@@ -1299,6 +1319,11 @@
 \lng regional
 \mkrOverThis va
 \CharStyle
+\-mkr
+
+\+mkr vrs
+\lng Francais
+\mkrOverThis lx
 \-mkr
 
 \+mkr wav
@@ -1527,10 +1552,10 @@
 \dbtyp MDFAltMwotlap
 \+drflst 
 \+drf 
-\File C:\Alex\a_DropBox\Dropbox\Linguistics\Toolbox\Mwotlap.lex
+\File C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\Mwotlap.lex
 \-drf
 \+drf 
-\File C:\Alex\a_DropBox\Dropbox\Linguistics\Toolbox\NonDicoMtv.lex
+\File C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\NonDicoMtv.lex
 \-drf
 \-drflst
 \+mrflst 
@@ -1544,10 +1569,10 @@
 \dbtyp MDFAltMwotlap
 \+drflst 
 \+drf 
-\File C:\Alex\a_DropBox\Dropbox\Linguistics\Toolbox\Mwotlap.lex
+\File C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\Mwotlap.lex
 \-drf
 \+drf 
-\File C:\Alex\a_DropBox\Dropbox\Linguistics\Toolbox\NonDicoMtv.lex
+\File C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\NonDicoMtv.lex
 \-drf
 \-drflst
 \+mrflst 
@@ -1570,10 +1595,10 @@
 \dbtyp MDFAltMwotlap
 \+drflst 
 \+drf 
-\File C:\Alex\a_DropBox\Dropbox\Linguistics\Toolbox\Mwotlap.lex
+\File C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\Mwotlap.lex
 \-drf
 \+drf 
-\File C:\Alex\a_DropBox\Dropbox\Linguistics\Toolbox\NonDicoMtv.lex
+\File C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\NonDicoMtv.lex
 \-drf
 \-drflst
 \+mrflst 
@@ -1596,10 +1621,10 @@
 \dbtyp MDFAltMwotlap
 \+drflst 
 \+drf 
-\File C:\Alex\a_DropBox\Dropbox\Linguistics\Toolbox\Mwotlap.lex
+\File C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\Mwotlap.lex
 \-drf
 \+drf 
-\File C:\Alex\a_DropBox\Dropbox\Linguistics\Toolbox\NonDicoMtv.lex
+\File C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\NonDicoMtv.lex
 \-drf
 \-drflst
 \+mrflst 
@@ -1843,7 +1868,7 @@
 \+jmp default
 \+drflst 
 \+drf 
-\File C:\Alex\a_DropBox\Dropbox\Linguistics\Toolbox\Mwotlap.lex
+\File C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\Mwotlap.lex
 \mkr lc
 \-drf
 \-drflst
@@ -2526,7 +2551,7 @@
 \titleNationalTriglot Mwotlap-English-Francais
 \titleGlossIndexNE English — vernacular
 \titleGlossIndexNR regional — vernacular
-\exportedEnglishDiglot C:\Alex\Mwotlap\DicosShoebox\Mtv-Fr\DicoA5\2014.rtf
+\exportedEnglishDiglot C:\Alex\Mwotlap\DicosShoebox\Mtv-Fr\DicoA5\2014_animals.rtf
 \exportedEnglishTriglot c:\Alex\Mwotlap\DicosShoebox\Mtv-Fr-Eng\MtvFçAng.rtf
 \exportedNationalDiglot c:\Alex\Mwotlap\DicosShoebox\MtvBsAng2.rtf
 \exportedNationalTriglot c:\Alex\Mwotlap\essaisDico\OcéanVanuatu.rtf
@@ -2534,6 +2559,7 @@
 \dotEnglish C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\MdfA5General.dot
 \cctNationalLabels MDF_English.cct
 \dotNational C:\Alex\a_Dropbox\My Dropbox\Linguistics\Toolbox\DiMtvEngX.dot
+\fil animaux
 \SortOnlyByLexeme
 \IncludeLexemeWithCitationForm
 \ExcludeNotes
@@ -2661,6 +2687,11 @@
 \columnSpacing 0.635
 \-rtfPageSetup
 \-expMDF
+
+\+expXML Export XML de dictionnaire MDF - AlexF
+\UTF8
+\exportedFile C:\Alex\a_Dropbox\Dropbox\Linguistics\My-languages\Dictionnaires\AlexF_CelineB_echanges\AF_Toolbox-162_Mwotlap_01.xml
+\-expXML
 
 \+expMDF Francais - Mwotlap
 \UTF8
@@ -2890,7 +2921,7 @@
 \titleGlossIndexNR regional — vernacular
 \exportedEnglishDiglot C:\Alex\Mwotlap\DicosShoebox\Mtv-Fr\DicoA4\tout.rtf
 \exportedEnglishTriglot c:\Alex\Mwotlap\DicosShoebox\Mtv-Fr-Eng\MtvFçAng1.rtf
-\exportedNationalDiglot C:\Alex\Mwotlap\DicosShoebox\Mtv-Eng\A4Mtv-Eng_2011b.rtf
+\exportedNationalDiglot C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\Exports\A4_MTP-Eng_2015.rtf
 \cctEnglishLabels MDF_fAlx.cct
 \dotEnglish C:\Alex\a_DrobBox\Dropbox\Linguistics\Toolbox\MdfMtvFcsAlx.dot
 \cctNationalLabels MDF_English.cct
@@ -2900,7 +2931,6 @@
 \ExcludePartOfSpeech
 \typRTF MDF Rich Text Format
 \typHTML MDF SF-to-HTML
-\CheckConsistency
 \+mkrsubsetExcluded 
 \mkr a
 \mkr br
@@ -2965,11 +2995,10 @@
 \-expRTF
 
 \+expSF Standard Format
-\exportedFile C:\Alex\a_Dropbox\Dropbox\Linguistics\a_DropBox\My Dropbox\Linguistics\a_DropBox\My Dropbox\Linguistics\a_DrobBox\My Dropbox\Linguistics\Mwotlap\DicosShoebox\Mtv-Eng\Mwotlap-notLA.txt
+\exportedFile C:\Alex\a_Dropbox\Dropbox\Linguistics\a_Dropbox\Dropbox\Linguistics\a_Dropbox\Dropbox\Linguistics\a_DropBox\My Dropbox\Linguistics\a_DropBox\My Dropbox\Linguistics\a_DrobBox\My Dropbox\Linguistics\Mwotlap\DicosShoebox\Mtv-Eng\Mwotlap-notLA.txt
 \-expSF
 
-\expDefault MDF Mwotlap-Francais A4
-\CurrentWindow
+\expDefault Export XML de dictionnaire MDF - AlexF
 \AutoOpen
 \SkipProperties
 \-expset

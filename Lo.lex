@@ -1,4 +1,4 @@
-\_sh v3.0  583  MDF Lotoga
+\_sh v3.0  583  MDFAltMwotlap
 \_DateStampHasFourDigitYear
 
 \lx a
@@ -6448,7 +6448,7 @@ restricted to a noun phrase.
 \lf
 \el
 \dc
-\dt
+\dt 16/Sep/2014
 
 \lx kilë
 \ps

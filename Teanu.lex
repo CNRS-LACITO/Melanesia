@@ -1,4 +1,4 @@
-\_sh v3.0  779  MDF vanikoro
+\_sh v3.0  400  MDF vanikoro
 
 \lx ~a
 \ph (i·)a

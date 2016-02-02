@@ -18942,6 +18942,7 @@ there (to Leruvahi).
 
 \lx vi-nini
 \ph βinini
+\a vinini
 \ps n
 \gr pamtri
 \gn palm-tree
@@ -18962,7 +18963,7 @@ coconut crab.
 \xe Il alla chercher une feuille de palmier, et alluma un feu qui brilla à grandes flammes.
 \xn He took a palm-leaf of the palmtree, and made a big fire with it.
 \nt sens exact?
-\dt 14/Jun/2008
+\dt 21/Apr/2015
 
 \lx vi-olas
 \ph βiolas

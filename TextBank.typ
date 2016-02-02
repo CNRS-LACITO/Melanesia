@@ -247,8 +247,8 @@
 \nam Informateur
 \lng Default
 \+fnt 
-\Name Chaparral Pro
-\Size 12
+\Name Charis SIL Compact
+\Size 11
 \Bold
 \charset 00
 \rgbColor 0,128,0
@@ -325,20 +325,29 @@
 \desc Notes anthropologiques : association avec tel ou tel événement, usage coutumier, etc.
 \lng English
 \mkrOverThis ti
+\Hide
 \-mkr
 
 \+mkr ng
 \nam Notes grammaire
 \lng NV-Unic
+\+fnt 
+\Name Segoe UI
+\Size 12
+\charset 00
+\rgbColor 255,0,255
+\-fnt
 \mkrOverThis rf
+\Hide
 \-mkr
 
 \+mkr nl
 \nam Notes litteraires
 \desc Notes littraires : motifs rcurrents, associations  d'autres contes, autres versions, etc.
 \lng NV-Unic
-\mkrOverThis ti
+\mkrOverThis tv
 \mkrFollowingThis nl
+\Hide
 \-mkr
 
 \+mkr nq
@@ -353,6 +362,7 @@
 \-fnt
 \mkrOverThis rf
 \mkrFollowingThis nq
+\Hide
 \-mkr
 
 \+mkr nt
@@ -367,6 +377,7 @@
 \-fnt
 \mkrOverThis tv
 \mkrFollowingThis ta
+\Hide
 \-mkr
 
 \+mkr ord
@@ -537,6 +548,7 @@
 \-fnt
 \mkrOverThis tv
 \mkrFollowingThis ta
+\Hide
 \-mkr
 
 \+mkr te
@@ -761,7 +773,7 @@
 \dbtyp MDF Lotoga
 \+drflst 
 \+drf 
-\File C:\Alex\a_DropBox\Dropbox\Linguistics\Toolbox\Lo.lex
+\File C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\Lo.lex
 \-drf
 \-drflst
 \+mrflst 
@@ -775,7 +787,7 @@
 \dbtyp MDF Lotoga
 \+drflst 
 \+drf 
-\File C:\Alex\a_DropBox\Dropbox\Linguistics\Toolbox\Lo.lex
+\File C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\Lo.lex
 \-drf
 \-drflst
 \+mrflst 
@@ -808,7 +820,7 @@
 \dbtyp MDF Lotoga
 \+drflst 
 \+drf 
-\File C:\Alex\a_DropBox\Dropbox\Linguistics\Toolbox\Lo.lex
+\File C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\Lo.lex
 \-drf
 \-drflst
 \+mrflst 
@@ -831,7 +843,7 @@
 \dbtyp MDF Lotoga
 \+drflst 
 \+drf 
-\File C:\Alex\a_DropBox\Dropbox\Linguistics\Toolbox\Lo.lex
+\File C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\Lo.lex
 \-drf
 \-drflst
 \+mrflst 
@@ -856,7 +868,7 @@
 \dbtyp MDF Lotoga
 \+drflst 
 \+drf 
-\File C:\Alex\a_DropBox\Dropbox\Linguistics\Toolbox\Lo.lex
+\File C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\Lo.lex
 \-drf
 \-drflst
 \+mrflst 
@@ -1028,15 +1040,15 @@
 \+jmp default
 \+drflst 
 \+drf 
-\File C:\Alex\a_DropBox\Dropbox\Linguistics\Toolbox\Mwotlap.lex
+\File C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\Mwotlap.lex
 \mkr lc
 \-drf
 \+drf 
-\File C:\Alex\a_DropBox\Dropbox\Linguistics\Toolbox\Mwotlap.lex
+\File C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\Mwotlap.lex
 \mkr lx
 \-drf
 \+drf 
-\File C:\Alex\a_DropBox\Dropbox\Linguistics\Toolbox\Mwotlap.lex
+\File C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\Mwotlap.lex
 \mkr a
 \-drf
 \-drflst
@@ -1139,7 +1151,7 @@
 \+expset 
 
 \+expSF 1field
-\exportedFile C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\Exports\Mtp-transl-corpus.txt
+\exportedFile C:\Alex\a_Dropbox\Dropbox\Linguistics\a_Dropbox\Dropbox\Linguistics\a_Dropbox\Dropbox\Linguistics\Toolbox\Exports\Mtp-52texts-corpus.txt
 \OverwriteOutputFile
 \+mkrsubsetIncluded 
 \mkr tq
@@ -1155,8 +1167,8 @@
 \-expSF
 
 \+expRTF Notes-pour-Sound-Index
-\dotFile C:\Alex\a_Dropbox\Dropbox\Linguistics\My-languages\Archivage\ARCHIVAGE\Synchronisation\2_SoundIndex\notes-Claire\Sound-Index_notes.dot
-\exportedFile C:\Alex\a_Dropbox\Dropbox\Linguistics\My-languages\Archivage\ARCHIVAGE\Synchronisation\2_SoundIndex\notes-Claire\Hiw_12textes_notes.rtf
+\dotFile C:\Alex\a_Dropbox\Dropbox\Linguistics\a_Dropbox\Dropbox\Linguistics\a_Dropbox\Dropbox\Linguistics\My-languages\Archivage\ARCHIVAGE\Synchronisation\2_SoundIndex\notes-Claire\Sound-Index_notes.dot
+\exportedFile C:\Alex\a_Dropbox\Dropbox\Linguistics\a_Dropbox\Dropbox\Linguistics\a_Dropbox\Dropbox\Linguistics\My-languages\Archivage\ARCHIVAGE\Synchronisation\2_SoundIndex\notes-Claire\Hiw_12textes_notes.rtf
 \InterlinearSpacing 120
 \+mkrsubsetIncluded 
 \mkr de
@@ -1209,8 +1221,8 @@
 \-expRTF
 
 \+expRTF Résumés des contes
-\dotFile C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\TradTxtShbx.dot
-\exportedFile C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\Exports\N-Banks_book.rtf
+\dotFile C:\Alex\a_Dropbox\Dropbox\Linguistics\a_Dropbox\Dropbox\Linguistics\a_Dropbox\Dropbox\Linguistics\Toolbox\TradTxtShbx.dot
+\exportedFile C:\Alex\a_Dropbox\Dropbox\Linguistics\a_Dropbox\Dropbox\Linguistics\a_Dropbox\Dropbox\Linguistics\Toolbox\Exports\N-Banks_book.rtf
 \InterlinearSpacing 120
 \+mkrsubsetIncluded 
 \mkr ai
@@ -1243,12 +1255,12 @@
 \-expRTF
 
 \+expSF Standard Format
-\exportedFile C:\Alex\a_Dropbox\Dropbox\Linguistics\My-languages\Archivage\ARCHIVAGE\Textes-Claire\DRG_Barracuda.txt
+\exportedFile C:\Alex\a_Dropbox\Dropbox\Linguistics\a_Dropbox\Dropbox\Linguistics\a_Dropbox\Dropbox\Linguistics\My-languages\Archivage\ARCHIVAGE\Textes-Claire\DRG_Barracuda.txt
 \-expSF
 
 \+expRTF Texte complet RTF-Word
 \dotFile C:\Alex\a_DropBox\Dropbox\Linguistics\Toolbox\Conte Gaua.dot
-\exportedFile C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\Exports\AlexFrancois_Gaua-Stories_MRL_02.rtf
+\exportedFile C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\Exports\Natte-autre-monde.rtf
 \InterlinearSpaceAligned
 \CheckConsistency
 \+mkrsubsetIncluded 
@@ -1290,8 +1302,8 @@
 \-expRTF
 
 \+expRTF Texte pour locuteurs
-\dotFile C:\Alex\a_DropBox\Dropbox\Linguistics\Toolbox\2011-texts.dot
-\exportedFile C:\Alex\a_Dropbox\Dropbox\Linguistics\Fieldwork\2012-Vanikoro\Vanikoro\LANGUAGE\Teanu-1story.rtf
+\dotFile C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\2011-texts.dot
+\exportedFile C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\Exports\story.rtf
 \InterlinearSpaceAligned
 \+mkrsubsetIncluded 
 \mkr ch
@@ -1320,7 +1332,7 @@
 
 \+expRTF Texte total (maison)
 \dotFile C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\2011-texts.dot
-\exportedFile C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\Exports\AlexFrancois_Gaua-Stories_MRL_01.rtf
+\exportedFile C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\Exports\Koltamat.rtf
 \InterlinearSpaceAligned
 \+mkrsubsetIncluded 
 \mkr ch
@@ -1330,6 +1342,7 @@
 \mkr lg
 \mkr pc
 \mkr te
+\mkr tf
 \mkr ti
 \mkr tiv
 \mkr tv
@@ -1350,8 +1363,8 @@
 \-expRTF
 
 \+expRTF Traduc anglais
-\dotFile C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\Conte Gaua.dot
-\exportedFile C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\Exports\AlexFrancois_Gaua-Stories_trad.rtf
+\dotFile C:\Alex\a_Dropbox\Dropbox\Linguistics\a_Dropbox\Dropbox\Linguistics\Toolbox\Conte Gaua.dot
+\exportedFile C:\Alex\a_Dropbox\Dropbox\Linguistics\a_Dropbox\Dropbox\Linguistics\Toolbox\Exports\Contes-Gaua.rtf
 \InterlinearSpacing 120
 \+mkrsubsetIncluded 
 \mkr ai
@@ -1365,32 +1378,6 @@
 \mkr sum
 \mkr ta
 \mkr te
-\mkr ti
-\mkr tiv
-\-mkrsubsetIncluded
-\+rtfPageSetup 
-\paperSize A4
-\topMargin 3.2
-\bottomMargin 3.2
-\leftMargin 3
-\rightMargin 3
-\gutter 0
-\headerToEdge 1.27
-\footerToEdge 1.27
-\FirstPage
-\columns 1
-\columnSpacing 1.27
-\-rtfPageSetup
-\-expRTF
-
-\+expRTF Traduc fçs (maison)
-\dotFile \\WELAN\Alex-welan\a_DrobBox\My Dropbox\Linguistics\a_DropBox\My Dropbox\Linguistics\a_DropBox\My Dropbox\Linguistics\Toolbox\Conte Gaua.dot
-\exportedFile \\WELAN\Alex-welan\a_DrobBox\My Dropbox\Linguistics\a_DropBox\My Dropbox\Linguistics\a_DropBox\My Dropbox\Linguistics\Toolbox\Exported texts\Mere-olrat.rtf
-\InterlinearSpacing 120
-\+mkrsubsetIncluded 
-\mkr ch
-\mkr if
-\mkr pc
 \mkr tf
 \mkr ti
 \mkr tiv
@@ -1410,9 +1397,35 @@
 \-rtfPageSetup
 \-expRTF
 
+\+expRTF Traduc fçs (maison)
+\dotFile C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\Conte Gaua.dot
+\exportedFile C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\Exports\histoire.rtf
+\InterlinearSpacing 120
+\+mkrsubsetIncluded 
+\mkr ch
+\mkr if
+\mkr pc
+\mkr tf
+\mkr ti
+\-mkrsubsetIncluded
+\+rtfPageSetup 
+\paperSize A4
+\topMargin 3.2
+\bottomMargin 3.2
+\leftMargin 3
+\rightMargin 3
+\gutter 0
+\headerToEdge 1.27
+\footerToEdge 1.27
+\FirstPage
+\columns 1
+\columnSpacing 1.27
+\-rtfPageSetup
+\-expRTF
+
 \+expXML XML avec audio pour Pangloss
 \UTF8
-\exportedFile C:\Alex\a_Dropbox\Dropbox\Linguistics\My-languages\Archivage\ARCHIVAGE\Projet_Textes_Pangloss\Synchronisation\4_reTBX-to-reXML\b_Fichier-XML_pour-Pangloss\AF_Gaua-pangloss.xml
+\exportedFile C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\Exports\Koltamat.xml
 \DontCheckConsistency
 \+mkrsubsetIncluded 
 \mkr AUDbegin
@@ -1435,7 +1448,7 @@
 
 \+expXML XML-Metadata
 \UTF8
-\exportedFile C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\Exports\AlexF_Qat-test.xml
+\exportedFile C:\Alex\a_Dropbox\Dropbox\Linguistics\a_Dropbox\Dropbox\Linguistics\a_Dropbox\Dropbox\Linguistics\Toolbox\Exports\AlexF_Qat-test.xml
 \+mkrsubsetIncluded 
 \mkr ai
 \mkr cd
@@ -1473,7 +1486,7 @@
 
 \+expXML XML-pour-Soundindex
 \UTF8
-\exportedFile C:\Alex\a_Dropbox\Dropbox\Linguistics\My-languages\Archivage\ARCHIVAGE\Synchronisation\1_Toolbox_To_XML\1_Fichiers_Tbx\nordBanks_14textes.xml
+\exportedFile C:\Alex\a_Dropbox\Dropbox\Linguistics\a_Dropbox\Dropbox\Linguistics\a_Dropbox\Dropbox\Linguistics\My-languages\Archivage\ARCHIVAGE\Synchronisation\1_Toolbox_To_XML\1_Fichiers_Tbx\nordBanks_14textes.xml
 \+mkrsubsetIncluded 
 \mkr br
 \mkr ch
@@ -1500,8 +1513,8 @@
 \-expXML
 
 \+expRTF juste titres
-\dotFile C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\TradTxtShbx.dot
-\exportedFile C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\Exports\titres_Gaua.rtf
+\dotFile C:\Alex\a_Dropbox\Dropbox\Linguistics\a_Dropbox\Dropbox\Linguistics\a_Dropbox\Dropbox\Linguistics\Toolbox\TradTxtShbx.dot
+\exportedFile C:\Alex\a_Dropbox\Dropbox\Linguistics\a_Dropbox\Dropbox\Linguistics\a_Dropbox\Dropbox\Linguistics\Toolbox\Exports\titres_Gaua.rtf
 \InterlinearSpacing 120
 \+mkrsubsetIncluded 
 \mkr if
@@ -1528,7 +1541,7 @@
 \-expRTF
 
 \expDefault XML avec audio pour Pangloss
-\CurrentWindow
+\CurrentRecord
 \AutoOpen
 \SkipProperties
 \-expset
@@ -1541,5 +1554,5 @@
 \-mkrsubsetIncluded
 \-subsetTextBreakMarkers
 \-numbering
-\PlaySoundPath C:\Alex\a_Dropbox\Dropbox\Linguistics\Toolbox\AUDIO\
+\PlaySoundPath C:\Alex\a_Dropbox\Dropbox\Archives-terrain\CAHIERS\AlexFrancois_Scans-Cahiers-terrain\AF-Grand\
 \-DatabaseType
