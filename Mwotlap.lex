@@ -28436,11 +28436,16 @@ out of a secret
 \xe les femmes
 \rm P5-30
 \xm Tog matmatbē van hiy ige lōqōvēn...
+\xf
+\xa
+\rm Mtp.Edga-Kava.04
+\xm Mey na-tm̄an na-tam mey na-lqōvēn, wa tō– mey na-lqōvēn na-tam mey na-tm̄an.
+\xf Le mari était très amoureux de sa femme, et la femme était très amoureuse de son mari.
 \nt
 \nq
 \dc 23/Oct/2003
 \dc 31/Mar/2007
-\dt 28/Mar/2010
+\dt 11/Jan/2016
 
 \lx lōs
 \ph lʊs
