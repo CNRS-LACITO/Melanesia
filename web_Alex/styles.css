@@ -25,17 +25,17 @@
 /* Styles for dictionaries layout */
 .lexeme {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	font-size: 14px;
+	font-size: 18px;
 	font-style: normal;
 	line-height: normal;
 	font-weight: bold;
 	font-variant: normal;
 	text-transform: none;
-	color: #936;
+	color: #600;
 }
 .part_of_speech {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	font-size: 12px;
+	font-size: 14px;
 	font-style: normal;
 	line-height: normal;
 	font-weight: normal;
@@ -47,7 +47,7 @@
 	font-size: 12px;
 	font-style: normal;
 	line-height: normal;
-	font-weight: normal;
+	font-weight: bolder;
 	font-variant: normal;
 	text-transform: none;
 	color: #936;
@@ -77,17 +77,17 @@
 	font-size: 12px;
 	font-style: italic;
 	line-height: normal;
-	font-weight: normal;
+	font-weight: bold;
 	font-variant: normal;
 	text-transform: none;
 	color: #000;
 }
 .eng {
-	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	font-size: 12px;
+	font-family: "Verdana", "Lucida Grande", sans-serif;
+	font-size: 13px;
 	font-style: normal;
 	line-height: normal;
-	font-weight: normal;
+	font-weight: bold;
 	font-variant: normal;
 	text-transform: none;
 	color: #039;
@@ -103,23 +103,23 @@
 	color: #996;
 }
 .ipa {
-	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-family: "DejaVu Serif Condensed", "Lucida Grande", sans-serif;
 	font-size: 12px;
 	font-style: normal;
 	line-height: normal;
-	font-weight: normal;
+	font-weight: bold;
 	font-variant: normal;
 	text-transform: none;
 	color: inherit;
 }
 .sc {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	font-size: 12px;
+	font-size: 13px;
 	font-style: normal;
 	line-height: normal;
-	font-weight: normal;
+	font-weight: bolder;
 	font-variant: small-caps;
-	color: inherit;
+	color: darkblue;
 }
 /* Style for comparable corpus layout */
 
@@ -169,7 +169,7 @@ color:#0E3263;
 color:#2E6398;
 	text-align:left;
 	font-weight: bold;
-	font-size:12px;
+	font-size:13px;
 	display:inline;
 }
 .translation_fr {
