@@ -26,7 +26,7 @@
         <xsl:attribute name="bgcolor">#FFFFFF</xsl:attribute>
         <xsl:for-each select="//rules/rule[floor(@rank) = number($rank)]">
           <xsl:element name="a">
-            <xsl:attribute name="href">ViewOneCharacter.php?dict=<xsl:value-of select="$dict"
+            <xsl:attribute name="href">ViewOneCharacter.php5?dict=<xsl:value-of select="$dict"
                 />&amp;lang1=<xsl:value-of select="$lang1"/>&amp;lang2=<xsl:value-of select="$lang2"
                 />&amp;langn=<xsl:value-of select="$langn"/>&amp;char=<xsl:value-of select="./@str"
               /></xsl:attribute>

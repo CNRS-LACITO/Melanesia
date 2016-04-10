@@ -13,7 +13,7 @@
       <body>
         <xsl:text>Please select dictionary languages: </xsl:text>
         <xsl:if test="$dict='mwotlap'">
-          <form id="form" name="form" action="ViewDictionary.php">
+          <form id="form" name="form" action="ViewDictionary.php5">
             <p>
               <input type="checkbox" name="lang1" id="lang1" value="fra" checked="checked"/>
               <label for="lang1"> French</label>

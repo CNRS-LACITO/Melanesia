@@ -286,7 +286,7 @@
                   <xsl:if test="not(starts-with($targets, $char))">
                     <xsl:element name="a">
                       <xsl:attribute name="href">
-                        <xsl-text>ViewOneCharacter.php?dict=</xsl-text>
+                        <xsl-text>ViewOneCharacter.php5?dict=</xsl-text>
                         <xsl:value-of select="$dict"/>
                         <xsl:text>&amp;lang1=</xsl:text>
                         <xsl:value-of select="$lang1"/>
@@ -543,7 +543,7 @@
     <xsl:param name="file_format" select="''"/>
     <xsl:element name="a">
       <xsl:attribute name="href">
-        <xsl-text>PlayAudio.php?sound_url=</xsl-text>
+        <xsl-text>PlayAudio.php5?sound_url=</xsl-text>
         <xsl:value-of select="$sound_url"/>
         <xsl-text>&amp;file_format=</xsl-text>
         <xsl:value-of select="$file_format"/>
