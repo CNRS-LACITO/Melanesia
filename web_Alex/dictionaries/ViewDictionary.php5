@@ -75,7 +75,7 @@ a:active {
   </tr>
 </table>
 <!-- Body -->
-<table width="1200" height="700" align="center" class="fond">
+<table width="1200" height="700" align="center" class="fond" cellpadding="25">
   <tr> 
     <!-- Left menu -->
     <td width="100" height="700" align="left" valign="top"><p class="menu"><a href="index.htm">Presentation</a></p>

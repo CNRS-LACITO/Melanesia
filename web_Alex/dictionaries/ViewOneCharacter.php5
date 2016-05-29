@@ -17,8 +17,8 @@
     <?php
     		$dict = isset($_GET["dict"]) ? $_GET["dict"] : "*";
     		$lang1 = isset($_GET["lang1"]) ? $_GET["lang1"] : "*";
-				$lang2 = isset($_GET["lang2"]) ? $_GET["lang2"] : "*";
-				$langn = isset($_GET["langn"]) ? $_GET["langn"] : "*";
+			$lang2 = isset($_GET["lang2"]) ? $_GET["lang2"] : "*";
+			$langn = isset($_GET["langn"]) ? $_GET["langn"] : "*";
 
         	ViewAlphabet($dict, $lang1, $lang2, $langn);
 
@@ -29,8 +29,8 @@
         	    $xsl->load('ShowAlphabetMenu.xsl');
         	    $xp->setParameter('', 'dict', $dict);
         	    $xp->setParameter('', 'lang1', $lang1);
-							$xp->setParameter('', 'lang2', $lang2);
-							$xp->setParameter('', 'langn', $langn);
+				$xp->setParameter('', 'lang2', $lang2);
+				$xp->setParameter('', 'langn', $langn);
 
         		// import the XSL styelsheet into the XSLT process
 		        $xp->importStylesheet($xsl);
@@ -51,7 +51,7 @@
 </table>
 
 <!-- Body -->
-<table width="1200" height="700" align="center" class="fond">
+<table width="1200" height="700" align="center" class="fond" cellpadding="25">
   <tr> 
     <!-- Left menu -->
     <td width="100" height="700" align="left" valign="top"><p class="menu"><a href="index.htm">Presentation</a></p>
@@ -73,8 +73,8 @@
             		$xsl->load('ShowOneCharacter.xsl');
     		        $xp->setParameter('', 'dict', $dict);
             		$xp->setParameter('', 'lang1', $lang1);
-								$xp->setParameter('', 'lang2', $lang2);
-								$xp->setParameter('', 'langn', $langn);
+					$xp->setParameter('', 'lang2', $lang2);
+					$xp->setParameter('', 'langn', $langn);
     		        $xp->setParameter('', 'char', $char);
     
             		// import the XSL styelsheet into the XSLT process
@@ -98,4 +98,14 @@
 </table>
 
 <!-- Footer --> 
+<!-- Start of StatCounter Code (20/11/2005) -->
+<script type="text/javascript" language="javascript">
+var sc_project=1001632;
+var sc_invisible=1;
+var sc_partition=9;
+var sc_security="a7ef4667";
+</script>
+
+<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/frames.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img src="http://c10.statcounter.com/counter.php?sc_project=1001632&amp;java=0&amp;security=a7ef4667&amp;invisible=0" alt="free hit counter script" border="0" /></a> </noscript>
+<!-- End of StatCounter Code -->
 
