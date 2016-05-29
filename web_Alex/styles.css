@@ -1,14 +1,18 @@
 @charset "UTF-8";
 /* Styles for general presentation */
+body {
+	font-family: "DejaVu Serif Condensed", "Charis SIL", "Charis SIL Compact", "Lucida Grande", serif;
+	font-style: normal;
+	font-size:12px;
+}
 .menu {
 	font-family: Verdana, Geneva, sans-serif;
-	font-size: 11px;
+	font-size: 14px;
 	font-style: normal;
 	font-weight: bold;
-	color:#630
+	color:#630;
 }
 .titre {
-	font-family: Verdana, Geneva, sans-serif;
 	font-size: 24px;
 	font-style: normal;
 	font-weight: bold;
@@ -24,27 +28,66 @@
 }
 /* Styles for dictionaries layout */
 .lexeme {
-	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	font-size: 18px;
+	font-family: "Segoe UI", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	line-height: 30px;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #630;
+}
+.lexindex {
+	font-family: "Segoe UI", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 17px;
 	font-style: normal;
 	line-height: normal;
-	font-weight: bold;
+	font-weight: 800;
 	font-variant: normal;
 	text-transform: none;
 	color: #600;
 }
-.part_of_speech {
-	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	font-size: 14px;
+.p_lex {
+	line-height: normal;
+	margin-left: 40px;
+	text-indent: -40px;
+	}
+.subentry {
+	line-height: normal;
+	margin-left: 40px;
+	text-indent: 0px;
+	}
+.char_sn {
+	font-family: "Segoe UI", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 16px;
 	font-style: normal;
 	line-height: normal;
-	font-weight: normal;
+	font-weight: 800;
+	font-variant: normal;
+	text-transform: none;
+	color: #600;
+	}
+.p_sn {
+	line-height:inherit;
+	margin-left: 40px;
+	text-indent: -25px;
+	}
+.part_of_speech {
+	font-family: "Segoe UI", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
 	font-variant: small-caps;
 	color: #099;
 }
+.p_etym {
+	line-height: normal;
+	text-align:right;
+	}
 .vernacular {
-	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	font-size: 12px;
+	font-family: "Segoe UI", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 16px;
 	font-style: normal;
 	line-height: normal;
 	font-weight: bolder;
@@ -54,7 +97,7 @@
 }
 .national {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	font-size: 12px;
+	font-size: 15px;
 	font-style: normal;
 	line-height: normal;
 	font-weight: normal;
@@ -64,7 +107,7 @@
 }
 .regional {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	font-size: 12px;
+	font-size: 14px;
 	font-style: normal;
 	line-height: normal;
 	font-weight: normal;
@@ -72,25 +115,45 @@
 	text-transform: none;
 	color: #000;
 }
-.fra {
-	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	font-size: 12px;
-	font-style: italic;
+.ex_lg1 {
+	font-family:"Palatino Linotype", Georgia, Palatino, "Book Antiqua", serif;
+	font-size:16px;
 	line-height: normal;
-	font-weight: bold;
 	font-variant: normal;
 	text-transform: none;
-	color: #000;
+	color:#000;
 }
-.eng {
-	font-family: "Verdana", "Lucida Grande", sans-serif;
-	font-size: 13px;
+.ex_lg2 {
+	font-family:"Palatino Linotype", Georgia, Palatino, "Book Antiqua", serif;
+	font-size:16px;
 	font-style: normal;
 	line-height: normal;
-	font-weight: bold;
+	font-variant: normal;
+	color: #009;
+}
+.fra {
+	font-family:"Palatino Linotype", Georgia, Palatino, "Book Antiqua", serif;
+	font-size:19px;
+	line-height: normal;
 	font-variant: normal;
 	text-transform: none;
-	color: #039;
+	color:#000;
+}
+.eng {
+	font-family:"Palatino Linotype", Georgia, Palatino, "Book Antiqua", serif;
+	font-size:19px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	color: #009;
+}
+.eng_s {
+	font-family:"Palatino Linotype", Georgia, Palatino, "Book Antiqua", serif;
+	font-size:15px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	color: #009;
 }
 .pinyin {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
@@ -102,24 +165,38 @@
 	text-transform: none;
 	color: #996;
 }
-.ipa {
-	font-family: "DejaVu Serif Condensed", "Lucida Grande", sans-serif;
-	font-size: 12px;
+.hmlt {
+	font-size: 20px;
 	font-style: normal;
 	line-height: normal;
-	font-weight: bold;
+	font-weight:normal;
+	color:#009;
+}
+.ipa {
+	font-family: "DejaVu Serif Condensed", "Charis SIL", "Charis SIL Compact", "Lucida Grande", serif;
+	font-size: 18px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: 750;
 	font-variant: normal;
 	text-transform: none;
 	color: inherit;
 }
 .sc {
+	font-size: 18px;
+	font-style: normal;
+	line-height: normal;
+	font-weight:bold;
+	color: #00C;
+}
+.sd {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size: 13px;
 	font-style: normal;
 	line-height: normal;
-	font-weight: bolder;
+	font-weight:normal;
 	font-variant: small-caps;
-	color: darkblue;
+	color:#663;
 }
 /* Style for comparable corpus layout */
 
