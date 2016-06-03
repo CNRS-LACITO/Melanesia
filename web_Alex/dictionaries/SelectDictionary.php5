@@ -55,7 +55,7 @@ a:active {
 	                   	$xsl->load('SelectDictionary.xsl');
                 		$xp->setParameter('', 'dict', $dict);
 
-                		// import the XSL styelsheet into the XSLT process
+                		// import the XSL stylesheet into the XSLT process
                 		$xp->importStylesheet($xsl);
 
                 		// create a DOM document and load the XML data

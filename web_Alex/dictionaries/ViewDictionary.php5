@@ -99,7 +99,7 @@ a:active {
 										$xp->setParameter('', 'lang2', $lang2);
 										$xp->setParameter('', 'langn', $langn);
 
-                		// import the XSL styelsheet into the XSLT process
+                		// import the XSL stylesheet into the XSLT process
                 		$xp->importStylesheet($xsl);
 
                 		// create a DOM document and load the XML data
