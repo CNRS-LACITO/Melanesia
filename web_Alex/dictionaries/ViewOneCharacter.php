@@ -29,8 +29,8 @@
         	    $xsl->load('ShowAlphabetMenu.xsl');
         	    $xp->setParameter('', 'dict', $dict);
         	    $xp->setParameter('', 'lang1', $lang1);
-							$xp->setParameter('', 'lang2', $lang1);
-							$xp->setParameter('', 'langn', $lang1);
+							$xp->setParameter('', 'lang2', $lang2);
+							$xp->setParameter('', 'langn', $langn);
 
         		// import the XSL styelsheet into the XSLT process
 		        $xp->importStylesheet($xsl);
