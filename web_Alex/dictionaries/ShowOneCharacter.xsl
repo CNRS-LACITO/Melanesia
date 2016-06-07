@@ -493,40 +493,23 @@
     <xsl:if
           test="./Definition/Statement/feat[@att='scientificName']//@val">
         <span class="sc">
+          <xsl:element name="a">
+            <xsl:attribute name="href">
+              http://www.google.com/search?q=
           <xsl:call-template name="get">
             <xsl:with-param name="value"
               select="./Definition/Statement/feat[@att='scientificName']//@val"/>
           </xsl:call-template>
+            </xsl:attribute>
+            <xsl:attribute name="target">_blank</xsl:attribute>
+            <xsl:call-template name="get">
+              <xsl:with-param name="value"
+                select="./Definition/Statement/feat[@att='scientificName']//@val"/>
+            </xsl:call-template>
+          </xsl:element>
         </span>
-	  <xsl:text>.</xsl:text><!--Alex-->
-      </xsl:if>
-    <!-- Display scientific name + Alex essaie d'ajouter lien google-->
-           <!--xsl:call-template name="get">
-           <xsl:with-param name="value"
-                      select="./Definition/Statement/feat[@att='scientificName']//@val"/> 
-      <xsl:if
-          test="./Definition/Statement/feat[@att='scientificName']//@val">
-           <span class="sc">
-               <xsl:element name="a">
-                  <xsl:attribute name="href">
-                    <xsl-text>https://www.google.com/search?as_st=y&amp;tbm=isch&amp;hl=en&amp;safe=images&amp;as_q=</xsl-text>
-                                      
-                <xsl:value-of
-                  select="substring(./a//@href, 1, string-length(./a//@href) - 1)"/>
-   	     	      </xsl:attribute>
-              	  <xsl:attribute name="target">_blank</xsl:attribute>
-      
-                <xsl:value-of
-                      select="./Definition/Statement/feat[@att='scientificName']//@val"/>
-                
-                </xsl:element>
-
-         </span>
 	  <xsl:text>.</xsl:text>
-
-      </xsl:if>
-         </xsl:call-template-->
-         
+      </xsl:if>         
     <!-- Display notes -->
       <xsl:if
         test="./Definition/Statement/feat[@att='language' and @val=$lang1]//ancestor::Statement/feat[@att='encyclopedicInformation']">
