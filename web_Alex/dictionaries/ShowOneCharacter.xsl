@@ -264,14 +264,14 @@
               </xsl:if>
             </xsl:if>
             <!-- subentry -->
-            <xsl:if test="./feat[@att='semanticRelation' and @val='subentry']">
+            <xsl:if test="./feat[@att='semanticRelation' and (@val='subentry' or @val='main entry')]">
               <xsl:element name="p">
                 <xsl:attribute name="class">subentry</xsl:attribute>
                 <xsl:text>&#9658; </xsl:text>
                 <!-- Insert link -->
                 <xsl:choose>
                   <xsl:when
-                    test="./feat[@att='semanticRelation' and (@val='simple link' or @val='synonym' or @val='antonym' or @val='subentry')]">
+                    test="./feat[@att='semanticRelation' and (@val='simple link' or @val='synonym' or @val='antonym' or @val='subentry' or @val='main entry')]">
                     <xsl:if test="./a//@href">
                       <xsl:variable name="targets" select="./a[@href][1]"/>
                       <!-- Local link -->
