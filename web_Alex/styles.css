@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* Styles for general presentation */
 body {
-	font-family: "DejaVu Serif Condensed", "Charis SIL", "Charis SIL Compact", "Lucida Grande", serif;
+	font-family: "Chaparral Pro", "DejaVu Serif Condensed", "Charis SIL", "Charis SIL Compact", "Lucida Grande", serif;
 	font-style: normal;
 	font-size:12px;
 }
@@ -16,6 +16,10 @@ body {
 	font-size: 24px;
 	font-style: normal;
 	font-weight: bold;
+}
+.intro {
+	font-size: 17px;
+	font-style: normal;
 }
 .fond {
 	background-color: #FC9;
@@ -53,7 +57,7 @@ body {
 	text-indent: -40px;
 	}
 .subentry {
-	line-height: normal;
+	line-height: 0.9;
 	margin-left: 40px;
 	text-indent: 0px;
 	}
@@ -95,28 +99,78 @@ body {
 	text-transform: none;
 	color: #936;
 }
+.vernac_noklik {
+	font-family: "Segoe UI", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 16px;
+	font-weight:500;
+	color:#666;
+}
 .national {
-	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size: 15px;
 	font-style: normal;
 	line-height: normal;
 	font-weight: normal;
 	font-variant: normal;
 	text-transform: none;
-	color: #996;
+	color:#633;
 }
 .regional {
-	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	font-size: 14px;
-	font-style: normal;
+	font-style: inherit;
+	line-height: inherit;
+	font-variant: inherit;
+	text-decoration: underline;
+	color: inherit;
+}
+.fra {
+	font-family:"Chaparral Pro", "Palatino Linotype", Georgia, Palatino, "Book Antiqua", serif;
 	line-height: normal;
-	font-weight: normal;
 	font-variant: normal;
 	text-transform: none;
-	color: #000;
+	color:#000;
+}
+.com_fra {
+	font-size:15px;
+	line-height: normal;
+	font-variant: normal;
+	text-transform: none;
+	color:#333;
+}
+.com_eng {
+	font-size:15px;
+	line-height: normal;
+	font-variant: normal;
+	font-style:italic;
+	color:#009;
+}
+.eng {
+	font-family:"Calibri", "Book Antiqua", "Palatino Linotype", Palatino, Georgia, serif;
+	font-style:italic;
+	line-height: normal;
+	font-variant: normal;
+	color: #009;
+}
+.def1 {
+	font-size:18px;
+	font-variant: normal;
+	font-weight:500;
+	color:#000;
+}
+.def2 {
+	font-size:17px;
+	line-height: normal;
+	font-weight:500;
+	color:#009;
+}
+.eng_s {
+	font-family:"Calibri", "Palatino Linotype", Palatino, Georgia, serif;
+	font-size:15px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	color: #009;
 }
 .ex_lg1 {
-	font-family:"Palatino Linotype", Georgia, Palatino, "Book Antiqua", serif;
+	font-family:"Chaparral Pro", "Palatino Linotype", Georgia, Palatino, "Book Antiqua", serif;
 	font-size:16px;
 	line-height: normal;
 	font-variant: normal;
@@ -124,46 +178,12 @@ body {
 	color:#000;
 }
 .ex_lg2 {
-	font-family:"Palatino Linotype", Georgia, Palatino, "Book Antiqua", serif;
+	font-family:Calibri, "Book Antiqua", "Palatino Linotype", Palatino, Georgia, sans-serif;
 	font-size:16px;
 	font-style: normal;
 	line-height: normal;
 	font-variant: normal;
 	color: #009;
-}
-.fra {
-	font-family:"Palatino Linotype", Georgia, Palatino, "Book Antiqua", serif;
-	font-size:19px;
-	line-height: normal;
-	font-variant: normal;
-	text-transform: none;
-	color:#000;
-}
-.eng {
-	font-family:"Palatino Linotype", Georgia, Palatino, "Book Antiqua", serif;
-	font-size:19px;
-	font-style: normal;
-	line-height: normal;
-	font-variant: normal;
-	color: #009;
-}
-.eng_s {
-	font-family:"Palatino Linotype", Georgia, Palatino, "Book Antiqua", serif;
-	font-size:15px;
-	font-style: normal;
-	line-height: normal;
-	font-variant: normal;
-	color: #009;
-}
-.pinyin {
-	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	font-size: 12px;
-	font-style: normal;
-	line-height: normal;
-	font-weight: normal;
-	font-variant: normal;
-	text-transform: none;
-	color: #996;
 }
 .hmlt {
 	font-size: 20px;
@@ -183,11 +203,12 @@ body {
 	color: inherit;
 }
 .sc {
+	font-family: "DejaVu Serif Condensed", "Cambria", "Charis SIL Compact", "Lucida Grande", serif;
 	font-size: 18px;
 	font-style: normal;
 	line-height: normal;
 	font-weight:bold;
-	color: #00C;
+	color:#00F;
 }
 .sd {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
@@ -196,7 +217,17 @@ body {
 	line-height: normal;
 	font-weight:normal;
 	font-variant: small-caps;
-	color:#663;
+	color:#660;
+}
+.pinyin {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #996;
 }
 /* Style for comparable corpus layout */
 
