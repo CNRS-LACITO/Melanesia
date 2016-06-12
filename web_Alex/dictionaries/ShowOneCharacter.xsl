@@ -16,11 +16,9 @@
         <style type="text/css">
           a:link{
               text-decoration:none;
-              color:#630;
           }
           a:visited{
               text-decoration:none;
-              color:#630;
           }
           a:hover{
               text-decoration:underline;
@@ -232,9 +230,20 @@
           <!-- TODO lexical functions -->
           <!-- Cross references -->
           <xsl:for-each select="./RelatedForm">
+            <!--xsl:if test="./feat[@att='semanticRelation' and (@val='subentry' or @val='main entry')]"-->
+            <!--Alex fait apparaître les Cf etc.-->
+            <xsl:if test="./feat[@att='semanticRelation']">
+              <xsl:element name="p">
+                <xsl:attribute name="class">subentry</xsl:attribute>
+   		         <xsl:if test="./feat[@att='semanticRelation' and (@val='subentry' or @val='main entry')]">
+            	    <xsl:text>&#9658; </xsl:text>
+                 </xsl:if>
+   		         <xsl:if test="not(./feat[@att='semanticRelation' and (@val='subentry' or @val='main entry')])">
+            	    <xsl:text>&#9659; </xsl:text>
+                 </xsl:if>
             <!-- confer -->
             <xsl:if test="./feat[@att='semanticRelation' and @val='simple link']">
-              <i>Cf. </i>
+              <!--i>Cf. </i-->
             </xsl:if>
             <!-- synonym -->
             <xsl:if test="./feat[@att='semanticRelation' and @val='synonym']">
@@ -264,10 +273,6 @@
               </xsl:if>
             </xsl:if>
             <!-- subentry -->
-            <xsl:if test="./feat[@att='semanticRelation' and (@val='subentry' or @val='main entry')]">
-              <xsl:element name="p">
-                <xsl:attribute name="class">subentry</xsl:attribute>
-                <xsl:text>&#9658; </xsl:text>
                 <!-- Insert link -->
                 <xsl:choose>
                   <xsl:when
@@ -312,8 +317,14 @@
                     <xsl:text>	</xsl:text>
                   </xsl:when>
                 </xsl:choose>
-              </xsl:element>
-            </xsl:if>
+                <xsl:if test="not(./a//@href)">
+<!--TODO Alex-->
+                    <!--xsl:variable name="targets" select="./@targets"/-->
+					<span class="vernac_noklik">
+     	               <xsl:value-of select="./@targets"/>
+                       <xsl:text>	</xsl:text>
+                    </span>
+                </xsl:if>
             <!-- Link gloss -->
             <xsl:if test="./FormRepresentation/feat[@att='writtenForm']">
               <xsl:text>‘</xsl:text>
@@ -322,6 +333,8 @@
                   select="./FormRepresentation/feat[@att='writtenForm']//@val"/>
               </xsl:call-template>
               <xsl:text>’</xsl:text>
+            </xsl:if>
+              </xsl:element>
             </xsl:if>
           </xsl:for-each>
         </dt>
@@ -379,6 +392,7 @@
     <!--span class="$lang1"-->
     <span class="fra">
       <!-- Display semantics and restrictions -->
+     <span class="com_fra">
       <xsl:if
         test="./Definition/Statement/feat[@att='language' and @val=$lang1]//ancestor::Statement/feat[@att='noteType']//@val = 'semantics'">
         <xsl:text>(</xsl:text>
@@ -399,26 +413,40 @@
         </xsl:call-template>
         <xsl:text>] </xsl:text>
       </xsl:if>
+
       <!-- Display literal meaning -->
       <xsl:if
         test="./Definition/feat[@att='language' and @val=$lang1]//ancestor::Definition/feat[@att='literally']//@val">
-        <i>lit. “</i>
+        <i>litt</i>. “
         <xsl:call-template name="get">
           <xsl:with-param name="value"
             select="./Definition/feat[@att='language' and @val=$lang1]//ancestor::Definition/feat[@att='literally']//@val"
           />
         </xsl:call-template>
-        <i>”</i>
+        ”
         <xsl:text> : </xsl:text>
       </xsl:if>
+      </span>
       <!-- Display definition -->
+	  <xsl:if test="not(./Definition/feat[@att='language' and @val=$lang1]//ancestor::Definition/feat[@att='definition']//@val) and (./Definition/feat[@att='language' and @val=$lang1]//ancestor::Definition/feat[@att='gloss']//@val)">
+		<span class="def1">
+        <xsl:call-template name="get">
+		  <xsl:with-param name="value"
+		    select="./Definition/feat[@att='language' and @val=$lang1]//ancestor::Definition/feat[@att='gloss']//@val"
+		  />
+		</xsl:call-template>
+        </span>
+        <xsl:text> ∙ </xsl:text>
+	  </xsl:if>
       <xsl:if
         test="./Definition/feat[@att='language' and @val=$lang1]//ancestor::Definition/feat[@att='definition']//@val">
+		<span class="def1">
         <xsl:call-template name="get">
           <xsl:with-param name="value"
             select="./Definition/feat[@att='language' and @val=$lang1]//ancestor::Definition/feat[@att='definition']//@val"
           />
         </xsl:call-template>
+        </span>
         <xsl:text> ∙ </xsl:text>
       </xsl:if>
     </span>
@@ -429,11 +457,13 @@
       <xsl:if
         test="./Definition/Statement/feat[@att='language' and @val=$lang2]//ancestor::Statement/feat[@att='noteType']//@val = 'semantics'">
         <xsl:text>(</xsl:text>
+        <span class="com_eng">
         <xsl:call-template name="get">
           <xsl:with-param name="value"
             select="./Definition/Statement/feat[@att='language' and @val=$lang2]//ancestor::Statement/feat[@att='noteType' and @val='semantics']//ancestor::Statement/feat[@att='note']//@val"
           />
         </xsl:call-template>
+        </span>
         <xsl:text>) </xsl:text>
       </xsl:if>
       <xsl:if
@@ -459,15 +489,25 @@
         <xsl:text> : </xsl:text>
       </xsl:if>
       <!-- Display definition -->
+        <xsl:if test="not(./Definition/feat[@att='language' and @val=$lang2]//ancestor::Definition/feat[@att='definition']//@val) and (./Definition/feat[@att='language' and @val=$lang2]//ancestor::Definition/feat[@att='gloss']//@val)">
+            <span class="def2">
+                <xsl:call-template name="get">
+                  <xsl:with-param name="value"
+                    select="./Definition/feat[@att='language' and @val=$lang2]//ancestor::Definition/feat[@att='gloss']//@val"
+                  />
+                </xsl:call-template>
+            </span>
+        <xsl:text>. </xsl:text>
+	  </xsl:if>
       <xsl:if
         test="./Definition/feat[@att='language' and @val=$lang2]//ancestor::Definition/feat[@att='definition']//@val">
-        <i>
-          <xsl:call-template name="get">
-            <xsl:with-param name="value"
-              select="./Definition/feat[@att='language' and @val=$lang2]//ancestor::Definition/feat[@att='definition']//@val"
-            />
-          </xsl:call-template>
-        </i>
+            <span class="def2">
+              <xsl:call-template name="get">
+                <xsl:with-param name="value"
+                  select="./Definition/feat[@att='language' and @val=$lang2]//ancestor::Definition/feat[@att='definition']//@val"
+                />
+              </xsl:call-template>
+            </span>
         <xsl:text>. </xsl:text>
       </xsl:if>
     </span>
@@ -475,10 +515,11 @@
     <xsl:if test="./Definition/Statement/feat[@att='scientificName']//@val">
       <span class="sc">
         <xsl:element name="a">
-          <xsl:attribute name="href"> http://www.google.com/search?q= <xsl:call-template name="get">
+          <xsl:attribute name="href">https://www.google.com/search?as_st=y&amp;tbm=isch&amp;hl=en&amp;safe=images&amp;as_q=&quot;<xsl:call-template name="get">
               <xsl:with-param name="value"
                 select="./Definition/Statement/feat[@att='scientificName']//@val"/>
             </xsl:call-template>
+            <xsl:text>&quot;</xsl:text>
           </xsl:attribute>
           <xsl:attribute name="target">_blank</xsl:attribute>
           <xsl:call-template name="get">
