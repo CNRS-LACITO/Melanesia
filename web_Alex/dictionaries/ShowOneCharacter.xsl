@@ -81,6 +81,12 @@
           <xsl:call-template name="get">
             <xsl:with-param name="value" select="./Lemma/feat[@att='lexeme']//@val"/>
           </xsl:call-template>
+          <xsl:if test="./feat[@att='homonymNumber']//@val">
+            <!-- Display number as subscript -->
+            <sub>
+              <xsl:value-of select="./feat[@att='homonymNumber']//@val"/>
+            </sub>
+          </xsl:if>
         </xsl:element>
         <br/>
       </xsl:if>
@@ -97,6 +103,15 @@
                 <xsl:value-of select="./@id"/>
               </xsl:attribute>
             </xsl:element>
+            <!-- Create another anchor with homonym number if any -->
+            <xsl:if test="./feat[@att='homonymNumber']//@val">
+              <xsl:element name="a">
+                <xsl:attribute name="name">
+                  <xsl:value-of select="./@id"/>
+                  <xsl:value-of select="./feat[@att='homonymNumber']//@val"/>
+              </xsl:attribute>
+            </xsl:element>
+            </xsl:if>
             <!-- Display lexeme -->
             <xsl:call-template name="get">
               <xsl:with-param name="value" select="./Lemma/feat[@att='lexeme']//@val"/>
@@ -285,7 +300,7 @@
                           <xsl:attribute name="href">
                             <xsl:text>#</xsl:text>
                             <xsl:value-of
-                              select="substring(./a//@href, 1, string-length(./a//@href) - 1)"/>
+                              select="./a//@href"/>
                           </xsl:attribute>
                           <xsl:attribute name="class">vernacular</xsl:attribute>
                           <xsl:value-of select="$targets"/>
@@ -307,7 +322,7 @@
                             <xsl:value-of select="substring($targets, 1, 1)"/>
                             <xsl:text>#</xsl:text>
                             <xsl:value-of
-                              select="substring(./a//@href, 1, string-length(./a//@href) - 1)"/>
+                              select="./a//@href"/>
                           </xsl:attribute>
                           <xsl:attribute name="class">vernacular</xsl:attribute>
                           <xsl:value-of select="$targets"/>
@@ -628,6 +643,9 @@
         <xsl:copy-of select="$value/../node()"/>
       </xsl:when>
       <xsl:when test="$value/../sub">
+        <xsl:copy-of select="$value/../node()"/>
+      </xsl:when>
+      <xsl:when test="$value/../i">
         <xsl:copy-of select="$value/../node()"/>
       </xsl:when>
       <xsl:otherwise>
