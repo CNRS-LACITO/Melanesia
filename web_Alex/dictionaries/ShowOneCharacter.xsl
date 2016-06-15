@@ -401,7 +401,6 @@
       </dl>
     </xsl:if>
   </xsl:template>
-
   <xsl:template match="//Lexicon/LexicalEntry/Sense">
     <!-- 1st language -->
     <!--span class="$lang1"-->
@@ -581,7 +580,6 @@
       </span>
     </xsl:if>
   </xsl:template>
-
   <xsl:template match="//Lexicon/LexicalEntry/Sense/Context">
     <p/>
     <dd class="vernacular">
@@ -615,7 +613,6 @@
       </xsl:call-template>
     </dd>
   </xsl:template>
-
   <xsl:template name="play_audio">
     <xsl:param name="sound_url" select="''"/>
     <xsl:param name="file_format" select="''"/>
@@ -634,7 +631,6 @@
       <img height="14px" width="14px" src="../images/icones/sound1_bleu.jpg"/>
     </xsl:element>
   </xsl:template>
-
   <xsl:template name="get">
     <xsl:param name="value"/>
     <xsl:choose>
