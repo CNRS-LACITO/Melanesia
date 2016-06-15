@@ -333,8 +333,7 @@
                   </xsl:when>
                 </xsl:choose>
                 <xsl:if test="not(./a//@href)">
-<!--TODO Alex-->
-                    <!--xsl:variable name="targets" select="./@targets"/-->
+
 					<span class="vernac_noklik">
      	               <xsl:value-of select="./@targets"/>
                        <xsl:text>	</xsl:text>
