@@ -61,7 +61,13 @@ body {
 	margin-left: 40px;
 	text-indent: 0px;
 	}
+.p_sn {
+	line-height:inherit;
+	margin-left: 40px;
+	text-indent: -25px;
+	}
 .char_sn {
+/*  sense number */	
 	font-family: "Segoe UI", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size: 16px;
 	font-style: normal;
@@ -71,10 +77,43 @@ body {
 	text-transform: none;
 	color: #600;
 	}
-.p_sn {
-	line-height:inherit;
-	margin-left: 40px;
-	text-indent: -25px;
+.char_hm {
+/*  for character style "hm" */	
+	vertical-align: sub;
+    font-size: smaller;
+}
+.char_fl {
+/*  for character style "fl" */	
+	font-family: "Segoe UI", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 16px;
+	font-style:italic;
+	color:#003;
+	}
+.char_ax {
+/*  for character style "ax", smaller labels */	
+	font-family: "Segoe UI", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 14px;
+	font-style:normal;
+	color:#003;
+	}
+.char_vl {
+/*  for character style "vl", vernacular light */	
+	font-family: "Segoe UI", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 15px;
+	font-weight:700;
+	font-style:normal;
+	color:#936;
+	}
+.char_fr {
+/*  for character style "fr", font regional */	
+	font-size: 14px;
+	font-style:normal;
+	color:#003;
+	}
+.char_fs {
+/*  for character style "fs", font standard */	
+	font-size: 14px;
+	font-style:normal;
 	}
 .part_of_speech {
 	font-family: "Segoe UI", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
