@@ -121,24 +121,21 @@
           <xsl:if test="./feat[@att='homonymNumber']//@val">
             <xsl:choose>
               <xsl:when
-                test="number(./feat[@att='homonymNumber']//@val) = ./feat[@att='homonymNumber']//@val">
+                test="number(substring(./feat[@att='homonymNumber']//@val, 1, 1)) = substring(./feat[@att='homonymNumber']//@val, 1, 1)">
                 <!-- Display number as subscript -->
                 <sub>
-                  <xsl:value-of select="./feat[@att='homonymNumber']//@val"/>
+                  <xsl:value-of select="substring(./feat[@att='homonymNumber']//@val, 1, 1)"/>
                 </sub>
+                <!-- Display squared latin capital letter if any -->
+                <xsl:call-template name="square">
+                  <xsl:with-param name="letter" select="substring(./feat[@att='homonymNumber']//@val, 2, 1)"/>
+                </xsl:call-template>
               </xsl:when>
               <xsl:otherwise>
                 <!-- Display squared latin capital letter -->
-                <xsl:text> </xsl:text>
-                <span class="hmlt">
-                  <xsl:choose>
-                    <xsl:when test="./feat[@att='homonymNumber']//@val = 'A'">&#9398;</xsl:when>
-                    <xsl:when test="./feat[@att='homonymNumber']//@val = 'B'">&#9399;</xsl:when>
-                    <xsl:when test="./feat[@att='homonymNumber']//@val = 'C'">&#9400;</xsl:when>
-                    <xsl:when test="./feat[@att='homonymNumber']//@val = 'D'">&#9401;</xsl:when>
-                    <xsl:when test="./feat[@att='homonymNumber']//@val = 'E'">&#9402;</xsl:when>
-                  </xsl:choose>
-                </span>
+                <xsl:call-template name="square">
+                  <xsl:with-param name="letter" select="substring(./feat[@att='homonymNumber']//@val, 1, 1)"/>
+                </xsl:call-template>
               </xsl:otherwise>
             </xsl:choose>
           </xsl:if>
@@ -400,6 +397,22 @@
       </dl>
     </xsl:if>
   </xsl:template>
+
+<xsl:template name="square">
+  <xsl:param name="letter"/>
+  <!-- Display squared latin capital letter -->
+  <xsl:text> </xsl:text>
+  <span class="hmlt">
+    <xsl:choose>
+      <xsl:when test="$letter = 'A'">&#9398;</xsl:when>
+      <xsl:when test="$letter = 'B'">&#9399;</xsl:when>
+      <xsl:when test="$letter = 'C'">&#9400;</xsl:when>
+      <xsl:when test="$letter = 'D'">&#9401;</xsl:when>
+      <xsl:when test="$letter = 'E'">&#9402;</xsl:when>
+    </xsl:choose>
+  </span>
+</xsl:template>
+
   <xsl:template match="//Lexicon/LexicalEntry/Sense">
     <!-- 1st language -->
     <!--span class="$lang1"-->
