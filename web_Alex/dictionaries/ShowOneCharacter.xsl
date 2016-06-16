@@ -398,6 +398,22 @@
             <b>]</b>
           </p>
         </xsl:if>
+        <!-- Dipslay picture if any -->
+        <xsl:if test="./Lemma/FormRepresentation/Picture/feat[@att='fileName']">
+          <table width="200" height="50" align="center">
+            <tr>
+              <td align="center">
+                <xsl:element name="img">
+                  <xsl:attribute name="src">
+                    <xsl:value-of
+                      select="concat('../images/', ./Lemma/FormRepresentation/Picture/feat[@att='fileName']//@val)"
+                    />
+                  </xsl:attribute>
+                </xsl:element>
+              </td>
+            </tr>
+          </table>
+        </xsl:if>
       </dl>
     </xsl:if>
   </xsl:template>
