@@ -13,19 +13,6 @@
           <xsl:value-of select="//Lexicon/@id"/>
         </title>
         <link href="../styles.css" rel="stylesheet" type="text/css"/>
-        <style type="text/css">
-          a:link{
-              text-decoration:none;
-          }
-          a:visited{
-              text-decoration:none;
-          }
-          a:hover{
-              text-decoration:underline;
-          }
-          a:active{
-              text-decoration:none;
-          }</style>
       </head>
       <body>
         <!-- Create table -->
@@ -259,6 +246,7 @@
                   test="not(./feat[@att='semanticRelation' and (@val='subentry' or @val='main entry')])">
                   <xsl:text>&#9659; </xsl:text>
                 </xsl:if>
+                <span class="char_fl">
                 <!-- confer -->
                 <xsl:if test="./feat[@att='semanticRelation' and @val='simple link']">
                   <!--i>Cf. </i-->
@@ -290,6 +278,7 @@
                     <xsl:text>&#9659; </xsl:text>
                   </xsl:if>
                 </xsl:if>
+                </span>
                 <!-- subentry -->
                 <!-- Insert link -->
                 <xsl:choose>
@@ -304,7 +293,7 @@
                             <xsl:text>#</xsl:text>
                             <xsl:value-of select="./a//@href"/>
                           </xsl:attribute>
-                          <xsl:attribute name="class">vernacular</xsl:attribute>
+                          <xsl:attribute name="class">vern_link</xsl:attribute>
                           <xsl:value-of select="$targets"/>
                         </xsl:element>
                       </xsl:if>
@@ -325,7 +314,7 @@
                             <xsl:text>#</xsl:text>
                             <xsl:value-of select="./a//@href"/>
                           </xsl:attribute>
-                          <xsl:attribute name="class">vernacular</xsl:attribute>
+                          <xsl:attribute name="class">vern_link</xsl:attribute>
                           <xsl:value-of select="$targets"/>
                         </xsl:element>
                       </xsl:if>
@@ -409,6 +398,9 @@
                       <xsl:value-of
                         select="concat('../images/', ./Lemma/FormRepresentation/Picture/feat[@att='fileName']//@val)"
                       />
+                    </xsl:attribute>
+                    <xsl:attribute name="class">
+                    picture
                     </xsl:attribute>
                   </xsl:element>
                   <xsl:if

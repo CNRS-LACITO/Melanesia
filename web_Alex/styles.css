@@ -5,6 +5,18 @@ body {
 	font-style: normal;
 	font-size:12px;
 }
+a:link{
+  text-decoration:none;
+}
+a:visited{
+  text-decoration:none;
+}
+a:hover{
+  text-decoration:underline;
+}
+a:active{
+  text-decoration:none;
+}
 .menu {
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 14px;
@@ -115,6 +127,11 @@ body {
 	font-size: 14px;
 	font-style:normal;
 	}
+.char_fe {
+/*  for character style "fe", font english */	
+	font-size: 14px;
+	font-style:normal;
+	}	
 .part_of_speech {
 	font-family: "Segoe UI", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size: 16px;
@@ -137,6 +154,25 @@ body {
 	font-variant: normal;
 	text-transform: none;
 	color: #936;
+}
+.vern_link {
+	font-family: "Segoe UI", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bolder;
+	color:#63C;
+}
+.tb2 {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-color:#369;
+	padding:5;
+}
+th.tb2 {
+	background:#FFC;
 }
 .vernac_noklik {
 	font-family: "Segoe UI", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
@@ -258,6 +294,21 @@ body {
 	font-variant: small-caps;
 	color:#660;
 }
+figcaption {
+	font-family: "DejaVu Serif Condensed", "Cambria", "Charis SIL Compact", "Lucida Grande", serif;
+	font-size: 15px;
+	font-weight:bold;
+	line-height:110%;
+	color:#003;
+	margin-top: 10px;
+	padding-top: 10;
+}
+.picture {
+	border:"4";
+	border-color:#330;
+	width:300;
+	border-style: solid;
+	}
 .pinyin {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size: 12px;
