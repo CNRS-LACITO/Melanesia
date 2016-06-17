@@ -403,13 +403,23 @@
           <table width="200" height="50" align="center">
             <tr>
               <td align="center">
-                <xsl:element name="img">
-                  <xsl:attribute name="src">
-                    <xsl:value-of
-                      select="concat('../images/', ./Lemma/FormRepresentation/Picture/feat[@att='fileName']//@val)"
-                    />
-                  </xsl:attribute>
-                </xsl:element>
+                <figure>
+                  <xsl:element name="img">
+                    <xsl:attribute name="src">
+                      <xsl:value-of
+                        select="concat('../images/', ./Lemma/FormRepresentation/Picture/feat[@att='fileName']//@val)"
+                      />
+                    </xsl:attribute>
+                  </xsl:element>
+                  <xsl:if
+                    test="./Lemma/FormRepresentation/Picture/Statement/feat[@att='writtenForm']//@val">
+                    <figcaption>
+                      <xsl:value-of
+                        select="./Lemma/FormRepresentation/Picture/Statement/feat[@att='writtenForm']//@val"
+                      />
+                    </figcaption>
+                  </xsl:if>
+                </figure>
               </td>
             </tr>
           </table>
