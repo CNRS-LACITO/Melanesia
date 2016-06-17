@@ -393,16 +393,23 @@
             <tr>
               <td align="center">
                 <figure>
-                  <xsl:element name="img">
-                    <xsl:attribute name="src">
-                      <xsl:value-of
-                        select="concat('../images/', ./Lemma/FormRepresentation/Picture/feat[@att='fileName']//@val)"
-                      />
-                    </xsl:attribute>
-                    <xsl:attribute name="class">
-                    picture
-                    </xsl:attribute>
-                  </xsl:element>
+                  <xsl:element name="a">
+                    <xsl:attribute name="href"><xsl:value-of
+                            select="concat('../images/', ./Lemma/FormRepresentation/Picture/feat[@att='fileName']//@val)"
+                          />
+	         	    </xsl:attribute>
+	   	            <xsl:attribute name="target">_blank</xsl:attribute>                
+                      <xsl:element name="img">
+                        <xsl:attribute name="src">
+                          <xsl:value-of
+                            select="concat('../images/', ./Lemma/FormRepresentation/Picture/feat[@att='fileName']//@val)"
+                          />
+                        </xsl:attribute>
+                        <xsl:attribute name="class">
+                        picture
+                        </xsl:attribute>
+                      </xsl:element>
+                   </xsl:element>
                   <xsl:if
                     test="./Lemma/FormRepresentation/Picture/Statement/feat[@att='writtenForm']//@val">
                     <figcaption>

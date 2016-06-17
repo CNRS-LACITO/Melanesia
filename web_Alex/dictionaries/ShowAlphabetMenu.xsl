@@ -32,6 +32,7 @@
               /></xsl:attribute>
             <xsl:value-of select="./@str"/>
           </xsl:element>
+          <xsl:text> </xsl:text>
         </xsl:for-each>
       </xsl:element>
     </xsl:if>
