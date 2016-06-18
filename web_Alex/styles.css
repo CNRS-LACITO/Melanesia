@@ -18,7 +18,7 @@ a:active{
   text-decoration:none;
 }
 .menu {
-	font-family: Verdana, Geneva, sans-serif;
+	font-family: "Segoe UI", "Lucida Sans Unicode", sans-serif;
 	font-size: 14px;
 	font-style: normal;
 	font-weight: bold;
@@ -51,11 +51,11 @@ a:active{
 	font-weight: bold;
 	font-variant: normal;
 	text-transform: none;
-	color: #630;
+	color:#930;
 }
 .lexindex {
 	font-family: "Segoe UI", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	font-size: 17px;
+	font-size: 18px;
 	font-style: normal;
 	line-height: normal;
 	font-weight: 800;
@@ -84,29 +84,33 @@ a:active{
 	font-size: 16px;
 	font-style: normal;
 	line-height: normal;
-	font-weight: 800;
+	font-weight: normal;
 	font-variant: normal;
 	text-transform: none;
-	color: #600;
+	color:#663;
 	}
 .char_hm {
 /*  for character style "hm" */	
 	vertical-align: sub;
-    font-size: smaller;
+    font-size: 12px;
+	font-weight: bold;
+	color:#C30;
 }
 .char_fl {
 /*  for character style "fl" */	
 	font-family: "Segoe UI", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size: 16px;
+	font-weight: normal;
 	font-style:italic;
-	color:#003;
+	color:#333;
 	}
 .char_ax {
 /*  for character style "ax", smaller labels */	
 	font-family: "Segoe UI", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size: 14px;
+	font-weight: normal;
 	font-style:normal;
-	color:#003;
+	color:#333;
 	}
 .char_vl {
 /*  for character style "vl", vernacular light */	
@@ -132,6 +136,11 @@ a:active{
 	font-size: 14px;
 	font-style:normal;
 	}	
+.char_fi {
+/*  for character style "fi", font italic */	
+	font-style:italic;
+	color:green;
+	}
 .part_of_speech {
 	font-family: "Segoe UI", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size: 16px;
@@ -155,13 +164,28 @@ a:active{
 	text-transform: none;
 	color: #936;
 }
+.citation {
+	font-family: "Segoe UI", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bolder;
+	font-variant: normal;
+	text-transform: none;
+	color: red;
+}
 .vern_link {
 	font-family: "Segoe UI", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size: 16px;
 	font-style: normal;
 	line-height: normal;
 	font-weight: bolder;
-	color:#63C;
+	color:#930;
+}
+.symbol {
+	font-size: 15px;
+	font-weight: 500;
+	color:#000;
 }
 .tb2 {
 	border-top-width: 1px;
@@ -197,7 +221,7 @@ th.tb2 {
 	color: inherit;
 }
 .fra {
-	font-family:"Chaparral Pro", "Palatino Linotype", Georgia, Palatino, "Book Antiqua", serif;
+	font-family: Palatino, "Palatino Linotype", "Chaparral Pro", Georgia, "Book Antiqua", serif;
 	line-height: normal;
 	font-variant: normal;
 	text-transform: none;
@@ -217,6 +241,48 @@ th.tb2 {
 	font-style:italic;
 	color:#009;
 }
+.sbj_fr {
+	font-size:15px;
+	line-height: normal;
+	font-variant: normal;
+	text-transform: none;
+	color:red;
+}
+.sbj_en {
+	font-size:15px;
+	line-height: normal;
+	font-variant: normal;
+	font-style:italic;
+	color:green;
+}
+.synt_fr {
+	font-size:15px;
+	line-height: normal;
+	font-variant: normal;
+	text-transform: none;
+	color:red;
+}
+.synt_en {
+	font-size:15px;
+	line-height: normal;
+	font-variant: normal;
+	font-style:italic;
+	color:green;
+}
+.excom_fra {
+	font-size:15px;
+	line-height: normal;
+	font-variant: normal;
+	text-transform: none;
+	color:red;
+}
+.excom_eng {
+	font-size:15px;
+	line-height: normal;
+	font-variant: normal;
+	font-style:italic;
+	color:green;
+}
 .eng {
 	font-family:"Calibri", "Book Antiqua", "Palatino Linotype", Palatino, Georgia, serif;
 	font-style:italic;
@@ -227,7 +293,7 @@ th.tb2 {
 .def1 {
 	font-size:18px;
 	font-variant: normal;
-	font-weight:500;
+	font-weight:600;
 	color:#000;
 }
 .def2 {
@@ -260,12 +326,29 @@ th.tb2 {
 	font-variant: normal;
 	color: #009;
 }
+.protolg {
+	font-family:Calibri, "Book Antiqua", "Palatino Linotype", Palatino, Georgia, sans-serif;
+	font-size:16px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	color: red;
+}
+.hm_number {
+/*  for homonym number displayed with entry */	
+	font-family:Calibri, "Segoe UI", Arial, sans-serif;
+	vertical-align: sub;
+    font-size: inherit;
+	font-weight: 700;
+	color:#C30;
+}
 .hmlt {
+	/* homonym letter, displayed with entry */
 	font-size: 20px;
 	font-style: normal;
 	line-height: normal;
 	font-weight:normal;
-	color:#009;
+	color:#660;
 }
 .ipa {
 	font-family: "DejaVu Serif Condensed", "Charis SIL", "Charis SIL Compact", "Lucida Grande", serif;
@@ -286,11 +369,11 @@ th.tb2 {
 	color:#00F;
 }
 .sd {
-	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	font-size: 13px;
+	font-family:Calibri, "Segoe UI", Arial, sans-serif;
+	font-size: 15px;
 	font-style: normal;
 	line-height: normal;
-	font-weight:normal;
+	font-weight:400;
 	font-variant: small-caps;
 	color:#660;
 }
@@ -304,10 +387,10 @@ figcaption {
 	padding-top: 10;
 }
 .picture {
-	border:"4";
+	border:"0";
+/*	border-style: solid; */
 	border-color:#330;
-	width:300;
-	border-style: solid;
+	width:200;
 	}
 .pinyin {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;

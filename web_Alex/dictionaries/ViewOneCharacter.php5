@@ -92,7 +92,7 @@
             		}
             	}
             ?>
-      <a href="#">Back to top</a></td>
+      <a href="#">▲ Back to top ▲</a></td>
   </tr
 >
 </table>

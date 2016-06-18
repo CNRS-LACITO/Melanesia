@@ -11,13 +11,14 @@
         <title>
           <!-- Tab title -->
           <xsl:value-of select="//Lexicon/@id"/>
+          <xsl:text> dictionary</xsl:text>
         </title>
         <link href="../styles.css" rel="stylesheet" type="text/css"/>
       </head>
       <body>
         <!-- Create table -->
         <xsl:element name="table">
-          <xsl:attribute name="width">100%</xsl:attribute>
+          <xsl:attribute name="width">auto</xsl:attribute>
           <xsl:attribute name="border">0</xsl:attribute>
           <xsl:attribute name="align">left</xsl:attribute>
           <tbody>
@@ -71,9 +72,9 @@
           </xsl:call-template>
           <xsl:if test="./feat[@att='homonymNumber']//@val">
             <!-- Display number as subscript -->
-            <sub>
+            <span class="char_hm">
               <xsl:value-of select="./feat[@att='homonymNumber']//@val"/>
-            </sub>
+            </span>
           </xsl:if>
         </xsl:element>
         <br/>
@@ -112,17 +113,17 @@
               <xsl:when
                 test="number(substring(./feat[@att='homonymNumber']//@val, 1, 1)) = substring(./feat[@att='homonymNumber']//@val, 1, 1)">
                 <!-- Display number as subscript -->
-                <sub>
+                <span class="hm_number">
                   <xsl:value-of select="substring(./feat[@att='homonymNumber']//@val, 1, 1)"/>
-                </sub>
-                <!-- Display squared latin capital letter if any -->
+                </span>
+                <!-- Display circled latin capital letter if any -->
                 <xsl:call-template name="square">
                   <xsl:with-param name="letter"
                     select="substring(./feat[@att='homonymNumber']//@val, 2, 1)"/>
                 </xsl:call-template>
               </xsl:when>
               <xsl:otherwise>
-                <!-- Display squared latin capital letter -->
+                <!-- Display circled latin capital letter -->
                 <xsl:call-template name="square">
                   <xsl:with-param name="letter"
                     select="substring(./feat[@att='homonymNumber']//@val, 1, 1)"/>
@@ -326,7 +327,6 @@
                   </xsl:when>
                 </xsl:choose>
                 <xsl:if test="not(./a//@href)">
-
                   <span class="vernac_noklik">
                     <xsl:value-of select="./@targets"/>
                     <xsl:text>	</xsl:text>
@@ -476,11 +476,18 @@
         <!-- Display literal meaning -->
         <xsl:if
           test="./Definition/feat[@att='language' and @val=$lang1]//ancestor::Definition/feat[@att='literally']//@val">
-          <i>litt</i>. “ <xsl:call-template name="get">
+            <xsl:if test="($lang1='fra' or $lang2='fra') and $lang1!='eng' and $lang2!='eng'">
+              <span class="char_fl">litt.</span>
+            </xsl:if>
+            <xsl:if test="$lang1='eng' or $lang2='eng'">
+              <span class="char_fl">lit.</span>
+            </xsl:if>
+          <xsl:text> “</xsl:text>
+          <xsl:call-template name="get">
             <xsl:with-param name="value"
               select="./Definition/feat[@att='language' and @val=$lang1]//ancestor::Definition/feat[@att='literally']//@val"
             />
-          </xsl:call-template> ” <xsl:text> : </xsl:text>
+          </xsl:call-template>” <xsl:text> : </xsl:text>
         </xsl:if>
       </span>
       <!-- Display definition -->
@@ -493,7 +500,6 @@
             />
           </xsl:call-template>
         </span>
-        <xsl:text> ∙ </xsl:text>
       </xsl:if>
       <xsl:if
         test="./Definition/feat[@att='language' and @val=$lang1]//ancestor::Definition/feat[@att='definition']//@val">
@@ -504,10 +510,13 @@
             />
           </xsl:call-template>
         </span>
-        <xsl:text> ∙ </xsl:text>
+        <xsl:text>. </xsl:text>
       </xsl:if>
     </span>
     <!-- 2nd language -->
+    <xsl:if test="($lang2='fra' or $lang2='eng')">
+        <span class="symbol"> &#9671; </span>
+    </xsl:if>    
     <!--span class="$lang2"-->
     <span class="eng">
       <!-- Display semantics and restrictions -->

@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-<title>Dictionaries</title>
+<title>Mwotlap-French-English dictionary</title>
 <link href="../styles.css" rel="stylesheet" type="text/css" />
 <style type="text/css">
 a:link {
@@ -49,13 +49,13 @@ a:active {
 
                 	function ViewAlphabet($dict, $lang1, $lang2, $langn) {
                 		$xp = new XsltProcessor();
-                    $xsl = new DomDocument;
+                    	$xsl = new DomDocument;
 
                 		$xsl->load('ShowAlphabetMenu.xsl');
                 		$xp->setParameter('', 'dict', $dict);
                 		$xp->setParameter('', 'lang1', $lang1);
-										$xp->setParameter('', 'lang2', $lang2);
-										$xp->setParameter('', 'langn', $langn);
+						$xp->setParameter('', 'lang2', $lang2);
+						$xp->setParameter('', 'langn', $langn);
 
                 		// import the XSL stylesheet into the XSLT process
                 		$xp->importStylesheet($xsl);
@@ -84,8 +84,8 @@ a:active {
     <td width="1100" height="700" align="justify" valign="top" bgcolor="#FFFFFF"><?php
                 	$dict = isset($_GET["dict"]) ? $_GET["dict"] : "*";
                 	$lang1 = isset($_GET["lang1"]) ? $_GET["lang1"] : "*";
-									$lang2 = isset($_GET["lang2"]) ? $_GET["lang2"] : "*";
-									$langn = isset($_GET["langn"]) ? $_GET["langn"] : "*";
+					$lang2 = isset($_GET["lang2"]) ? $_GET["lang2"] : "*";
+					$langn = isset($_GET["langn"]) ? $_GET["langn"] : "*";
 
                 	ViewDescription($dict, $lang1, $lang2, $langn);
 
