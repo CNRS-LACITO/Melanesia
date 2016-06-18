@@ -413,9 +413,10 @@
                   <xsl:if
                     test="./Lemma/FormRepresentation/Picture/Statement/feat[@att='writtenForm']//@val">
                     <figcaption>
-                      <xsl:value-of
-                        select="./Lemma/FormRepresentation/Picture/Statement/feat[@att='writtenForm']//@val"
-                      />
+                      <xsl:call-template name="get">
+                        <xsl:with-param name="value"
+                          select="./Lemma/FormRepresentation/Picture/Statement/feat[@att='writtenForm']//@val"/>
+                      </xsl:call-template>
                     </figcaption>
                   </xsl:if>
                 </figure>
