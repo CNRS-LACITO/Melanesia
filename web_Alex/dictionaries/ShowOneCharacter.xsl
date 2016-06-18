@@ -247,37 +247,40 @@
                   <xsl:text>&#9659; </xsl:text>
                 </xsl:if>
                 <span class="char_fl">
-                <!-- confer -->
-                <xsl:if test="./feat[@att='semanticRelation' and @val='simple link']">
-                  <!--i>Cf. </i-->
-                </xsl:if>
-                <!-- synonym -->
-                <xsl:if test="./feat[@att='semanticRelation' and @val='synonym']">
-                  <xsl:if test="($lang1='fra' or $lang2='fra') and $lang1!='eng' and $lang2!='eng'">
-                    <xsl:text>Syn : </xsl:text>
+                  <!-- confer -->
+                  <xsl:if test="./feat[@att='semanticRelation' and @val='simple link']">
+                    <!--i>Cf. </i-->
                   </xsl:if>
-                  <xsl:if test="$lang1='eng' or $lang2='eng'">
-                    <xsl:text>Syn: </xsl:text>
+                  <!-- synonym -->
+                  <xsl:if test="./feat[@att='semanticRelation' and @val='synonym']">
+                    <xsl:if
+                      test="($lang1='fra' or $lang2='fra') and $lang1!='eng' and $lang2!='eng'">
+                      <xsl:text>Syn : </xsl:text>
+                    </xsl:if>
+                    <xsl:if test="$lang1='eng' or $lang2='eng'">
+                      <xsl:text>Syn: </xsl:text>
+                    </xsl:if>
                   </xsl:if>
-                </xsl:if>
-                <!-- antonym -->
-                <xsl:if test="./feat[@att='semanticRelation' and @val='antonym']">
-                  <xsl:if test="($lang1='fra' or $lang2='fra') and $lang1!='eng' and $lang2!='eng'">
-                    <xsl:text>Ant : </xsl:text>
+                  <!-- antonym -->
+                  <xsl:if test="./feat[@att='semanticRelation' and @val='antonym']">
+                    <xsl:if
+                      test="($lang1='fra' or $lang2='fra') and $lang1!='eng' and $lang2!='eng'">
+                      <xsl:text>Ant : </xsl:text>
+                    </xsl:if>
+                    <xsl:if test="$lang1='eng' or $lang2='eng'">
+                      <xsl:text>Ant: </xsl:text>
+                    </xsl:if>
                   </xsl:if>
-                  <xsl:if test="$lang1='eng' or $lang2='eng'">
-                    <xsl:text>Ant: </xsl:text>
+                  <!-- homonym -->
+                  <xsl:if test="./feat[@att='semanticRelation' and @val='homonym']">
+                    <xsl:if
+                      test="($lang1='fra' or $lang2='fra') and $lang1!='eng' and $lang2!='eng'">
+                      <xsl:text>&#9659; </xsl:text>
+                    </xsl:if>
+                    <xsl:if test="$lang1='eng' or $lang2='eng'">
+                      <xsl:text>&#9659; </xsl:text>
+                    </xsl:if>
                   </xsl:if>
-                </xsl:if>
-                <!-- homonym -->
-                <xsl:if test="./feat[@att='semanticRelation' and @val='homonym']">
-                  <xsl:if test="($lang1='fra' or $lang2='fra') and $lang1!='eng' and $lang2!='eng'">
-                    <xsl:text>&#9659; </xsl:text>
-                  </xsl:if>
-                  <xsl:if test="$lang1='eng' or $lang2='eng'">
-                    <xsl:text>&#9659; </xsl:text>
-                  </xsl:if>
-                </xsl:if>
                 </span>
                 <!-- subentry -->
                 <!-- Insert link -->
@@ -394,28 +397,28 @@
               <td align="center">
                 <figure>
                   <xsl:element name="a">
-                    <xsl:attribute name="href"><xsl:value-of
-                            select="concat('../images/', ./Lemma/FormRepresentation/Picture/feat[@att='fileName']//@val)"
-                          />
-	         	    </xsl:attribute>
-	   	            <xsl:attribute name="target">_blank</xsl:attribute>                
-                      <xsl:element name="img">
-                        <xsl:attribute name="src">
-                          <xsl:value-of
-                            select="concat('../images/', ./Lemma/FormRepresentation/Picture/feat[@att='fileName']//@val)"
-                          />
-                        </xsl:attribute>
-                        <xsl:attribute name="class">
-                        picture
-                        </xsl:attribute>
-                      </xsl:element>
-                   </xsl:element>
+                    <xsl:attribute name="href">
+                      <xsl:value-of
+                        select="concat('../images/', ./Lemma/FormRepresentation/Picture/feat[@att='fileName']//@val)"
+                      />
+                    </xsl:attribute>
+                    <xsl:attribute name="target">_blank</xsl:attribute>
+                    <xsl:element name="img">
+                      <xsl:attribute name="src">
+                        <xsl:value-of
+                          select="concat('../images/', ./Lemma/FormRepresentation/Picture/feat[@att='fileName']//@val)"
+                        />
+                      </xsl:attribute>
+                      <xsl:attribute name="class"> picture </xsl:attribute>
+                    </xsl:element>
+                  </xsl:element>
                   <xsl:if
                     test="./Lemma/FormRepresentation/Picture/Statement/feat[@att='writtenForm']//@val">
                     <figcaption>
                       <xsl:call-template name="get">
                         <xsl:with-param name="value"
-                          select="./Lemma/FormRepresentation/Picture/Statement/feat[@att='writtenForm']//@val"/>
+                          select="./Lemma/FormRepresentation/Picture/Statement/feat[@att='writtenForm']//@val"
+                        />
                       </xsl:call-template>
                     </figcaption>
                   </xsl:if>
