@@ -48,8 +48,8 @@
 		<rule str="W" rank="43"/> <rule str="w" rank="43"/>
 		<!--rule str="X" rank="44"/> <rule str="x" rank="44"/-->
 		<rule str="Y" rank="45"/> <rule str="y" rank="45"/>
-		<rule str="Z" rank="46"/> <rule str="z" rank="46"/>
+		<!--rule str="Z" rank="46"/> <rule str="z" rank="46"/-->
 		<!-- Special characters -->
-		<rule str="-" rank="47"/> <rule str="(" rank="47"/> <rule str=")" rank="47"/> <rule str="…" rank="47"/>
+		<rule str="-" rank="47"/> <rule str="(" rank="49"/> <rule str=")" rank="49"/> <rule str="…" rank="49"/>
 	</rules>
 </SortOrder>

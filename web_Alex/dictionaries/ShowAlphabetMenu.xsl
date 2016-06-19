@@ -9,7 +9,7 @@
       <!-- Display only meaningfull characters: rank value must be a float between 1 and 26 -->
       <xsl:call-template name="loop">
         <xsl:with-param name="rank" select="'1'"/>
-        <xsl:with-param name="max_rank" select="'46'"/>
+        <xsl:with-param name="max_rank" select="'47'"/>
       </xsl:call-template>
     </xsl:if>
   </xsl:template>
