@@ -362,34 +362,42 @@
           </xsl:if>
         </xsl:for-each>
         <!-- Display etymology -->
-        <xsl:if test="./Sense/Definition/Statement/feat[@att='etymology']">
-          <p class="p_etym">
+        <p class="p_etym">
+          <xsl:if test="./Sense/Definition/Statement/feat[@att='etymology']">
             <b>[</b>
-            <xsl:call-template name="get">
-              <xsl:with-param name="value"
-                select="./Sense/Definition/Statement/feat[@att='termSourceLanguage']//@val"/>
-            </xsl:call-template>
+          </xsl:if>
+          <xsl:for-each select="./Sense/Definition/Statement">
             <xsl:text> </xsl:text>
-            <span class="vernacular">
+            <xsl:if test="./feat[@att='etymology']">
               <xsl:call-template name="get">
                 <xsl:with-param name="value"
-                  select="./Sense/Definition/Statement/feat[@att='etymology']//@val"/>
+                  select="./feat[@att='termSourceLanguage']//@val"/>
               </xsl:call-template>
-            </span>
-            <xsl:text> </xsl:text>
-            <xsl:if test="./Sense/Definition/Statement/feat[@att='etymologyGloss']">
-              <xsl:text>‘</xsl:text>
-              <span class="eng_s">
+              <xsl:text> </xsl:text>
+              <span class="vernacular">
                 <xsl:call-template name="get">
                   <xsl:with-param name="value"
-                    select="./Sense/Definition/Statement/feat[@att='etymologyGloss']//@val"/>
+                    select="./feat[@att='etymology']//@val"/>
                 </xsl:call-template>
               </span>
-              <xsl:text>’</xsl:text>
+              <xsl:text> </xsl:text>
+              <xsl:if test="./feat[@att='etymologyGloss']">
+                <xsl:text>‘</xsl:text>
+                <span class="eng_s">
+                  <xsl:call-template name="get">
+                    <xsl:with-param name="value"
+                      select="./feat[@att='etymologyGloss']//@val"/>
+                  </xsl:call-template>
+                </span>
+                <xsl:text>’</xsl:text>
+              </xsl:if>
             </xsl:if>
+            <xsl:text> </xsl:text>
+          </xsl:for-each>
+          <xsl:if test="./Sense/Definition/Statement/feat[@att='etymology']">
             <b>]</b>
-          </p>
-        </xsl:if>
+          </xsl:if>
+        </p>
         <!-- Dipslay picture if any -->
         <xsl:if test="./Lemma/FormRepresentation/Picture/feat[@att='fileName']">
           <table width="200" height="50" align="center">
