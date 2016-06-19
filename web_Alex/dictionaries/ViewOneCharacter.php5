@@ -1,8 +1,8 @@
 ﻿<!-- Banner -->
 
-<table width="1200" height="40" align="center">
+<table width="auto" height="40" align="center">
   <tr>
-    <td width="1200" height="40" align="center" colspan="2"><img src="../images/HimalCo/baniere.jpg" width="1200" height="40"/></td>
+    <td width="auto" height="40" align="center" colspan="2"><img src="../images/HimalCo/baniere.jpg" width="1200" height="40"/></td>
   </tr>
   <tr>
     <td align="left"><img src="../images/logos/cnrs.jpg" width="60" height="60"/></td>
@@ -12,7 +12,7 @@
 <!-- Menu --> 
 
 <!-- Sub-menu -->
-<table width="1200" height="20" align="center" class="fond">
+<table width="86%" height="20" align="center" class="fond">
   <tr>
     <?php
     		$dict = isset($_GET["dict"]) ? $_GET["dict"] : "*";
@@ -51,18 +51,18 @@
 </table>
 
 <!-- Body -->
-<table width="1200" height="700" align="center" class="fond" cellpadding="25">
+<table width="86%" height="700" align="center" class="fond" cellpadding="25">
   <tr> 
     <!-- Left menu -->
-    <td width="100" height="700" align="left" valign="top"><p class="menu"><a href="index.htm">Presentation</a></p>
+    <td width="10%" height="700" align="left" valign="top"><p class="menu"><a href="index.htm">Presentation</a></p>
       <p class="menu"><a href="SelectDictionary.php5?dict=mwotlap">Mwotlap</a></p></td>
     <!-- Contents -->
-    <td width="1100" align="justify" valign="top" bgcolor="#FFFFFF"><?php
+    <td width="auto" align="justify" valign="top" bgcolor="#FFFFFF"><?php
             	$dict = isset($_GET["dict"]) ? $_GET["dict"] : "*";
             	$lang1 = isset($_GET["lang1"]) ? $_GET["lang1"] : "*";
-							$lang2 = isset($_GET["lang2"]) ? $_GET["lang2"] : "*";
-							$langn = isset($_GET["langn"]) ? $_GET["langn"] : "*";
-              $char = isset($_GET["char"]) ? $_GET["char"] : "*";
+				$lang2 = isset($_GET["lang2"]) ? $_GET["lang2"] : "*";
+				$langn = isset($_GET["langn"]) ? $_GET["langn"] : "*";
+                $char = isset($_GET["char"]) ? $_GET["char"] : "*";
     
             	ViewEntries($dict, $lang1, $lang2, $langn, $char);
     

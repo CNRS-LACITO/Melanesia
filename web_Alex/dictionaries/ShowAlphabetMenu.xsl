@@ -6,7 +6,7 @@
   <xsl:param name="langn" select="''"/>
   <xsl:template match="/">
     <xsl:if test="$dict='mwotlap'">
-      <!-- Display only meaningfull characters: rank value must be a float between 1 and 26 -->
+      <!-- Display only meaningfull characters: rank value must be a float between 1 and 47 -->
       <xsl:call-template name="loop">
         <xsl:with-param name="rank" select="'1'"/>
         <xsl:with-param name="max_rank" select="'47'"/>
