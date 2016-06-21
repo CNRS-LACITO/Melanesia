@@ -148,18 +148,21 @@
             </span>
             <xsl:text>]	</xsl:text>
           </xsl:if>
-          <!-- Display variant -->
+		  <!-- Display variant forms (possibly many) -->
           <xsl:if test="./Lemma/FormRepresentation/feat[@att='variantForm']//@val">
-            <xsl:if test="($lang1='fra' or $lang2='fra') and $lang1!='eng' and $lang2!='eng'">
-              <xsl:text>~ </xsl:text>
-            </xsl:if>
-            <xsl:if test="$lang1='eng' or $lang2='eng'">
-              <xsl:text>~ </xsl:text>
-            </xsl:if>
-            <span class="vernacular">
-              <xsl:value-of select="./Lemma/FormRepresentation/feat[@att='variantForm']//@val"/>
-            </span>
-           <xsl:text>&#160; </xsl:text>
+             <xsl:for-each select="./Lemma/FormRepresentation">
+              <b> ~ </b>
+              <xsl:if test="./feat[@att='variantForm']//@val">
+                <span class="variant">
+                  <xsl:call-template name="get">
+                    <xsl:with-param name="value"
+                      select="./feat[@att='variantForm']//@val"
+                    />
+                  </xsl:call-template>
+                </span>
+              </xsl:if>
+	        </xsl:for-each>
+	        <xsl:text>&#160; </xsl:text>
           </xsl:if>
           <!-- Listen audio -->
           <xsl:for-each select="./Lemma/FormRepresentation/Audio">
@@ -206,7 +209,7 @@
           <!-- Display borrowed word -->
           <xsl:if test="./Sense/Definition/Statement/feat[@att='borrowedWord']">
             <xsl:if test="($lang1='fra' or $lang2='fra') and $lang1!='eng' and $lang2!='eng'">
-              <xsl:text>De : </xsl:text>
+              <xsl:text>De&#160;: </xsl:text>
             </xsl:if>
             <xsl:if test="$lang1='eng' or $lang2='eng'">
               <xsl:text>From: </xsl:text>

@@ -1,9 +1,9 @@
 @charset "UTF-8";
 /* Styles for general presentation */
 body {
-	font-family: "Chaparral Pro", "DejaVu Serif Condensed", "Charis SIL", "Charis SIL Compact", "Lucida Grande", serif;
+	font-family: "DejaVu Serif Condensed", "Chaparral Pro", "Charis SIL", "Charis SIL Compact", "Lucida Grande", serif;
 	font-style: normal;
-	font-size:12px;
+	font-size:13px;
 }
 a:link{
   text-decoration:none;
@@ -30,8 +30,9 @@ a:active{
 	font-weight: bold;
 }
 .intro {
-	font-size: 17px;
+	font-size: 15px;
 	font-style: normal;
+	line-height: 1.4;
 }
 .fond {
 	background-color: #FC9;
@@ -84,7 +85,7 @@ a:active{
 	font-size: 16px;
 	font-style: normal;
 	line-height: normal;
-	font-weight: normal;
+	font-weight: 700;
 	font-variant: normal;
 	text-transform: none;
 	color:#663;
@@ -116,8 +117,8 @@ a:active{
 /*  for character style "vl", vernacular light */	
 	font-family: "Segoe UI", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size: 15px;
-	font-weight:700;
-	font-style:normal;
+	font-weight:600;
+	font-style:italic;
 	color:#936;
 	}
 .char_fr {
@@ -153,6 +154,7 @@ a:active{
 .p_etym {
 	line-height: normal;
 	text-align:right;
+	font-size: 13px;
 	}
 .vernacular {
 	font-family: "Segoe UI", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
@@ -163,6 +165,17 @@ a:active{
 	font-variant: normal;
 	text-transform: none;
 	color: #936;
+}
+.etymo {
+	font-family: "Segoe UI", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 15px;
+	font-style: italic;
+	line-height: normal;
+	font-weight: 600;
+	font-variant: normal;
+	text-transform: none;
+	white-space:nowrap;
+	color:#660;
 }
 .citation {
 	font-family: "Segoe UI", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
@@ -180,7 +193,7 @@ a:active{
 	font-style: normal;
 	line-height: normal;
 	font-weight: bolder;
-	color:#930;
+	color:#C00;
 }
 .symbol {
 	font-size: 15px;
@@ -202,7 +215,7 @@ th.tb2 {
 	font-family: "Segoe UI", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size: 16px;
 	font-weight:500;
-	color:#666;
+	color:#333;
 }
 .national {
 	font-size: 15px;
@@ -221,7 +234,7 @@ th.tb2 {
 	color: inherit;
 }
 .fra {
-	font-family: Palatino, "Palatino Linotype", "Chaparral Pro", Georgia, "Book Antiqua", serif;
+	font-family: "Palatino Linotype", Palatino, "Chaparral Pro", Georgia, "Book Antiqua", serif;
 	line-height: normal;
 	font-variant: normal;
 	text-transform: none;
@@ -285,13 +298,13 @@ th.tb2 {
 }
 .eng {
 	font-family:"Calibri", "Book Antiqua", "Palatino Linotype", Palatino, Georgia, serif;
-	font-style:italic;
+	font-style:normal;
 	line-height: normal;
 	font-variant: normal;
 	color: #009;
 }
 .def1 {
-	font-size:18px;
+	font-size:17px;
 	font-variant: normal;
 	font-weight:600;
 	color:#000;
@@ -299,7 +312,8 @@ th.tb2 {
 .def2 {
 	font-size:17px;
 	line-height: normal;
-	font-weight:500;
+	font-style:italic;
+	font-weight:600;
 	color:#009;
 }
 .eng_s {
@@ -312,7 +326,7 @@ th.tb2 {
 }
 .ex_lg1 {
 	font-family:"Chaparral Pro", "Palatino Linotype", Georgia, Palatino, "Book Antiqua", serif;
-	font-size:16px;
+	font-size:17px;
 	line-height: normal;
 	font-variant: normal;
 	text-transform: none;
@@ -328,7 +342,7 @@ th.tb2 {
 }
 .protolg {
 	font-family:Calibri, "Book Antiqua", "Palatino Linotype", Palatino, Georgia, sans-serif;
-	font-size:16px;
+	font-size:13px;
 	font-style: normal;
 	line-height: normal;
 	font-variant: normal;
@@ -360,6 +374,14 @@ th.tb2 {
 	text-transform: none;
 	color: inherit;
 }
+.variant {
+	/*  for variant */	
+	font-family: "Segoe UI", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 16px;
+	font-weight:bold;
+	font-style:normal;
+	color:#930;
+	}
 .sc {
 	font-family: "DejaVu Serif Condensed", "Cambria", "Charis SIL Compact", "Lucida Grande", serif;
 	font-size: 18px;
@@ -378,11 +400,11 @@ th.tb2 {
 	color:#660;
 }
 figcaption {
-	font-family: "DejaVu Serif Condensed", "Cambria", "Charis SIL Compact", "Lucida Grande", serif;
+	font-family: "Palatino Linotype", Palatino, "Chaparral Pro", Georgia, "Book Antiqua",  serif;
 	font-size: 15px;
-	font-weight:bold;
+	font-weight:500;
 	line-height:110%;
-	color:#003;
+	color:#006;
 	margin-top: 10px;
 	padding-top: 10;
 }
@@ -390,7 +412,7 @@ figcaption {
 	border:"0";
 /*	border-style: solid; */
 	border-color:#330;
-	width:200;
+	width:300;
 	}
 .pinyin {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
