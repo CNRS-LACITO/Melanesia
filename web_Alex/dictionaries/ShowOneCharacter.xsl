@@ -135,7 +135,7 @@
           <!-- Display citation form -->
           <xsl:if test="./Lemma/FormRepresentation/feat[@att='citationForm']//@val">
             <xsl:text>(</xsl:text>
-            <span class="vernacular">
+            <span class="citation">
               <xsl:value-of select="./Lemma/FormRepresentation/feat[@att='citationForm']//@val"/>
             </span>
             <xsl:text>)	</xsl:text>
@@ -346,8 +346,10 @@
                       </xsl:call-template>
                    </span>
     	            <!--Adding gloss for lang2-->
-                    <xsl:if test="./FormRepresentation/feat[@att='language' and @val=$lang2]//ancestor::FormRepresentation/feat[@att='writtenForm']">
+                    <xsl:if test="(./FormRepresentation/feat[@att='language' and @val=$lang1]//ancestor::FormRepresentation/feat[@att='writtenForm']) and (./FormRepresentation/feat[@att='language' and @val=$lang2]//ancestor::FormRepresentation/feat[@att='writtenForm'])">
                       <xsl:text> — </xsl:text>
+                    </xsl:if>
+                    <xsl:if test="./FormRepresentation/feat[@att='language' and @val=$lang2]//ancestor::FormRepresentation/feat[@att='writtenForm']">
                       <span class="ex_lg2">
                           <xsl:call-template name="get">
                             <xsl:with-param name="value" 
@@ -389,7 +391,7 @@
                 <xsl:with-param name="value"
                   select="./feat[@att='termSourceLanguage']//@val"/>
               </xsl:call-template>
-              <xsl:text> </xsl:text>
+              <xsl:text>&#160;</xsl:text>
               <span class="etymo">
                 <xsl:call-template name="get">
                   <xsl:with-param name="value"
@@ -415,7 +417,20 @@
             <b>]</b>
         </p>
         </xsl:if>
-        <!-- Dipslay picture if any -->
+        <!-- Display morphological parsing -->
+      <xsl:if test="./Sense/Paradigm/feat[@att='morphology']">
+        <p class="p_etym">
+           <xsl:text>&lt;&#160;</xsl:text>
+	       <span class="vernacular">
+              <xsl:call-template name="get">
+                <xsl:with-param name="value"
+                  select="./Sense/Paradigm/feat[@att='morphology']//@val"/>
+              </xsl:call-template>
+           </span>
+           <xsl:text>.</xsl:text>
+         </p>
+      </xsl:if>
+        <!-- Display picture if any -->
         <xsl:if test="./Lemma/FormRepresentation/Picture/feat[@att='fileName']">
           <table width="200" height="50" align="center">
             <tr>
@@ -475,29 +490,57 @@
     <!-- 1st language -->
     <!--span class="$lang1"-->
     <span class="fra">
-      <!-- Display semantics and restrictions -->
+      <!-- Display semantic restrictions (possibly many) -->
       <span class="com_fra">
         <xsl:if
           test="./Definition/Statement/feat[@att='language' and @val=$lang1]//ancestor::Statement/feat[@att='noteType']//@val = 'semantics'">
-          <xsl:text>(</xsl:text>
-          <xsl:call-template name="get">
-            <xsl:with-param name="value"
-              select="./Definition/Statement/feat[@att='language' and @val=$lang1]//ancestor::Statement/feat[@att='noteType' and @val='semantics']//ancestor::Statement/feat[@att='note']//@val"
-            />
-          </xsl:call-template>
-          <xsl:text>) </xsl:text>
+          <xsl:for-each select="./Definition/Statement">
+            <xsl:if test="./feat[@att='language' and @val=$lang1]//ancestor::Statement/feat[@att='noteType' and @val='semantics']//ancestor::Statement/feat[@att='note']//@val">
+                <xsl:text>(</xsl:text>
+                <xsl:call-template name="get">
+                    <xsl:with-param name="value"
+                      select="./feat[@att='language' and @val=$lang1]//ancestor::Statement/feat[@att='noteType' and @val='semantics']//ancestor::Statement/feat[@att='note']//@val"
+                    />
+              </xsl:call-template>
+              <xsl:text>) </xsl:text>
+            </xsl:if>
+          </xsl:for-each>
         </xsl:if>
+      <!-- Display grammatical restrictions (possibly many) -->
         <xsl:if
           test="./Definition/Statement/feat[@att='language' and @val=$lang1]//ancestor::Statement/feat[@att='noteType']//@val = 'restriction'">
-          <xsl:text>[</xsl:text>
-          <xsl:call-template name="get">
-            <xsl:with-param name="value"
-              select="./Definition/Statement/feat[@att='language' and @val=$lang1]//ancestor::Statement/feat[@att='noteType' and @val='restriction']//ancestor::Statement/feat[@att='note']//@val"
-            />
-          </xsl:call-template>
-          <xsl:text>] </xsl:text>
+		  <span class="synt_fr">
+              <xsl:for-each select="./Definition/Statement">
+              	<xsl:if test="./feat[@att='language' and @val=$lang1]//ancestor::Statement/feat[@att='noteType' and @val='restriction']//ancestor::Statement/feat[@att='note']//@val">
+                      <xsl:text>&#10647;</xsl:text>
+                      <xsl:call-template name="get">
+                        <xsl:with-param name="value"
+                          select="./feat[@att='language' and @val=$lang1]//ancestor::Statement/feat[@att='noteType' and @val='restriction']//ancestor::Statement/feat[@att='note']//@val"
+                        />
+                      </xsl:call-template>
+                      <xsl:text>&#10648; </xsl:text>
+                 </xsl:if>
+             </xsl:for-each>
+		  </span>
         </xsl:if>
-
+        <!-- Display usage restrictions, "typical subject" (possibly many) -->
+        <xsl:if
+          test="./Definition/Statement/feat[@att='language' and @val=$lang1]//ancestor::Statement/feat[@att='noteType']//@val = 'usage'">
+		  <span class="sbj_fr">
+              <xsl:for-each select="./Definition/Statement">
+              	<xsl:if test="./feat[@att='language' and @val=$lang1]//ancestor::Statement/feat[@att='noteType' and @val='usage']//ancestor::Statement/feat[@att='note']//@val">
+                  <xsl:text>&#10216;</xsl:text>
+                  <xsl:call-template name="get">
+                    <xsl:with-param name="value"
+                      select="./feat[@att='language' and @val=$lang1]//ancestor::Statement/feat[@att='noteType' and @val='usage']//ancestor::Statement/feat[@att='note']//@val"
+                    />
+                  </xsl:call-template>
+                  <xsl:text>&#10217; </xsl:text>
+                 </xsl:if>
+             </xsl:for-each>
+		  </span>
+          <xsl:text>&#160;</xsl:text>
+        </xsl:if>
         <!-- Display literal meaning -->
         <xsl:if
           test="./Definition/feat[@att='language' and @val=$lang1]//ancestor::Definition/feat[@att='literally']//@val">
@@ -507,7 +550,7 @@
             <xsl:if test="$lang1='eng'">
               <span class="char_fl">lit.</span>
             </xsl:if>
-          <xsl:text> “</xsl:text>
+          <xsl:text>&#160;“</xsl:text>
           <xsl:call-template name="get">
             <xsl:with-param name="value"
               select="./Definition/feat[@att='language' and @val=$lang1]//ancestor::Definition/feat[@att='literally']//@val"
@@ -545,29 +588,58 @@
     </xsl:if>    
     <!--span class="$lang2"-->
     <span class="eng">
-      <!-- Display semantics and restrictions -->
-      <xsl:if
-        test="./Definition/Statement/feat[@att='language' and @val=$lang2]//ancestor::Statement/feat[@att='noteType']//@val = 'semantics'">
-        <xsl:text>(</xsl:text>
-        <span class="com_eng">
-          <xsl:call-template name="get">
-            <xsl:with-param name="value"
-              select="./Definition/Statement/feat[@att='language' and @val=$lang2]//ancestor::Statement/feat[@att='noteType' and @val='semantics']//ancestor::Statement/feat[@att='note']//@val"
-            />
-          </xsl:call-template>
-        </span>
-        <xsl:text>) </xsl:text>
-      </xsl:if>
-      <xsl:if
-        test="./Definition/Statement/feat[@att='language' and @val=$lang2]//ancestor::Statement/feat[@att='noteType']//@val = 'restriction'">
-        <xsl:text>[</xsl:text>
-        <xsl:call-template name="get">
-          <xsl:with-param name="value"
-            select="./Definition/Statement/feat[@att='language' and @val=$lang2]//ancestor::Statement/feat[@att='noteType' and @val='restriction']//ancestor::Statement/feat[@att='note']//@val"
-          />
-        </xsl:call-template>
-        <xsl:text>] </xsl:text>
-      </xsl:if>
+      <!-- Display semantic restrictions (possibly many) -->
+      <span class="com_eng">
+        <xsl:if
+          test="./Definition/Statement/feat[@att='language' and @val=$lang1]//ancestor::Statement/feat[@att='noteType']//@val = 'semantics'">
+          <xsl:for-each select="./Definition/Statement">
+            <xsl:if test="./feat[@att='language' and @val=$lang2]//ancestor::Statement/feat[@att='noteType' and @val='semantics']//ancestor::Statement/feat[@att='note']//@val">
+                <xsl:text>(</xsl:text>
+                <xsl:call-template name="get">
+                    <xsl:with-param name="value"
+                      select="./feat[@att='language' and @val=$lang2]//ancestor::Statement/feat[@att='noteType' and @val='semantics']//ancestor::Statement/feat[@att='note']//@val"
+                    />
+              </xsl:call-template>
+              <xsl:text>) </xsl:text>
+            </xsl:if>
+          </xsl:for-each>
+        </xsl:if>
+      <!-- Display grammatical restrictions (possibly many) -->
+        <xsl:if
+          test="./Definition/Statement/feat[@att='language' and @val=$lang2]//ancestor::Statement/feat[@att='noteType']//@val = 'restriction'">
+		  <span class="synt_en">
+              <xsl:for-each select="./Definition/Statement">
+              	<xsl:if test="./feat[@att='language' and @val=$lang2]//ancestor::Statement/feat[@att='noteType' and @val='restriction']//ancestor::Statement/feat[@att='note']//@val">
+                      <xsl:text>&#10647;</xsl:text>
+                      <xsl:call-template name="get">
+                        <xsl:with-param name="value"
+                          select="./feat[@att='language' and @val=$lang2]//ancestor::Statement/feat[@att='noteType' and @val='restriction']//ancestor::Statement/feat[@att='note']//@val"
+                        />
+                      </xsl:call-template>
+                      <xsl:text>&#10648; </xsl:text>
+                 </xsl:if>
+             </xsl:for-each>
+		  </span>
+        </xsl:if>
+        <!-- Display usage restrictions, "typical subject" (possibly many) -->
+        <xsl:if
+          test="./Definition/Statement/feat[@att='language' and @val=$lang2]//ancestor::Statement/feat[@att='noteType']//@val = 'usage'">
+		  <span class="sbj_en">
+              <xsl:for-each select="./Definition/Statement">
+              	<xsl:if test="./feat[@att='language' and @val=$lang2]//ancestor::Statement/feat[@att='noteType' and @val='usage']//ancestor::Statement/feat[@att='note']//@val">
+                      <xsl:text>&#10216;</xsl:text>
+                      <xsl:call-template name="get">
+                        <xsl:with-param name="value"
+                          select="./feat[@att='language' and @val=$lang2]//ancestor::Statement/feat[@att='noteType' and @val='usage']//ancestor::Statement/feat[@att='note']//@val"
+                        />
+                      </xsl:call-template>
+                      <xsl:text>&#10217; </xsl:text>
+                 </xsl:if>
+             </xsl:for-each>
+		  </span>
+        </xsl:if>
+
+      </span>
       <!-- Display literal meaning -->
       <xsl:if
         test="./Definition/feat[@att='language' and @val=$lang2]//ancestor::Definition/feat[@att='literally']//@val">
@@ -637,8 +709,10 @@
       <span class="fra">
         <xsl:if
           test="./Definition/Statement/feat[@att='language' and @val=$lang1]//ancestor::Statement/feat[@att='usageNote']">
-          <xsl:value-of
-            select="./Definition/Statement/feat[@att='language' and @val=$lang1]//ancestor::Statement/feat[@att='usageNote']//@val"/>
+          <span class="encycl">
+              <xsl:value-of
+                select="./Definition/Statement/feat[@att='language' and @val=$lang1]//ancestor::Statement/feat[@att='usageNote']//@val"/>
+          </span>
           <xsl:text>. </xsl:text>
         </xsl:if>
         <xsl:call-template name="get">
@@ -654,8 +728,10 @@
       <span class="eng">
         <xsl:if
           test="./Definition/Statement/feat[@att='language' and @val=$lang2]//ancestor::Statement/feat[@att='usageNote']">
-          <xsl:value-of
-            select="./Definition/Statement/feat[@att='language' and @val=$lang2]//ancestor::Statement/feat[@att='usageNote']//@val"/>
+          <span class="encycl">
+              <xsl:value-of
+                select="./Definition/Statement/feat[@att='language' and @val=$lang2]//ancestor::Statement/feat[@att='usageNote']//@val"/>
+          </span>
           <xsl:text>. </xsl:text>
         </xsl:if>
         <xsl:call-template name="get">
@@ -677,20 +753,48 @@
       </xsl:call-template>
     </dd>
     <dd class="ex_lg1">
+    <!--Adding comment (if any)-->
+    <xsl:if
+      test="./TextRepresentation/feat[@att='language' and @val=$lang1]//ancestor::TextRepresentation/feat[@att='comment']//@val">
+      <span class="excom_fra">
+          <xsl:text>&#10216;</xsl:text>
+          <xsl:call-template name="get">
+            <xsl:with-param name="value"
+              select="./TextRepresentation/feat[@att='language' and @val=$lang1]//ancestor::TextRepresentation/feat[@att='comment']//@val"
+            />
+          </xsl:call-template>
+      <xsl:text>&#10217;</xsl:text>
+      </span>
+      <xsl:text> </xsl:text>
+    </xsl:if>
+    <!--Ex translation in lang1-->
       <xsl:call-template name="get">
         <xsl:with-param name="value"
           select="./TextRepresentation/feat[@att='language' and @val=$lang1]//ancestor::TextRepresentation/feat[@att='writtenForm']//@val"
         />
       </xsl:call-template>
     </dd>
+    <!--Ex translation in lang2-->
     <dd class="ex_lg2">
-      <i>
+    <!--Adding comment (if any)-->
+    <xsl:if
+      test="./TextRepresentation/feat[@att='language' and @val=$lang2]//ancestor::TextRepresentation/feat[@att='comment']//@val">
+      <span class="excom_eng">
+          <xsl:text>&#10216;</xsl:text>
+          <xsl:call-template name="get">
+            <xsl:with-param name="value"
+              select="./TextRepresentation/feat[@att='language' and @val=$lang2]//ancestor::TextRepresentation/feat[@att='comment']//@val"
+            />
+          </xsl:call-template>
+      <xsl:text>&#10217;</xsl:text>
+      </span>
+      <xsl:text> </xsl:text>
+    </xsl:if>
         <xsl:call-template name="get">
           <xsl:with-param name="value"
             select="./TextRepresentation/feat[@att='language' and @val=$lang2]//ancestor::TextRepresentation/feat[@att='writtenForm']//@val"
           />
         </xsl:call-template>
-      </i>
     </dd>
     <dd class="national">
       <xsl:call-template name="get">

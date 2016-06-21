@@ -123,9 +123,11 @@ a:active{
 	}
 .char_fr {
 /*  for character style "fr", font regional */	
-	font-size: 14px;
-	font-style:normal;
-	color:#003;
+	font-family: "Segoe UI", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-weight:bolder;
+	font-style:italic;
+	text-decoration: underline;
+	color:#C39;
 	}
 .char_fs {
 /*  for character style "fs", font standard */	
@@ -179,13 +181,13 @@ a:active{
 }
 .citation {
 	font-family: "Segoe UI", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	font-size: 16px;
+	font-size: 17px;
 	font-style: normal;
 	line-height: normal;
 	font-weight: bolder;
 	font-variant: normal;
 	text-transform: none;
-	color: red;
+	color:#906;
 }
 .vern_link {
 	font-family: "Segoe UI", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
@@ -218,13 +220,12 @@ th.tb2 {
 	color:#333;
 }
 .national {
-	font-size: 15px;
+	font-size: 17px;
 	font-style: normal;
-	line-height: normal;
-	font-weight: normal;
-	font-variant: normal;
+	font-weight: 500;
+	font-variant: italic;
 	text-transform: none;
-	color:#633;
+	color:#339;
 }
 .regional {
 	font-style: inherit;
@@ -254,47 +255,58 @@ th.tb2 {
 	font-style:italic;
 	color:#009;
 }
+.encycl {
+	font-size:15px;
+	line-height: normal;
+	font-variant: normal;
+	font-style:italic;
+}
 .sbj_fr {
 	font-size:15px;
 	line-height: normal;
 	font-variant: normal;
 	text-transform: none;
-	color:red;
+	white-space:nowrap;
+	color:#330;
 }
 .sbj_en {
 	font-size:15px;
 	line-height: normal;
 	font-variant: normal;
-	font-style:italic;
-	color:green;
+	font-style:normal;
+	white-space:nowrap;
+	color:#009;
 }
 .synt_fr {
+	font-family: Calibri, "Segoe UI", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size:15px;
 	line-height: normal;
 	font-variant: normal;
-	text-transform: none;
-	color:red;
+	white-space:nowrap;
+	color:#033;
 }
 .synt_en {
+	font-family: Calibri, "Segoe UI", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-size:15px;
 	line-height: normal;
 	font-variant: normal;
-	font-style:italic;
-	color:green;
+	font-style:normal;
+	white-space:nowrap;
+	color:#009;
 }
 .excom_fra {
 	font-size:15px;
 	line-height: normal;
 	font-variant: normal;
 	text-transform: none;
-	color:red;
+	color:#033;
 }
 .excom_eng {
 	font-size:15px;
 	line-height: normal;
 	font-variant: normal;
-	font-style:italic;
-	color:green;
+	font-style:normal;
+	color:#009;
 }
 .eng {
 	font-family:"Calibri", "Book Antiqua", "Palatino Linotype", Palatino, Georgia, serif;
@@ -310,7 +322,7 @@ th.tb2 {
 	color:#000;
 }
 .def2 {
-	font-size:17px;
+	font-size:16px;
 	line-height: normal;
 	font-style:italic;
 	font-weight:600;
@@ -335,7 +347,7 @@ th.tb2 {
 .ex_lg2 {
 	font-family:Calibri, "Book Antiqua", "Palatino Linotype", Palatino, Georgia, sans-serif;
 	font-size:16px;
-	font-style: normal;
+	font-style: italic;
 	line-height: normal;
 	font-variant: normal;
 	color: #009;
