@@ -238,6 +238,7 @@
 \xv Ab' u-leng' i-ka.
 \xn Listen to me for a second.
 \un
+\en Cognate with the conative prefix fv:bu-1.
 \sn 2
 \wn used alone
 \dn encouragement towards action: ‘come on’
@@ -3333,7 +3334,7 @@ person
 \ge
 \gn sander
 \ll skin of stingray
-\dn traditional sander, made of the rough skin of
+\dn traditional sander, made of the rough skin of a stingray (fv:voro2)
 \rf DG2++
 \lf
 \tn |{tab}|fb{The stingray sander} £ |{tab}[|vl{bele voro}*]
@@ -4936,9 +4937,14 @@ be more than. Forms comparative structures
 \xn They collected shoots, and began to plant them around the island.
 \rf DP2-18a
 \ta §TIT§ |{tab}|fb{Words for planting}   [|vl{~do}*]
+|{tab}fv:~do1   |{tab}|{tab}|fs{plant tree, flower}
 |{tab}|fv{~teli}   |{tab}|{tab}|fs{plant fruit, taro}
+|{tab}fv:~vo3   |{tab}|{tab}|fs{plant a banana}
 |{tab}|fv{~woi}   |{tab}|{tab}|fs{plant maniok}
+|{tab}fv:~wowo3     |{tab}|fs{plant yam, tuber}
 |{tab}|fv{vese}   |{tab}|{tab}|fs{seed}
+|{tab}fv:mata2   |{tab}|{tab}|fs{sprout}
+|{tab}fv:jie2   |{tab}|{tab}|fs{taro shoot, sucker}
 |{tab}|fv{ekuo}   |{tab}|{tab}|fs{digging stick}
 \el  
 \nt
@@ -5197,6 +5203,7 @@ Japan.
 \lf
 \tn |{tab}|fb{Erythrinas and calendars} [|vl{ebieve}*]
 |vl{Noma, ebieve nga calendar adapa. Pe ka mana dapa ka li-ovei li-ko ka li-ka ne to ebieve.} – ’|fe{In the olden days, Erythrina flowers would serve as a kind of a calendar. When people would see its flowers had come out, they knew they were in the middle of the year.}’
+The annual flowering of this tree was traditionally a marker of the yam-planting season. This correlation accounts for the homophony between the two words, vl:ebieve1 ‘Erythrina flower’ and vl:ebieve2 ‘season, year’.
 \bb Ross (2008:159, 257)
 \el
 \nt
@@ -5226,6 +5233,7 @@ Japan.
 \xn [how many are your years?] How old are you?
 \un Etym.
 \en This noun is metonymically named after the yearly flowering of the Erythrina
+flower (fv:ebieve1).
 \lf
 \el
 \nt
@@ -7058,6 +7066,7 @@ made of wood or plastic.
 \xv Kape le-kae?!
 \xn How were they supposed to proceed?!
 \un Morph.
+\en Probably from vl:~ka4 ‘do like’ + vl:ae ‘what’.
 \sn 2
 \wn static reading
 \dn be how? 
@@ -8179,6 +8188,7 @@ dance.
 \en Vanikoro has no phone. Communication between villages, or with other islands,
 is done by teleradio.
 \sn 4
+\wn followed by vl:~ko2
 \dn call <s.th., s.o.> with such and such a name
 \rf
 \xv Dapa li-kila li-ko “Beme” pe ini beme.
@@ -10475,6 +10485,7 @@ take away, carry
 |{tab}|fv{~tabe} |{tab}|{tab}|fs{hold in o.'s arms} 
 |{tab}|fv{~papa} |{tab}|{tab}|fs{carry on o.'s back} 
 |{tab}|fv{~valangia} |{tab}|{tab}|fs{carry on stick} 
+|{tab}fv:~wo2 |{tab}|{tab}|fs{carry on forehead strap}
 \sn 2
 \dn take <s.o.> somewhere fl:or away
 \rf
@@ -13332,6 +13343,7 @@ light]
 \gn not_know
 \wn static reading
 \hn comm
+\dn not know, be ignorant of <s.th.>; have no idea (if, fv:~ko2)
 \rm
 \xm En' ni-mui ni-ko ponu Moresi men' iape iote emele.
 \xb I didn't know Mores had a girl.
@@ -14428,6 +14440,7 @@ moon.
 \dn food
 \rf
 \un Etym.
+\en Semantic extension of fv:none1.
 \lf
 \se wonone
 \ps n
@@ -14498,6 +14511,7 @@ moon.
 \hm 2
 \ps n
 \gr
+\dn by analogy of shape with the centipede (fv:nuduro1),
 designates various artefacts characterised by their length
 \rf
 \sn 1
@@ -18897,6 +18911,7 @@ diamond-shaped fan with its handle
 \ge
 \gn
 \dn k.o. seashore tree, whose hard wood is used for several artifacts,
+incl. fv:tekumete2
 \sc Pemphis acidula
 \sd Bot
 \rf DG2-12a
@@ -21745,6 +21760,7 @@ long Heliconia leaves (|fv{lukilo vekai}) during public celebrations
 |{tab}|fv{~wasi}   |{tab}|{tab}|fs{show s.o.}
 |{tab}|fv{~waivo}   |{tab}|{tab}|fs{teach s.o.}
 |{tab}|fv{~kilase}   |{tab}|{tab}|fs{address s.o.}
+|{tab}fv:~ko2   |{tab}|{tab}|fs{say, think}
 |{tab}|fv{~vodo}   |{tab}|{tab}|fs{think}
 \sn 3
 \uv word+
@@ -22016,6 +22032,7 @@ a (beautiful) song.
 \xn I absolutely love it!
 \sn 9
 \uv |vl{awa}* ‘neck > will’
+\wn foll. by vl:~ko3
 \dn want to do s.th.; want that
 \rf DG1-21
 \xv Awa kupa i-viane pi-ko u-le u-romo tadoe akapa.
@@ -22606,6 +22623,7 @@ baking food
 \xv None ka i-vo sa eo?
 \xn Has your meal filled up your tummy? (|fl{i.e.} are you full?)
 \ue
+\ee From fv:~vo1 (?)
 \lf
 \se ~vo mwa tanoe
 \ps voi
@@ -23673,6 +23691,7 @@ of s.o.
 \xv Kie dapa i-wene Paiu.
 \xn Their graves are in Paiou.
 \un
+\en Animate subjects take vl:~te3.
 \sn 3
 \wn resultative serialisation
 \hn esp
@@ -23804,6 +23823,8 @@ ground; fl:hence harvest
 home.
 \rf cf. DP1-26a
 \un Techn
+\en Alocasia taros (vl:vioe) are harvested by digging (fl:Cf. fv:~ae2); whereas
+Colocasia taros (vl:jebute) are harvested by pulling (fl:Cf. fv:~au1).
 \sn 6
 \wn in cooking
 \dn pound <taros, almonds+> in a bowl, using a long and heavy pestle
