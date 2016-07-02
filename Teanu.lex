@@ -238,7 +238,6 @@
 \xv Ab' u-leng' i-ka.
 \xn Listen to me for a second.
 \un
-\en Cognate with the conative prefix |fv{bu-}|hm{1}.
 \sn 2
 \wn used alone
 \dn encouragement towards action: ‘come on’
@@ -249,7 +248,7 @@
 \nt
 \nq
 \dc 07/Jun/2005
-\dt 12/May/2012
+\dt 24/Jun/2016
 
 \lx ~abu
 \ph (i·)aᵐbu
@@ -340,7 +339,7 @@
 \on music
 \xn Who's playing?
 \lf Cf.
-\lv ~vi|hm{1}
+\lv ~vi1
 \ln blow
 \el
 \nt
@@ -360,13 +359,13 @@
 \xv Kape n-abu lusa ene ne iaero.
 \xn I'm gonna wash my shirt in the river.
 \lf Cf.
-\lv ~aka|hm{2}
+\lv ~aka2
 \ln wash gently
 \el
 \nt
 \nq
 \dc 20/Nov/2009
-\dt 24/May/2012
+\dt 24/Jun/2016
 
 \lx ~abui
 \ph (i·)aᵐbui
@@ -380,7 +379,7 @@
 \xn We took our tools down (from the ship) and brought them to build
 another boat.
 \lf Cf.
-\lv abu|hm{2}
+\lv abu2
 \el
 \nt
 \nq
@@ -1152,7 +1151,7 @@ suddenly, then, without further ado
 \xv Kape n-aka basa ene.
 \xn I'm gonna wash my face.
 \lf Cf.
-\lv ~abu|hm{4}
+\lv ~abu4
 \ln wash energetically
 \el
 \nt
@@ -2381,8 +2380,8 @@ of the oven (fv:awene) while cooking
 \xv Le-la i-avo korone nara i-sabu.
 \xn We must hook (the bait) firmly for fear it might fall off.
 \un Morph.
-\en The sequence |vl{~la i-avo} is sometimes contracted into a single verb
-|vl{~laiavo}* ‘hang, hook+’.
+\en The sequence |vl{~la i-avo} is sometimes contracted
+into a single verb |vl{~laiavo}* ‘hang, hook+’.
 \sn 2
 \uv
 \dn be located above
@@ -2412,12 +2411,12 @@ of the oven (fv:awene) while cooking
 \lf Ant.
 \lv ~tavea
 \ln drift
-\nt cf. drift = ??
+\nt
 \el
 \nt
 \nq
 \dc 15/Nov/2009
-\dt 24/May/2012
+\dt 08/Apr/2016
 
 \lx ~avo
 \ph (i·)avo
@@ -3334,8 +3333,7 @@ person
 \ge
 \gn sander
 \ll skin of stingray
-\dn traditional sander, made of the rough skin of a stingray
-(|fv{voro}|hm{2})
+\dn traditional sander, made of the rough skin of
 \rf DG2++
 \lf
 \tn |{tab}|fb{The stingray sander} £ |{tab}[|vl{bele voro}*]
@@ -3345,7 +3343,7 @@ person
 \nt
 \nq
 \dc 24/Nov/2009
-\dt 12/May/2012
+\dt 25/Jun/2016
 
 \lx belebale
 \ph ᵐbeleᵐbale
@@ -3824,7 +3822,7 @@ kava.
 \lv ~su
 \ln blocked
 \lf Ant.
-\lv ~ko|hm{3}
+\lv ~ko3
 \se
 \ps vt
 \wr B
@@ -3833,7 +3831,7 @@ kava.
 \xv Ka li-ko ruene, ka li-tabo li-bono.
 \xn They open the door, and then shut it again.
 \lf Ant.
-\lv ~ko|hm{3}
+\lv ~ko3
 \el
 \nt
 \nq
@@ -4151,7 +4149,7 @@ way to protect
 \en Combines especially with verbs in order sentences.
 \lf
 \el ax:See
-\et abu|hm{1}
+\et abu1
 \nt
 \nq
 \dc 23/Mar/2008
@@ -4938,20 +4936,15 @@ be more than. Forms comparative structures
 \xn They collected shoots, and began to plant them around the island.
 \rf DP2-18a
 \ta §TIT§ |{tab}|fb{Words for planting}   [|vl{~do}*]
-|{tab}|fv{~do}|hm{1}   |{tab}|{tab}|fs{plant tree, flower}
 |{tab}|fv{~teli}   |{tab}|{tab}|fs{plant fruit, taro}
-|{tab}|fv{~vo}|hm{3}   |{tab}|{tab}|fs{plant a banana}
 |{tab}|fv{~woi}   |{tab}|{tab}|fs{plant maniok}
-|{tab}|fv{~wowo}|hm{3}     |{tab}|fs{plant yam, tuber}
 |{tab}|fv{vese}   |{tab}|{tab}|fs{seed}
-|{tab}|fv{mata}|hm{2}   |{tab}|{tab}|fs{sprout}
-|{tab}|fv{jie}|hm{2}   |{tab}|{tab}|fs{taro shoot, sucker}
 |{tab}|fv{ekuo}   |{tab}|{tab}|fs{digging stick}
 \el  
 \nt
 \nq
 \dc 19/Nov/2009
-\dt 24/May/2012
+\dt 24/Jun/2016
 
 \lx ~do
 \ph (i·)ⁿdo
@@ -5204,7 +5197,6 @@ Japan.
 \lf
 \tn |{tab}|fb{Erythrinas and calendars} [|vl{ebieve}*]
 |vl{Noma, ebieve nga calendar adapa. Pe ka mana dapa ka li-ovei li-ko ka li-ka ne to ebieve.} – ’|fe{In the olden days, Erythrina flowers would serve as a kind of a calendar. When people would see its flowers had come out, they knew they were in the middle of the year.}’
-The annual flowering of this tree was traditionally a marker of the yam-planting season. This correlation accounts for the homophony between the two words, |vl{ebieve}|hm{1} ‘Erythrina flower’ and |vl{ebieve}|hm{2} ‘season, year’.
 \bb Ross (2008:159, 257)
 \el
 \nt
@@ -5234,7 +5226,6 @@ The annual flowering of this tree was traditionally a marker of the yam-planting
 \xn [how many are your years?] How old are you?
 \un Etym.
 \en This noun is metonymically named after the yearly flowering of the Erythrina
-flower (|fv{ebieve}|hm{1}*).
 \lf
 \el
 \nt
@@ -6826,7 +6817,7 @@ distant or invisible person in the bush
 \rf
 \un Morph.
 \en 3sg form of the interrogative verb |vl{~ve}.
-\mn ~ve|hm{1}
+\mn ~ve1
 \el
 \nt
 \nq
@@ -7067,7 +7058,6 @@ made of wood or plastic.
 \xv Kape le-kae?!
 \xn How were they supposed to proceed?!
 \un Morph.
-\en Probably from |vl{~ka}|hm{4} ‘do like’ + vl:ae ‘what’.
 \sn 2
 \wn static reading
 \dn be how? 
@@ -7077,7 +7067,7 @@ made of wood or plastic.
 \rf
 \xv
 \lf Syn.
-\lv ~ve|hm{1}
+\lv ~ve1
 \sn 3
 \wn V2 in serialisation, with subject agreement
 \dn how?
@@ -7103,7 +7093,7 @@ made of wood or plastic.
 \un
 \nt The predicate |vl{i-kae} is sometimes left implicit.
 \lf Syn.
-\lv ~ve|hm{1}
+\lv ~ve1
 \se we i-kae?
 \ps phr
 \wn question tag
@@ -7372,7 +7362,7 @@ Vanikoro is, with Tikopia, the world's easternmost place where the chewing of ar
 \xv Kape jebute i-karau na metae, pe ero tae.
 \xn Taro can't grow here, because there's no water.
 \lf Cf.
-\lv ~ta|hm{3}
+\lv ~ta3
 \sn 2
 \hn
 \uv child
@@ -7568,7 +7558,7 @@ usually with |vl{~wene}.
 \xv Ba-ko ba-katau ene le-le ne toloto?
 \xn Do you guys want to join me to the lake?
 \lf Syn.
-\lv ~kila|hm{2}
+\lv ~kila2
 \sn 2
 \hn fig
 \dn follow, come after <s.o.>
@@ -7677,7 +7667,7 @@ following] them all.
 \nt
 \nq
 \dc 20/Nov/2009
-\dt 24/May/2012
+\dt 24/Jun/2016
 
 \lx kate
 \ph kate
@@ -8189,7 +8179,6 @@ dance.
 \en Vanikoro has no phone. Communication between villages, or with other islands,
 is done by teleradio.
 \sn 4
-\wn followed by |vl{~ko}|hm{2}
 \dn call <s.th., s.o.> with such and such a name
 \rf
 \xv Dapa li-kila li-ko “Beme” pe ini beme.
@@ -10392,7 +10381,7 @@ with its area
 \ge râper
 \gn grate
 \dn scrape <tuber> fl:or grate <coconut flesh>, with a bivalve shell
-(fv:aero|hm{2}) or grater
+(fv:aero2) or grater
 \rf DG1-34b
 \xv I-tau jebute awoiu ponu, i-lu.
 \xn Once the taro was done, he scraped (its skin).
@@ -10418,7 +10407,7 @@ with its area
 \xv Kape le-lu bete.
 \xn They are ready to fold their mats.
 \lf Syn.
-\lv ~bu|hm{3}
+\lv ~bu3
 \se ~lu bete
 \ps voi
 \ll fold mats
@@ -10486,7 +10475,6 @@ take away, carry
 |{tab}|fv{~tabe} |{tab}|{tab}|fs{hold in o.'s arms} 
 |{tab}|fv{~papa} |{tab}|{tab}|fs{carry on o.'s back} 
 |{tab}|fv{~valangia} |{tab}|{tab}|fs{carry on stick} 
-|{tab}|fv{~wo}|hm{2} |{tab}|{tab}|fs{carry on forehead strap}
 \sn 2
 \dn take <s.o.> somewhere fl:or away
 \rf
@@ -10889,7 +10877,7 @@ them.
 \xv
 \en |fv{~maili iawo} is sometimes contracted as |fv{~maliawo}.
 \lf Cf.
-\lv ~su|hm{1}
+\lv ~su1
 \ln burn
 \el
 \nt
@@ -12995,7 +12983,7 @@ haphazardly
 \gn
 \dn a sturdy, round wooden mortar used in cooking, fl:esp. to pound
 taros and Canarium almonds (|fv{vongoro}) during the preparation
-of the pudding (fv:mama|hm{2})
+of the pudding (fv:mama2)
 \rf
 \xv I-tau jebute moioe ponu, i-loko i-ka i-le ne monone ka i-wete. I-wete awoiu ka
 i-ejau mama ada.
@@ -13344,7 +13332,6 @@ light]
 \gn not_know
 \wn static reading
 \hn comm
-\dn not know, be ignorant of <s.th.>; have no idea (if, |fv{~ko}|hm{2})
 \rm
 \xm En' ni-mui ni-ko ponu Moresi men' iape iote emele.
 \xb I didn't know Mores had a girl.
@@ -14441,7 +14428,6 @@ moon.
 \dn food
 \rf
 \un Etym.
-\en Semantic extension of |fv{none}|hm{1}.
 \lf
 \se wonone
 \ps n
@@ -14512,7 +14498,6 @@ moon.
 \hm 2
 \ps n
 \gr
-\dn by analogy of shape with the centipede (|fv{nuduro}|hm{1}),
 designates various artefacts characterised by their length
 \rf
 \sn 1
@@ -16698,7 +16683,7 @@ daily basis (fl:vs. fv:ngamuli ‘ocean’)
 |{tab}|fv{kidisa revo}   |{tab}|fs{salt}
 |{tab}|fv{vioe peini revo}   |{tab}|fs{sea foam}
 \se ~le ne revo
-\ps n
+\ps vi
 \gr
 \ll go to the sea
 \hn euph
@@ -16738,7 +16723,7 @@ oven.
 \el
 \nt
 \dc 12/May/2012
-\dt 23/May/2012
+\dt 14/Apr/2016
 
 \lx ro
 \ph ro
@@ -17088,7 +17073,7 @@ kava.
 \xb
 \lf Syn.
 \lv ~sabu
-\lv ~pu|hm{2}
+\lv ~pu2
 \lv awoiu
 \el
 \nt
@@ -18817,7 +18802,7 @@ carry food
 \en Fans are traditionally woven with coconut leaves. They are diamond-shaped, and
 have a handle at one end.
 \lf Cf.
-\lv ~bi|hm{2}
+\lv ~bi2
 \sn 2
 \hn
 \uv
@@ -18829,7 +18814,7 @@ diamond-shaped fan with its handle
 \nt
 \nq
 \dc 19/Nov/2009
-\dt 19/Nov/2009
+\dt 24/Jun/2016
 
 \lx teipu
 \ph teipu
@@ -18912,7 +18897,6 @@ diamond-shaped fan with its handle
 \ge
 \gn
 \dn k.o. seashore tree, whose hard wood is used for several artifacts,
-incl. |fv{tekumete}|hm{2}
 \sc Pemphis acidula
 \sd Bot
 \rf DG2-12a
@@ -19082,7 +19066,7 @@ incl. |fv{tekumete}|hm{2}
 \xv Vivilo li-teli ne netebe.
 \xn Cyrtosperma taros are planted in swamps.
 \lf Cf.
-\lv ~do|hm{1}*
+\lv ~do1
 \sn 3
 \wn
 \hn
@@ -19119,7 +19103,7 @@ family
 \nt
 \nq
 \dc 17/Mar/2008
-\dt 24/May/2012
+\dt 02/Jul/2016
 
 \lx teliki
 \ph teliki
@@ -20438,7 +20422,7 @@ owner of the photo, not its object.
 \xn fruit of Barringtonia
 \rf
 \lf Cf.
-\lv ~wo|hm{4}
+\lv ~wo4
 \ln bear fruit
 \se ua vilo
 \ps n
@@ -20574,7 +20558,7 @@ they brought them.
 \xv Abo peini ma i-udu.
 \xn His blood was dripping from his hand.
 \lf Cf.
-\lv ~pu|hm{1}
+\lv ~pu1
 \ln flow
 \el
 \nt
@@ -21667,7 +21651,7 @@ long Heliconia leaves (|fv{lukilo vekai}) during public celebrations
 \xv Li-vesu bavede
 \xn hoist the sail
 \lf Cf.
-\lv ~vo|hm{2}
+\lv ~vo2
 \lv ~woi
 \se ~vesu bavede
 \ps voi
@@ -21761,7 +21745,6 @@ long Heliconia leaves (|fv{lukilo vekai}) during public celebrations
 |{tab}|fv{~wasi}   |{tab}|{tab}|fs{show s.o.}
 |{tab}|fv{~waivo}   |{tab}|{tab}|fs{teach s.o.}
 |{tab}|fv{~kilase}   |{tab}|{tab}|fs{address s.o.}
-|{tab}|fv{~ko}|hm{2}   |{tab}|{tab}|fs{say, think}
 |{tab}|fv{~vodo}   |{tab}|{tab}|fs{think}
 \sn 3
 \uv word+
@@ -22033,7 +22016,6 @@ a (beautiful) song.
 \xn I absolutely love it!
 \sn 9
 \uv |vl{awa}* ‘neck > will’
-\wn foll. by |vl{~ko}|hm{3}
 \dn want to do s.th.; want that
 \rf DG1-21
 \xv Awa kupa i-viane pi-ko u-le u-romo tadoe akapa.
@@ -22624,7 +22606,6 @@ baking food
 \xv None ka i-vo sa eo?
 \xn Has your meal filled up your tummy? (|fl{i.e.} are you full?)
 \ue
-\ee From |fv{~vo}|hm{1} (?)
 \lf
 \se ~vo mwa tanoe
 \ps voi
@@ -22696,12 +22677,12 @@ tanoe}) in the garden; fl:hence grow big
 \on type of banana
 \xn planted bananas
 \lf Cf.
-\lv ~do|hm{1}*
+\lv ~do1
 \el
 \nt
 \nq
 \dc 17/Mar/2008
-\dt 24/May/2012
+\dt 02/Jul/2016
 
 \lx vodo
 \ph foⁿdo
@@ -22884,7 +22865,7 @@ present world.
 \xv Kuo enone i-vongo.
 \xn My canoe was burnt!
 \lf Cf.
-\lv ~su|hm{1}
+\lv ~su1
 \ln burn s.th.
 \el POc
 \et *paŋan
@@ -23052,7 +23033,7 @@ present world.
 \sd Fish
 \rf DG2-02b
 \lf Cf.
-\lv voro|hm{2}
+\lv voro2
 \ln stingray
 \el
 \nt
@@ -23692,7 +23673,6 @@ of s.o.
 \xv Kie dapa i-wene Paiu.
 \xn Their graves are in Paiou.
 \un
-\en Animate subjects take |vl{~te}|hm{3}.
 \sn 3
 \wn resultative serialisation
 \hn esp
@@ -23824,8 +23804,6 @@ ground; fl:hence harvest
 home.
 \rf cf. DP1-26a
 \un Techn
-\en Alocasia taros (vl:vioe) are harvested by digging (fl:Cf. |fv{~ae}|hm{2}); whereas
-Colocasia taros (vl:jebute) are harvested by pulling (fl:Cf. |fv{~au}|hm{1}).
 \sn 6
 \wn in cooking
 \dn pound <taros, almonds+> in a bowl, using a long and heavy pestle
@@ -24041,7 +24019,7 @@ whether to carry firewood or harvested food.
 \xv Li-woi elela manioka.
 \xn They planted a stock of manioc.
 \lf Cf.
-\lv ~wowo|hm{3}
+\lv ~wowo3
 \ln plant tuber
 \sn 3
 \ge dresser
@@ -24055,7 +24033,7 @@ whether to carry firewood or harvested food.
 \xv Dapa li-woi nuduro ne touro.
 \xn They put up taboo signs (|vl{nuduro}*) on the seashore.
 \lf Syn.
-\lv ~vo|hm{2}
+\lv ~vo2
 \sn 4
 \hn
 \uv
