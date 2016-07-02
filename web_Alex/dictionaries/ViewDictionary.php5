@@ -25,13 +25,10 @@ a:active {
 
 <body>
 <!-- Banner -->
-<table width="auto" height="40" align="center">
+<table width="auto" height="40" align="center" cellpadding="8">
   <tr>
-    <td width="auto" height="40" align="center" colspan="2"><img src="../images/HimalCo/baniere.jpg" width="1200" height="40"/></td>
-  </tr>
-  <tr>
-    <td align="left"><img src="../images/logos/cnrs.jpg" width="60" height="60"/></td>
-    <td align="right"><img src="../images/logos/ANR.gif" width="80" height="60"/></td>
+    <td width="auto" height="40" align="left"><a href="../../../index.htm" target="_blank"><img src="../images/cadre/pagayeurs_s.jpg" height="60" border="2"/></a></td>
+    <td align="center"><img src="../images/cadre/AF-CK_Bandeau-Salaire-01.jpg" height="56" /><img src="../images/cadre/AF-CK_Bandeau-Salaire-02.jpg" height="56" alt="banner" /></td>
   </tr>
 </table>
 <!-- Menu --> 
@@ -79,7 +76,11 @@ a:active {
   <tr> 
     <!-- Left menu -->
     <td width="10%" height="700" align="left" valign="top"><p class="menu"><a href="index.htm">Presentation</a></p>
-      <p class="menu"><a href="SelectDictionary.php5?dict=mwotlap">Mwotlap</a></p></td>
+      <p class="menu"><a href="SelectDictionary.php5?dict=mwotlap">Mwotlap</a></p>
+      <p class="pinyin"><a href="http://alex.francois.free.fr/dict/Mwotlap/dictionaries/ViewOneCharacter.php5?dict=mwotlap&amp;lang1=fra&amp;lang2=eng&amp;langn=*&amp;char=a">Mtp–Fr–Eng</a></p>
+      <p class="pinyin"><a href="http://alex.francois.free.fr/dict/Mwotlap/dictionaries/ViewOneCharacter.php5?dict=mwotlap&amp;lang1=eng&amp;lang2=fra&amp;langn=*&amp;char=a">Mtp–Eng–Fr</a></p>
+      <p class="pinyin"><a href="http://alex.francois.free.fr/dict/Mwotlap/dictionaries/ViewOneCharacter.php5?dict=mwotlap&amp;lang1=eng&amp;lang2=*&amp;langn=*&amp;char=a">Mtp–Eng</a></p>
+      <p class="pinyin"><a href="http://alex.francois.free.fr/dict/Mwotlap/dictionaries/ViewOneCharacter.php5?dict=mwotlap&amp;lang1=fra&amp;lang2=*&amp;langn=*&amp;char=a">Mtp–Fr</a></p></td>
     <!-- Contents -->
     <td width="auto" height="700" align="justify" valign="top" bgcolor="#FFFFFF"><?php
                 	$dict = isset($_GET["dict"]) ? $_GET["dict"] : "*";
@@ -117,6 +118,14 @@ a:active {
   </tr>
 </table>
 <!-- Footer -->
+<!-- Logos -->
+<table width="auto" height="40" align="center" cellpadding="20">
+  <tr>
+    <td align="right" valign="middle"><a href="https://lacito.hypotheses.org/lacito" target="_blank"><img src="../images/logos/Logo-LACITO_rouge.png" height="60"/></a></td>
+    <td align="right" valign="middle"><img src="../images/logos/cnrs.jpg" height="70"/></td>
+    <td align="right" valign="middle"><img src="../images/logos/ANR.gif" height="60"/></td>
+  </tr>
+</table>
 
 </body>
 </html>
