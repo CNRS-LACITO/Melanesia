@@ -1,8 +1,8 @@
-\_sh v3.0  400  MDF vanikoro
+\_sh v3.0  1009 MDF vanikoro
 
 \lx ~a
-\ph (i·)a
 \hm 1
+\ph (i·)a
 \ps vi
 \gr
 \ge
@@ -19,11 +19,11 @@
 \nt
 \nq
 \dc 24/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx a-
-\ph a(i·)
 \hm 2
+\ph a(i)·
 \ps ppp
 \va ai-
 \a ai-
@@ -45,7 +45,7 @@
 \nt
 \nq
 \dc 07/Jun/2005
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx abia
 \ph aᵐbia
@@ -130,7 +130,7 @@
 \gn
 \dn k.o. plant
 \sc Acalypha hispida
-\sc A. grandis
+\sc Acalypha grandis
 \sd Bot
 \rf DG2-11a
 \lf
@@ -138,7 +138,7 @@
 \nt
 \nq
 \dc 20/Feb/2010
-\dt 12/May/2012
+\dt 16/Jul/2016
 
 \lx abilo
 \ph aᵐbilo
@@ -175,8 +175,8 @@
 \dt 12/May/2012
 
 \lx abo
-\ph aᵐbo
 \hm 1
+\ph aᵐbo
 \ps n
 \gr gras
 \ge herbe
@@ -191,11 +191,11 @@
 \nt
 \nq
 \dc 07/Jun/2005
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx abo
-\ph aᵐbo
 \hm 2
+\ph aᵐbo
 \ps n
 \gr blat
 \ge sang
@@ -218,11 +218,11 @@
 \nt
 \nq how is it possessed?? /ne/ ??!??
 \dc 07/Jun/2005
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx abu
-\ph aᵐbu
 \hm 1
+\ph aᵐbu
 \ps mod
 \gr traem
 \sn 1
@@ -249,11 +249,11 @@
 \nt
 \nq
 \dc 07/Jun/2005
-\dt 24/Jun/2016
+\dt 24/Jul/2016
 
 \lx ~abu
-\ph (i·)aᵐbu
 \hm 2
+\ph (i·)aᵐbu
 \ps vi
 \gr godaon
 \ge descendre
@@ -290,11 +290,11 @@
 \nt
 \nq
 \dc 07/Jun/2005
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~abu
-\ph (i·)aᵐbu
 \hm 3
+\ph (i·)aᵐbu
 \ps vt
 \gr kilim
 \sn 1
@@ -305,7 +305,7 @@
 \xv Ka vitoko kape i-abu tanoma ini, ia i-abu i-kovi.
 \xn He almost hit her face, luckily he missed her.
 \rf
-\xv Filisao i-abu toñaki pon.
+\xv Vilisao i-abu toñaki pon.
 \xn The ships were struck by a tornado.
 \rf DP2-15b+
 \xv Dapa kula li-abu revo, me le-labu namuko.
@@ -315,7 +315,7 @@
 \sn 2
 \ge tuer
 \gn kill
-\dn kill, slay, murder <s.o.>
+\dn kill, slay, murder ‹s.o.›
 \rf
 \xv Pon tadoe? Pon tepakola? Kape i-abu idi?
 \xn Is he a devil, a giant? Does he kill people?
@@ -325,13 +325,15 @@
 \rm
 \xm Tadoe tae: i-abu idi tae.
 \xb He's not a devil, he doesn't kill people.
+\lf Syn.
+\lv ~apini
 \sn 3
-\dn kill <animal>, fl:hence hunt, fish+
+\dn kill ‹animal›, fl:hence hunt, fish+
 \rf DP2-15b++
 \xv Mobo kape le-lui nuduro me l-abu namuko.
 \xn Tomorrow we'll carry the scareline to get some fish.
 \sn 4
-\dn play <musical instrument> using hands
+\dn play ‹musical instrument› using hands
 \rf DP1-27b
 \xv li-abu gita
 \xn play the guitar
@@ -346,16 +348,16 @@
 \nt
 \nq
 \dc 07/Jun/2005
-\dt 24/May/2012
+\dt 25/Jul/2016
 
 \lx ~abu
-\ph (i·)aᵐbu
 \hm 4
+\ph (i·)aᵐbu
 \ps vt
 \gr wasem
 \ge laver
 \gn wash
-\dn wash <clothes+> with water, fl:esp. vigorously
+\dn wash ‹clothes+› with water, fl:esp. vigorously
 \rf
 \xv Kape n-abu lusa ene ne iaero.
 \xn I'm gonna wash my shirt in the river.
@@ -366,7 +368,7 @@
 \nt
 \nq
 \dc 20/Nov/2009
-\dt 24/Jun/2016
+\dt 24/Jul/2016
 
 \lx ~abui
 \ph (i·)aᵐbui
@@ -388,8 +390,8 @@ another boat.
 \dt 24/May/2012
 
 \lx ada
-\ph aⁿda
 \hm 1
+\ph aⁿda
 \ps pos
 \gr
 \ge
@@ -412,11 +414,11 @@ customary possessions etc. (fv:enaka*), with a 3 dual possessor
 \nt
 \nq
 \dc 08/Jun/2005
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx ada
-\ph aⁿda
 \hm 2
+\ph aⁿda
 \ps pos
 \gr
 \ge
@@ -435,11 +437,11 @@ with a 3 dual possessor (fl:see fv:da)
 \nt
 \nq
 \dc 08/Jun/2005
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx adapa
-\ph aⁿdapa
 \hm 1
+\ph aⁿdapa
 \ps pos
 \gr
 \ge
@@ -468,11 +470,11 @@ customary possessions etc. (fv:enaka*), with a 3 dual possessor
 \nt
 \nq
 \dc 08/Jun/2005
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx adapa
-\ph aⁿdapa
 \hm 2
+\ph aⁿdapa
 \ps pos
 \gr
 \ge
@@ -493,7 +495,7 @@ with a 3 plural possessor (fl:see fv:dapa)
 \nt
 \nq
 \dc 08/Jun/2005
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx adawo
 \ph aⁿdawo
@@ -566,8 +568,8 @@ with a 3 plural possessor (fl:see fv:dapa)
 \dt 12/May/2012
 
 \lx ae
-\ph ae
 \hm 1
+\ph ae
 \ps int
 \gr wanem
 \sn 1
@@ -612,17 +614,17 @@ before a noun
 \nt
 \nq
 \dc 17/Nov/2009
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx ~ae
-\ph (i·)ae
 \hm 2
+\ph (i·)ae
 \ps vt
 \gr digim
 \ge creuser
 \gn dig
 \sn 1
-\dn hollow out; remove stuff from <wood+>
+\dn hollow out; remove stuff from ‹wood+›
 \rf
 \xv Tano ponu, li-ae mijaka me kava i-pu i-katau.
 \xn This kava bowl has been hollowed out a little, to allow kava to flow along.
@@ -631,13 +633,13 @@ before a noun
 \xn Once he had cut out the canoe, he began to hollow out its inner part.
 \sn 2
 \uv
-\dn dig a hole in <ground>
+\dn dig a hole in ‹ground›
 \rf
 \xv Li-mabui li-ae tanoe, wako ka li-lateli teve.
 \xn They quietly dug a hole in the ground, and put (the treasure) there.
 \sn 3
 \uv
-\dn dig <hole> in s.th.
+\dn dig ‹hole› in s.th.
 \rf
 \xv Li-ae kie.
 \xn They're digging a grave.
@@ -645,7 +647,7 @@ before a noun
 \sn 4
 \hn
 \uv
-\dn dig out, harvest <yam, taro>
+\dn dig out, harvest ‹yam, taro›
 \rf
 \xv Na uo kula kupa ka pi-ae.
 \xn These are a few yams we just dug out.
@@ -656,7 +658,7 @@ before a noun
 \nt
 \nq
 \dc 17/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx aele
 \ph aele
@@ -697,8 +699,8 @@ before a noun
 \dt 12/May/2012
 
 \lx aero
-\ph aero
 \hm 1
+\ph aero
 \ps n
 \gr fenis
 \sn 1
@@ -731,11 +733,11 @@ before a noun
 \nt
 \nq
 \dc 15/Nov/2009
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx aero
-\ph aero
 \hm 2
+\ph aero
 \ps n
 \gr
 \sn 1
@@ -757,7 +759,7 @@ coconut flesh or scrape the skin of tubers
 \nt
 \nq
 \dc 15/Nov/2009
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx aero we anive
 \ph aero we anive
@@ -816,7 +818,7 @@ time of the day
 \ps vt
 \gr
 \sn 1
-\dn spear <fish+>
+\dn spear ‹fish+›
 \rf
 \xv U-la tepao u-ago ñe namuko pon.
 \xn You spear the fish with a harpoon.
@@ -826,7 +828,7 @@ time of the day
 \lf Syn.
 \lv ~wete
 \sn 2
-\dn shoot <s.o., s.th.> using bow and arrow; fl:hence hunt
+\dn shoot ‹s.o., s.th.› using bow and arrow; fl:hence hunt
 \rf DP1-30a
 \xv La-le lai-ago telupe?
 \xn Shall we go pigeon-hunting?
@@ -836,7 +838,7 @@ time of the day
 \nt
 \nq
 \dc 20/Nov/2009
-\dt 24/May/2012
+\dt 17/Jul/2016
 
 \lx ai-
 \ph ai·
@@ -911,12 +913,17 @@ child's name is mentioned
 \uv s.th.
 \dn be difficult
 \rf
+\xv Piene adapa i-wen' moli, i-aiae tae!
+\xn Your language is easy, it's not difficult.
 \rf DP1-50%
 \xv Li-vete piene ñi i-aiae, ia li-lengi wako.
 \xn They speak it with difficulty, but they understand it well.
 \rm AF
 \xm Ni-ko piene aipa i-aiae tamwase.
 \xb Your language is too hard for me.
+\rf
+\xv Ni-romo viko i-aiae teve ene.
+\xn Money is an issue for me.
 \lf Ant.
 \lv ~wene moli
 \ln easy
@@ -924,11 +931,11 @@ child's name is mentioned
 \nt
 \nq
 \dc 17/Mar/2008
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx aidi
-\ph aiⁿdi
 \hm 1
+\ph aiⁿdi
 \ps pos
 \gr
 \ge
@@ -948,11 +955,11 @@ or of their leftover betel nut.
 \el
 \nt
 \dc 10/May/2012
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx aidi
-\ph aiⁿdi
 \hm 2
+\ph aiⁿdi
 \ps pos
 \gr
 \ge
@@ -967,11 +974,11 @@ impersonal possessor (fv:idi ‘people’)
 \el
 \nt
 \dc 10/May/2012
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx aipa
-\ph aipa
 \hm 1
+\ph aipa
 \ps pos
 \gr
 \ge
@@ -990,11 +997,11 @@ customary possessions etc. (fv:enaka*), with a 2 plural possessor
 \el
 \nt
 \dc 12/May/2012
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx aipa
-\ph aipa
 \hm 2
+\ph aipa
 \ps pos
 \gr
 \ge
@@ -1009,7 +1016,7 @@ with a 2 plural possessor (fl:see fv:kaipa*)
 \el
 \nt
 \dc 12/May/2012
-\dt 29/Jan/2013
+\dt 24/Jul/2016
 
 \lx ~aiu
 \ph (i·)aiu
@@ -1101,8 +1108,8 @@ suddenly, then, without further ado
 \dt 12/May/2012
 
 \lx ~aka
-\ph (i·)aka
 \hm 1
+\ph (i·)aka
 \ps vi
 \gr
 \sn 1
@@ -1135,16 +1142,16 @@ suddenly, then, without further ado
 \nt
 \nq
 \dc 18/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~aka
-\ph (i·)aka
 \hm 2
+\ph (i·)aka
 \ps vt
 \gr wash
 \ge laver
 \gn wash
-\dn wash <s.th.> gently, rinse with water
+\dn wash ‹s.th.› gently, rinse with water
 \rf DP1-17
 \xv Ni-aka okoro ne ero.
 \xn I washed the knife in the river.
@@ -1158,11 +1165,11 @@ suddenly, then, without further ado
 \nt
 \nq
 \dc 18/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx akapa
-\ph akapa
 \hm 1
+\ph akapa
 \ps pos
 \gr
 \ge
@@ -1189,11 +1196,11 @@ possessions etc. (fv:enaka*), with a 1st inclusive plural possessor
 \el
 \nt
 \dc 12/May/2012
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx akapa
-\ph akapa
 \hm 2
+\ph akapa
 \ps pos
 \gr
 \ge
@@ -1210,7 +1217,7 @@ with a 1st inclusive plural possessor (fv:kiapa)
 \el
 \nt
 \dc 12/May/2012
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx ~ako
 \ph (i·)ako
@@ -1256,15 +1263,52 @@ with a 1st inclusive plural possessor (fv:kiapa)
 \ge
 \gn leg
 \dn
+\sd Anat
 \rf
 \mn aele
 \el
 \nt
 \dc 10/May/2012
-\dt 12/May/2012
+\dt 18/Jul/2016
+
+\lx ~ali
+\hm 1
+\ph (i·)ali
+\ps vt
+\gr
+\ge cueillir
+\gn pick
+\dn pick ‹areca nuts, fv:buioe› by climbing on the tree
+\rf Tamate.004
+\xv Lai-au jebute, la-kidi puluko ada, lai-ali buioe ada, la-kamai ponu.
+\xn They went to harvest some taros, pinch off some betel leaves, pick some areca nuts, and came back.
+\lf
+\el
+\nt
+\nq
+\dc 24/Jul/2016
+\dt 24/Jul/2016
+
+\lx ~ali
+\hm 2
+\ph (i·)ali
+\ps vt
+\gr
+\ge lancer
+\gn cast
+\rn *
+\dn cast ‹a net, fv:pele›
+\rf
+\xv Kape u-ali pele po a-labu ponu?
+\xn Will you be casting that net you're holding?
+\lf
+\el
+\nq 2 verbs??
+\dc 24/Jul/2016
+\dt 24/Jul/2016
 
 \lx Alvaki
-\ph Alfaki
+\ph alfaki
 \ps loc
 \gr
 \ge
@@ -1277,7 +1321,7 @@ with a 1st inclusive plural possessor (fv:kiapa)
 \el
 \nt
 \dc 10/May/2012
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx amjaka
 \ph amᶮɟaka
@@ -1334,7 +1378,7 @@ with a 1st inclusive plural possessor (fv:kiapa)
 \dt 12/May/2012
 
 \lx Amo
-\ph Amo
+\ph amo
 \ps n
 \gr
 \ge
@@ -1346,7 +1390,7 @@ with a 1st inclusive plural possessor (fv:kiapa)
 \el
 \nt cf. Amoso
 \dc 12/May/2012
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx amoso
 \ph amoso
@@ -1367,21 +1411,6 @@ with a 1st inclusive plural possessor (fv:kiapa)
 \nq
 \dc 12/May/2012
 \dt 12/May/2012
-
-\lx amu
-\ph amu
-\ps
-\gr
-\ge
-\gn ???
-\rn *
-\dn
-\rf
-\lf
-\el
-\nt
-\dc
-\dt 10/May/2012
 
 \lx amuko
 \ph amuko
@@ -1468,8 +1497,8 @@ insect repellent on wood
 \dt 24/Nov/2009
 
 \lx Aneve
-\ph Aneve
 \hm 1
+\ph aneve
 \ps loc
 \gr
 \ge
@@ -1483,16 +1512,16 @@ insect repellent on wood
 \nt
 \nq
 \dc 25/Nov/2009
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx ~aneve
-\ph (i·)aneve
 \hm 2
+\ph (i·)aneve
 \ps vt
 \gr brumum
 \ge balayer
 \gn sweep
-\dn sweep <place, s.th.> with a broom
+\dn sweep ‹place, s.th.› with a broom
 \nq broom?
 \rf DG1-33b
 \xv Li-aneve lema mwoe, ka maro.
@@ -1502,7 +1531,7 @@ insect repellent on wood
 \nt
 \nq
 \dc 15/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx anive
 \ph anive
@@ -1512,7 +1541,7 @@ insect repellent on wood
 \gn dugong
 \dn dugong
 \sc Dugong dugon
-\sd Fish
+\sd Sea
 \rf DG4-06b
 \xv Ni-rom anive iote pine ni-sai ñe kuo 'none ne.
 \xn I saw a large dugong, I thought it was (as big as) my canoe.
@@ -1529,7 +1558,7 @@ Melanesia
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 12/May/2012
+\dt 18/Jul/2016
 
 \lx anluko
 \ph anluko
@@ -1611,7 +1640,7 @@ itinerary.
 \ge tortue
 \gn turtle
 \dn turtle, fl:esp. sea turtle
-\sc Cheloniidae|ax{ spp}
+\sc Cheloniidae |ax{spp}
 \sd Sea
 \rf DG2-16a
 \rf
@@ -1645,7 +1674,7 @@ itinerary.
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 21/Feb/2010
+\dt 31/Jul/2016
 
 \lx aña
 \ph aɲa
@@ -1655,7 +1684,7 @@ itinerary.
 \sn 1
 \ge
 \gn bit
-\dn piece, bit of <food+>
+\dn piece, bit of ‹food+›
 \rf
 \xv aña mana luro
 \xn a bit of rice
@@ -1667,7 +1696,7 @@ itinerary.
 \lv añaña
 \ln small bits
 \sn 2
-\dn taste of <s.th.>
+\dn taste of ‹s.th.›
 \rf
 \xv Aña wako tadoe!
 \xn [Taste is terribly good] This is absolutely delicious!
@@ -1675,7 +1704,7 @@ itinerary.
 \xv None ne aña tamwaleko.
 \xn [this food, taste is bad] This food doesn't taste good.
 \sn 3
-\dn noise of <s.th.>
+\dn noise of ‹s.th.›
 \rf
 \xv aña ruene pe li-ko
 \xn the noise of a door being slammed
@@ -1687,7 +1716,7 @@ itinerary.
 \ln sound
 \sn 4
 \hn fig
-\dn strength, energy of <s.o.>
+\dn strength, energy of ‹s.o.›
 \rf
 \xv Ebele ene aña ini tae tamwase, ka ni-atui pe ni-aiu.
 \xn My body has no strength, I can hardly get up.
@@ -1696,7 +1725,7 @@ itinerary.
 \nt
 \nq
 \dc
-\dt 12/May/2012
+\dt 17/Jul/2016
 
 \lx añaña
 \ph aɲaɲa
@@ -1705,7 +1734,7 @@ itinerary.
 \ge
 \gn bits
 \nt reduplication!!
-\dn small bits of <s.th.>
+\dn small bits of ‹s.th.›
 \rf
 \xv Li-mali iawo semame añaña longe.
 \xn We light a fire with small bits of firewood.
@@ -1715,7 +1744,7 @@ itinerary.
 \el
 \nt
 \dc 12/May/2012
-\dt 12/May/2012
+\dt 17/Jul/2016
 
 \lx añawo
 \ph aɲawo
@@ -1724,8 +1753,8 @@ itinerary.
 \ge baleine
 \gn whale
 \dn whale
-\sc Balaenidae|ax{ spp}
-\sd Fish
+\sc Balaenidae |ax{spp}
+\sd Sea
 \rf DG2-02b
 \lf
 \se loro ie añawo
@@ -1740,7 +1769,7 @@ itinerary.
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 12/May/2012
+\dt 31/Jul/2016
 
 \lx angede
 \ph aŋeⁿde
@@ -1749,7 +1778,7 @@ itinerary.
 \sn 1
 \ge empreinte
 \gn track
-\dn footprint, tracks left by <man, animal> on the ground
+\dn footprint, tracks left by ‹man, animal› on the ground
 \rf
 \xv angede ene
 \xn my footprints
@@ -1764,7 +1793,7 @@ itinerary.
 \sn 2
 \hn
 \uv
-\dn relic, remains, vestiges of <s.th.>; traces left by <s.o.>, fl:esp. in the
+\dn relic, remains, vestiges of ‹s.th.›; traces left by ‹s.o.›, fl:esp. in the
 landscape
 \rf DP1-35a
 \xv angede Upeire
@@ -1773,7 +1802,7 @@ landscape
 \nt
 \nq
 \dc 21/Nov/2009
-\dt 30/Nov/2013
+\dt 17/Jul/2016
 
 \lx angede ovene
 \ph aŋeⁿde ovene
@@ -1876,21 +1905,23 @@ landscape
 \gr
 \ge
 \gn make
-\dn make, create <s.th.>
-\rf
-\rm
-\xm Li-apilo vekai.
-\xb We make a pudding (?)
+\dn make, create ‹s.th.›
+\rf Lupo.24
+\xv Li-apilo vekai wamtaka.
+\xn They made small puddings.
+\rf q.Wud.097
+\xv Dama noma vana li-apilo tenuro.
+\xn People in the past used to make coconut-string ropes.
 \rf
 \xv Li-apilo toñaki.
-\xn They made a ship.
+\xn They built a ship.
 \lf Syn.
 \lv ~ejau
 \ln
 \se ~apilo sekele
 \ps voi
 \ll make garden
-\dn prepare <garden> for cultivation, cultivate
+\dn prepare ‹garden› for cultivation, cultivate
 \rf
 \xv Li-apilo sekele i-le li-teli avtebe.
 \xn They prepared their gardens, and then planted their taros.
@@ -1898,7 +1929,27 @@ landscape
 \el
 \nt
 \dc 12/May/2012
-\dt 24/May/2012
+\dt 17/Jul/2016
+
+\lx ~apini
+\ph (i·)apini
+\ps vt
+\gr
+\ge tuer
+\gn kill
+\dn kill ‹s.o.›, destroy ‹a group of people›
+\rf
+\rf DG1-18a
+\xv Vilisao i-lubi kuo ka i-apini idi.
+\xn The tornado spun the ship and killed everybody.
+\lf Cf.
+\lv ~abu3
+\ln hit, kill
+\el
+\nt point to synonyms?
+\nq
+\dc 25/Jul/2016
+\dt 25/Jul/2016
 
 \lx ~apinu
 \ph (i·)apinu
@@ -1932,11 +1983,13 @@ landscape
 \lf Cf.
 \lv ngiro
 \ln wind
+\lv melevele
+\ln disaster
 \el
 \nt
 \nq
 \dc 16/Nov/2009
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx aremo
 \ph aremo
@@ -1982,13 +2035,13 @@ landscape
 \sn 1
 \ge coudre
 \gn sew
-\dn sew <clothes+>
+\dn sew ‹clothes+›
 \rf
 \xv li-asai lusa idi
 \xn sew a shirt
 \sn 2
 \wn medic.
-\dn stitch up <wound>
+\dn stitch up ‹wound›
 \rf DP1-22b
 \xv Ni-woi basa ene li-asai.
 \xn I banged by head, and it was stitched up.
@@ -1997,24 +2050,29 @@ landscape
 \nt
 \nq
 \dc 19/Nov/2009
-\dt 24/May/2012
+\dt 17/Jul/2016
 
 \lx asodo
 \ph asoⁿdo
 \ps n
 \gr
-\ge
+\ge chauve-souris
 \gn bat
 \dn bat
 \sd Zool
-\rf
-\lf
+\sc Chiroptera spp.
+\rf q.Pijin.025
+\xv Uña asodo dapa li-avo ne bonge.
+\xn Bats hang in caves.
+\lf Cf.
+\lv lekele
+\ln flying-fox
 \el
 \nt
 \gl bebunie
 \gt bebunie
 \dc 10/May/2012
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx ata
 \ph ata
@@ -2022,7 +2080,7 @@ landscape
 \gr
 \ge
 \gn soul
-\dn soul, spirit of <s.o.> insofar as it can be separated from the body
+\dn soul, spirit of ‹s.o.› insofar as it can be separated from the body
 \rf
 \xv Ata ini kape i-le ne Popokia.
 \on abode of the Dead
@@ -2036,7 +2094,7 @@ landscape
 \eg soul, spirit
 \nt
 \dc 10/May/2012
-\dt 12/May/2012
+\dt 17/Jul/2016
 
 \lx atavono
 \ph atavono
@@ -2093,11 +2151,11 @@ landscape
 \gr
 \ge
 \gn narrate
-\dn narrate, tell <story>
+\dn narrate, tell ‹story›
 \rf
 \xv Li-atevo iepiene pe noma ka li-oburo.
 \xn We tell old stories and we sing songs.
-\rf
+\rf Lap:Usao.29
 \xv Pi' akapa dapa li-atevo nga pon.
 \xn That's the story our ancestors used to tell.
 \lf Cf.
@@ -2106,7 +2164,7 @@ landscape
 \el
 \nt
 \dc 12/May/2012
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~atili
 \ph (i·)atili
@@ -2125,19 +2183,22 @@ landscape
 \dc 12/May/2012
 \dt 24/May/2012
 
-\lx ativi
-\ph ativi
-\ps
+\lx ~ativi
+\ph (i·)ativi
+\ps vrfl
 \gr
 \ge
 \gn
-\dn
-\rf
+\wn reflexive construction
+\dn put on special clothes, dress up
+\rf Mwasu.022
+\xv Da viñevi li-ativi dapa ñe tekume.
+\xn The women dressed up with 'tekume' clothes.
 \lf
 \el
 \nt
-\dc
-\dt 12/May/2012
+\dc 16/Jul/2016
+\dt 16/Jul/2016
 
 \lx ~atui
 \ph (i·)atui
@@ -2171,21 +2232,21 @@ landscape
 \dt 24/May/2012
 
 \lx ~au
-\ph (i·)au
 \hm 1
+\ph (i·)au
 \ps vt
 \gr
 \sn 1
 \ge
 \gn pluck
-\dn pluck out <s.th.> by pulling it out
+\dn pluck out ‹s.th.› by pulling it out
 \rf
 \xv li-au via kulevelu
 \xn pluck children feathers
 \sn 2
 \hn esp
 \uv
-\dn remove <water taro+> by plucking it out; fl:hence harvest
+\dn remove ‹water taro+› by plucking it out; fl:hence harvest
 \rf
 \xv Li-au basa kava iune.
 \xn They pulled out a head of kava.
@@ -2200,16 +2261,16 @@ landscape
 \nt
 \nq
 \dc 19/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~au
-\ph (i·)au
 \hm 2
+\ph (i·)au
 \ps vt
 \gr
 \ge
 \gn wrap
-\dn wrap <s.th.> with a leaf or equivalent
+\dn wrap ‹s.th.› with a leaf or equivalent
 \rf
 \xv Kape li-au ñe uie baudo.
 \xn We will wrap (the food) with baudo leaves.
@@ -2222,14 +2283,14 @@ landscape
 \nt
 \nq
 \dc 19/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx aulo
 \ph aulo
 \ps n
 \gr
 \ge
-\sc Pagurus|fs{ spp}
+\sc Pagurus |ax{spp}
 \gn pagurus
 \rn hermit crab ; Pagurus
 \dn hermitcrab, a small crustacean that lodges inside inside shells
@@ -2238,19 +2299,19 @@ landscape
 \lf
 \el
 \nt
-\dc
-\dt 10/May/2012
+\dc 10/May/2012
+\dt 31/Jul/2016
 
 \lx ava
+\hm 1
 \ph ava
-\wr A
 \ps nop
-\gr
+\gr wing
+\sd Ornith
 \sn 1
 \uv bird+
 \gn wing
 \dn wings
-\sd Ornith
 \rf
 \xv
 \se ava saba
@@ -2267,13 +2328,20 @@ shape is reminiscent of open wings
 \xv U-toe dekele namuko, ava ka wabasa mina.
 \xn You cut off the fish's tail, side fins and head.
 \lf
-\se ~ava
+\el POc
+\nt *kapak
+\dc 12/May/2012
+\dt 24/Jul/2016
+
+\lx ~ava
+\hm 2
+\ph ava
 \ps vi
-\wr B
 \gr
 \gn fly
 \uv bird+
 \dn fly
+\sd Ornith
 \rf
 \xv Menuko ka i-ava.
 \xn The bird has flown away.
@@ -2281,7 +2349,7 @@ shape is reminiscent of open wings
 \el POc
 \nt *kapak
 \dc 12/May/2012
-\dt 13/May/2012
+\dt 24/Jul/2016
 
 \lx ave
 \ph ave
@@ -2311,16 +2379,39 @@ shape is reminiscent of open wings
 \ph (i·)avi
 \ps vt
 \gr
-\ge
-\gn separate?
+\ge enlever
+\gn remove
+\dn remove ‹several objects› by picking them one by one
+\rf d10.Bekem:16
+\xv Li-avi visiboko ñe aviro.
+\xn You remove the oven stones with the tongs.
+\rf Toplau.82
+\xv Awoiu pon li-avi otovo.
+\xn Then they took off all the sago leaves.
+\lf
+\el
+\nt
+\nq liavi visone = ?
+\dc 24/Jul/2016
+\dt 24/Jul/2016
+
+\lx ~avi
+\hm 1
+\ph (i·)avi
+\ps vt
+\gr
+\ge effeuiller
+\gn
 \dn
+\rf Toplau.82
+\xv li-avi otovo
 \rf
 \lf
 \el
 \nt
 \nq liavi visone = ?
-\dc
-\dt 24/May/2012
+\dc 24/Jul/2016
+\dt 24/Jul/2016
 
 \lx avie
 \ph avie
@@ -2337,29 +2428,29 @@ shape is reminiscent of open wings
 \el POc
 \et *kapika
 \nt
-\dc
-\dt 12/May/2012
+\dc 12/May/2012
+\dt 24/Jul/2016
 
 \lx aviro
 \ph aviro
 \ps n
 \gr
-\ge
+\ge pince
 \gn tongs
-\dn tongs, fl:esp. long wooden tongs used to manipulate the hot stones
-of the oven (fv:awene) while cooking
-\rf
+\dn tongs, fl:esp. long wooden tongs used to manipulate the hot stones of the oven (fv:awene) while cooking
+\rf d10.Bekem:16
 \xv Li-avi visiboko ñe aviro.
 \xn You remove the oven stones with the tongs.
-\lf
+\lf Cf.
+\lv ~avi
 \el
 \nt
-\dc
-\dt 12/May/2012
+\dc 12/May/2012
+\dt 24/Jul/2016
 
 \lx ~avo
-\ph (i·)avo
 \hm 1
+\ph (i·)avo
 \ps vi
 \gr hang
 \sn 1
@@ -2376,7 +2467,7 @@ of the oven (fv:awene) while cooking
 \ps vt
 \gr
 \ll take s.th. it hangs
-\dn hang, hook <s.th.>
+\dn hang, hook ‹s.th.›
 \rf
 \xv Le-la i-avo korone nara i-sabu.
 \xn We must hook (the bait) firmly for fear it might fall off.
@@ -2417,16 +2508,16 @@ into a single verb |vl{~laiavo}* ‘hang, hook+’.
 \nt
 \nq
 \dc 15/Nov/2009
-\dt 08/Apr/2016
+\dt 24/Jul/2016
 
 \lx ~avo
-\ph (i·)avo
 \hm 2
+\ph (i·)avo
 \ps vt
 \gr
 \ge décortiquer
 \gn husk
-\dn husk <coconuts>
+\dn husk ‹coconuts›
 \rf DP1-24a
 \xv ekuo pe li-avo luro
 \xn a stick used to husk coconuts
@@ -2435,7 +2526,7 @@ into a single verb |vl{~laiavo}* ‘hang, hook+’.
 \nt
 \nq
 \dc 19/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx avtebe
 \ph afteᵐbe
@@ -2606,21 +2697,93 @@ with betel leaves (|fv{puluko})
 
 \lx awoiu
 \ph awoiu
-\ps préd
-\gr
-\ge
+\wr A
+\ps pred
+\gr finis
+\sn 1
+\ge finir
 \gn finish
-\dn
+\uv s.th.
+\dn end, finish, be over
+\rf Tamate.141
+\xv Mobo ngapiene awoiu.
+\xn Tomorrow, the festival will be over.
+\rf Lupo.75
+\xv Ka awoiu pon ta.
+\on closing formula
+\xn (the story) it's over.
+\rf Lap:Usao.24
+\xv Ra awoiu.
+\xn It went on and on, until it finished.
+\rf Lap:Usao.02 
+\xv Li-langatene i-le i-le i-le, ebieve iote awoiu.
+\xn They worked on and on, for a whole month. [ax:lit. and a month finished]
+\lf Syn.
+\lv katae
+\sn 2
+\wn
+\hn fig
+\uv s.o.
+\dn be finished, be doomed
+\sd
+\rf Lap:Usao.09
+\xv Na kape dapa iakapa awoiu na ta!
+\xn Now our people will be doomed!
+\se
+\ps asp
+\wr B
+\gr
+\wn after a verb
+\dn Complete aspect
+\sd Gram
 \rf
-\lf
+\xv Dapa li-koie ne lema kuo awoiu nao.
+\xn They had finished climbing on board.
+\rm d04.Kava:34
+\xm Kia lai-anu awoiu ka la-vongo.
+\xb Once we've finished drinking, we'll have dinner.
+\rf Tamate.115
+\xv Li-iu tepapa i-dai awoiu, blateno ka li-toe li-kamai.
+\xn fr:Once they had buried the planks in circle, they brought in the ritual pole.
+\se
+\ps coord
+\wr C
+\gr
+\wn between two clauses; or beginning a new clause
+\dn afterwards, then
+\rf Tamate.085
+\xv La-wamu i-wene pon, awoiu da ka la-tab' la-ka.
+\xn So they hid it somewhere, and fr:then they came back.
+\rm Tamate.099
+\xm Li-toe tepapa li-bo li-bo li-bo, awoiu. Li-kamai i-wene.
+\lf Syn.
+\lv n‘ adie
+\se
+\ps qtf
+\wr D
+\gr
+\wn linked with plural pronoun
+\dn all, everybody
+\rf Mwasu.034
+\xv Li-womanga dapa awoiu.
+\on following pronoun
+\xn They fed them all.
+\rf Toplau.60 
+\xv Kiapa abia ponu na bwara awoiu ne sekele, nanana.
+\on floating quantifier
+\xn All of us here, we were fr:all in our gardens, earlier today.
+\rf Mwasu.057
+\xv Kupa ka pi-le awoiu ne temotu tilu pon tae.
+\on floating
+\xn We did not fr:all go to the two small islands. (|fl{i.e.} Some stayed on the mainland)
 \el
 \nt ++++
-\dc
-\dt 10/May/2012
+\dc 24/Jul/2016
+\dt 25/Jul/2016
 
 \lx ba
-\ph ᵐba
 \hm 1
+\ph ᵐba
 \ps intj
 \gr
 \ge
@@ -2635,11 +2798,11 @@ with betel leaves (|fv{puluko})
 \nt
 \nq
 \dc 17/Nov/2009
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx ba
-\ph ᵐba
 \hm 2
+\ph ᵐba
 \ps n
 \gr
 \sn 1
@@ -2662,11 +2825,11 @@ with betel leaves (|fv{puluko})
 \nt
 \nq
 \dc 17/Nov/2009
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx ba-
-\ph ᵐba(i·)
 \hm 3
+\ph ᵐba(i·)
 \va bai-
 \ps ppp
 \gr
@@ -2688,39 +2851,25 @@ with betel leaves (|fv{puluko})
 \nt
 \nq
 \dc 17/Nov/2009
-\dt 24/May/2012
-
-\lx bai-
-\ph ᵐbai(i·)
-\ps ppp
-\gr
-\ge
-\gn
-\gn Exc:du
-\rn *
-\dn
-\rf
-\lf
-\el
-\nt before vowel or certain monosyllables  (? bai-te ?)
-\dc
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx balawe
 \ph ᵐbalawe
 \ps n
-\gr
-\ge
+\gr peanapol
+\ge ananas
 \gn pineapple
-\dn
+\dn pineapple
 \sc Ananas sativus
 \sd Bot
-\rf
+\rf d05.Naef:07
+\xv Ni-ta ñe balawe.
+\xn I cut up a pineapple.
 \lf
 \el
 \nt
-\dc
-\dt 12/May/2012
+\dc 12/May/2012
+\dt 25/Jul/2016
 
 \lx bale
 \ph ᵐbale
@@ -2766,7 +2915,7 @@ with betel leaves (|fv{puluko})
 \gn
 \dn philodendron, k. o. large-leaved vine that grows up and wraps
 around trees
-\sc Epipremnum|ax{ spp}
+\sc Epipremnum |ax{spp}
 \sd Bot
 \rf DG2-11a
 \lf
@@ -2782,10 +2931,10 @@ around trees
 \nt
 \nq
 \dc 20/Feb/2010
-\dt 12/May/2012
+\dt 31/Jul/2016
 
 \lx Banie
-\ph Banie
+\ph ᵐbanie
 \ps loc
 \gr
 \ge
@@ -2796,7 +2945,7 @@ around trees
 \el
 \nt
 \dc
-\dt 10/May/2012
+\dt 25/Jul/2016
 
 \lx bara
 \ph ᵐbara
@@ -2831,8 +2980,8 @@ around trees
 \dt 12/May/2012
 
 \lx basa
-\ph ᵐbasa
 \hm 1
+\ph ᵐbasa
 \ps nop
 \gr hed
 \ge tête
@@ -2859,7 +3008,7 @@ around trees
 \xv Dapa damala, basa dapa wako.
 \xn White people are clever. [their head is good]
 \lf
-\sn 2
+\sn 3
 \uv plant
 \dn head, root
 \rf
@@ -2870,15 +3019,15 @@ around trees
 \xb
 \xm
 \xm Idi na dapa li-au basa iune peini po li-kila idi.
-\sn 3
+\sn 4
 \uv boat
 \dn front part, prow
 \lf Syn.
 \lv noma
 \lv teviumu
-\sn 4
+\sn 5
 \uv
-\dn prominent part of <s.th.>
+\dn prominent part of ‹s.th.›
 \rf
 \rm
 \xm basa iuro
@@ -2888,11 +3037,11 @@ around trees
 \nt
 \nq
 \dc 16/Nov/2009
-\dt 12/May/2012
+\dt 25/Jul/2016
 
 \lx basa
-\ph ᵐbasa
 \hm 2
+\ph ᵐbasa
 \ps n
 \gr
 \ge montagne
@@ -2907,11 +3056,11 @@ around trees
 \nt
 \nq
 \dc 16/Nov/2009
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx basa
-\ph ᵐbasa
 \hm 3
+\ph ᵐbasa
 \ps adj
 \gr
 \ge émoussé
@@ -2925,7 +3074,7 @@ around trees
 \nt
 \nq
 \dc 16/Nov/2009
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx basakulumoe
 \ph ᵐbasakulumoe
@@ -3052,7 +3201,7 @@ around trees
 \sn 2
 \wn by analogy of shape
 \dn butterflyfish
-\sc Chaetodontidae|ax{ spp}
+\sc Chaetodontidae |ax{spp}
 \sd Fish
 \rf DG2-02b
 \lf
@@ -3060,7 +3209,7 @@ around trees
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 12/May/2012
+\dt 31/Jul/2016
 
 \lx bavolo
 \ph ᵐbavolo
@@ -3088,8 +3237,8 @@ around trees
 \dt 12/May/2012
 
 \lx be
-\ph ᵐbe
 \hm 1
+\ph ᵐbe
 \ps n
 \gr
 \ge
@@ -3102,11 +3251,11 @@ around trees
 \el
 \nt
 \dc 21/Feb/2010
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx be
-\ph ᵐbe
 \hm 2
+\ph ᵐbe
 \ps ptc
 \gr
 \ge
@@ -3121,7 +3270,7 @@ around trees
 \nt
 \nq
 \dc 20/Feb/2010
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx be mata
 \ph ᵐbe mata
@@ -3167,7 +3316,7 @@ representing the Spirit's eyes
 \sn 2
 \hn
 \uv spider
-\dn silk secreted by <spider>; fl:hence spider web, cobweb
+\dn silk secreted by ‹spider›; fl:hence spider web, cobweb
 \rf
 \xv bea ave
 \xn a cobweb
@@ -3178,7 +3327,7 @@ representing the Spirit's eyes
 \nt
 \nq
 \dc 20/Nov/2009
-\dt 12/May/2012
+\dt 17/Jul/2016
 
 \lx bebenuro
 \ph ᵐbeᵐbenuro
@@ -3202,7 +3351,7 @@ representing the Spirit's eyes
 \ps vt
 \gr
 \sn 1
-\dn cover <s.th., s.o.>, fl:esp. with (fv:ñe) s.th. heavy
+\dn cover ‹s.th., s.o.›, fl:esp. with (fv:ñe) s.th. heavy
 \rf
 \xv Li-bei ñe uie vilo kula.
 \xn We cover (the food) with a few leaves.
@@ -3211,11 +3360,11 @@ representing the Spirit's eyes
 \xn They would bury them and cover them with stones, it was like a cairn.
 \rf
 \sn 2
-\dn walk on <s.th.>, squash <s.th.> with o.'s foot
+\dn walk on ‹s.th.›, squash ‹s.th.› with o.'s foot
 \rf
 \sn 3
 \hn gen
-\dn squash, crush, destroy <s.th.>
+\dn squash, crush, destroy ‹s.th.›
 \rf
 \xv U-bei i-metelu i-wene ne mataiko ponu!
 \on invocation to a god
@@ -3224,7 +3373,7 @@ representing the Spirit's eyes
 \sn 4
 \hn fig
 \uv
-\dn trample on <law, ethics, taboo>, infringe
+\dn trample on ‹law, ethics, taboo›, infringe
 \rf
 \xv Ka i-bei nuduro.
 \xn [trample on a taboo] He has infringed the law.
@@ -3234,7 +3383,7 @@ representing the Spirit's eyes
 \nt
 \nq
 \dc 17/Nov/2009
-\dt 24/May/2012
+\dt 17/Jul/2016
 
 \lx ~bei bete
 \ph (i·)ᵐbei ᵐbete
@@ -3353,7 +3502,7 @@ person
 \ge
 \gn
 \dn common fern
-\sc Cyclosorus|ax{ spp}
+\sc Cyclosorus |ax{spp}
 \sc Pteridophyta
 \sd Bot
 \rf DG2-11a
@@ -3366,7 +3515,7 @@ person
 \nt
 \nq
 \dc 20/Feb/2010
-\dt 12/May/2012
+\dt 31/Jul/2016
 
 \lx belemele
 \ph ᵐbelemele
@@ -3525,13 +3674,13 @@ crushing them.
 \dt 12/May/2012
 
 \lx ~bi
-\ph (i·)ᵐbi
 \hm 1
+\ph (i·)ᵐbi
 \ps vt
 \gr
 \ge cueillir
 \gn pick
-\dn pick <fruit> from its tree
+\dn pick ‹fruit› from its tree
 \rf DP1
 \xv Li-bi bale
 \xn pick breadfruit
@@ -3549,11 +3698,11 @@ kava.
 \nt
 \nq
 \dc 20/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~bi
-\ph (i·)ᵐbi
 \hm 2
+\ph (i·)ᵐbi
 \ps vti
 \gr
 \ge éventer
@@ -3572,7 +3721,7 @@ kava.
 \nt
 \nq
 \dc 19/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx bilibiro
 \ph ᵐbiliᵐbiro
@@ -3646,40 +3795,64 @@ kava.
 \ph (i·)ᵐbisi
 \ps vi
 \gr
-\ge
+\ge étonné
 \gn surprised
-\dn
-\rf
-\lf
+\dn be surprised (by s.th., fv:ñe), be astonished
+\rf d08.Rao:04
+\xv Ni-bisi tamwalikose ñei!
+\xn I'm very surprised by this.
+\rf EP 2005-06-27.18
+\xv Nana ene ka ni-bisi pe li-romo i-le nga idi abia Tukupie ponu na li-ka
+Vanikoro ponu.
+\xn And today I am astonished at how many Tikopian people are coming to
+Vanikoro.
+\lf Syn.
+\lv ~eketele
 \el
 \nt
-\dc
-\dt 24/May/2012
+\dc 18/Jul/2016
+\dt 18/Jul/2016
 
 \lx blateno
 \ph ᵐblateno
 \ps n
+\va bulateno
 \gr
-\ge
+\ge mât.rituel
 \gn pole
-\dn
+\dn ritual pole. During vl:ngapiene celebrations, dancers stomp on wooden boards (|vl{~wate tepapa}) which are laid
+out in a circle around a high wooden pole (fv:blateno). From that pole hang large amounts of fruit. At the end of
+the celebration season, the pole is brought down and the fruit are distributed to the participants.
 \sd Ethn
-\rf
+\so DG1-42a + DP2-21a
+\rf DG1-42a
+\xv Blateno, oie vilo pe li-padi me kape le-woi ne to mane, me tepapa i-dai.
+\xn The “blateno” is a wooden pole that is painted and erected in the middle
+of the village area, where it is surrounded by stomping boards.
+\rf Mwasu.013
+\xv Li-iu tepapa i-le awoiu, li-vesu bulateno i-vio.
+\xn Once they had laid out the dancing boards, they erected the ritual pole.
+\rf Tamate.117
+\xv I-vio ka li-wabeiu ñe moboro teva, me blateno i-vio, susuko, ne to.
+\xn They used four rattan canes as props, so that the pole could stand firmly
+in the middle.
+\rm Lupo.66
+\xm I-ava i-ven' i-vio ne ae, ne blateno pon. Blateno po li-woi ne mane pon.
 \lf
 \el
 \nt pole around which people dance...
 \nt has some food on it??
-\dc
-\dt 12/May/2012
+\dc 18/Jul/2016
+\dt 24/Jul/2016
 
 \lx ~bo
-\ph (i·)ᵐbo
 \hm 1
+\ph (i·)ᵐbo
 \ps vt
 \gr
 \ge rassembler
 \gn heap_up
-\dn collect, gather, heap up <s.th.>
+\dn collect, gather, heap up ‹s.th.›
 \rf DP1-34b
 \xv Waiero li-bo voko i-wapio.
 \xn The waves have piled up the stones together.
@@ -3694,11 +3867,11 @@ kava.
 \nt
 \nq
 \dc 22/Mar/2008
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~bo
-\ph (i·)ᵐbo
 \hm 2
+\ph (i·)ᵐbo
 \ps vt
 \gr katem
 \ge tailler
@@ -3709,17 +3882,20 @@ kava.
 \xn make [carve] a canoe
 \xv Li-bo digo.
 \xn cut out house beams
+\rf DG1-41a
+\xv Tepapa, li-toe kara nebe li-bo nga kulaña metele.
+\xn To make a stomping board, you cut a root of rosewood tree, and carve it in the shape of a semi-circle.
 \rm
 \xm li-bo kuo…
 \xb carve a canoe
 \lf Cf.
-\lv toe
+\lv ~toe
 \ln cut, chop
 \el
 \nt
 \nq
 \dc 23/Mar/2008
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx boe
 \ph ᵐboe
@@ -3730,14 +3906,14 @@ kava.
 \gn
 \hn gen
 \dn shark
-\sc Carcharhiniformes|ax{ spp}
+\sc Carcharhiniformes |ax{spp}
 \sd Fish
 \rf
 \se boe baro
 \ps n
 \ll coconut-petiole shark
 \dn hammerhead shark
-\sc Sphyrnidae|ax{ spp}
+\sc Sphyrnidae |ax{spp}
 \sd Fish
 \rf DG2-21a
 \se boe temiao
@@ -3751,7 +3927,7 @@ kava.
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 12/May/2012
+\dt 31/Jul/2016
 
 \lx bogo
 \ph ᵐboᵑgo
@@ -3776,7 +3952,7 @@ kava.
 \ge
 \gn banyan
 \dn banyan tree
-\sc Ficus|fs{ sp.}
+\sc Ficus |ax{spp}
 \sd Bot
 \rf DG2-12a
 \xv kara boke
@@ -3789,7 +3965,7 @@ kava.
 \nt
 \nq
 \dc 28/Feb/2010
-\dt 12/May/2012
+\dt 31/Jul/2016
 
 \lx bokoe
 \ph ᵐbokoe
@@ -3798,7 +3974,7 @@ kava.
 \ge
 \gn
 \dn tree fern
-\sc Cyathea|ax{ spp}
+\sc Cyathea |ax{spp}
 \sd Bot
 \rf DG2-11a
 \lf
@@ -3806,7 +3982,7 @@ kava.
 \nt
 \nq
 \dc 20/Feb/2010
-\dt 12/May/2012
+\dt 31/Jul/2016
 
 \lx ~bono
 \ph (i·)ᵐbono
@@ -3827,7 +4003,7 @@ kava.
 \se
 \ps vt
 \wr B
-\dn shut <door+>
+\dn shut ‹door+›
 \rf
 \xv Ka li-ko ruene, ka li-tabo li-bono.
 \xn They open the door, and then shut it again.
@@ -3837,23 +4013,7 @@ kava.
 \nt
 \nq
 \dc 20/Nov/2009
-\dt 24/May/2012
-
-\lx bonoro
-\ph ᵐbonoro
-\ps
-\gr
-\ge
-\gn ??
-\rn *
-\dn
-\rf
-\mn samuko bonoro
-\lf
-\el
-\nt
-\dc
-\dt 12/May/2012
+\dt 17/Jul/2016
 
 \lx bonge
 \ph ᵐboŋe
@@ -3861,17 +4021,23 @@ kava.
 \gr
 \ge
 \gn cave
-\dn
-\rf
+\dn cave, in a rock or cliff, typically on the coast
+\rf q.Pijin.025
+\xv Uña asodo dapa li-avo ne bonge.
+\xn Bats hang in caves.
+\rf d06.Devil:16
+\xv Li-pinoe li-dai ra ra awoiu, li-tabo li-le ne bonge ma dapa.
+\on dancing Spirits
+\xn They dance on and on, until they return to their cave home.
 \lf
 \el
 \nt
-\dc
-\dt 12/May/2012
+\dc 12/May/2012
+\dt 17/Jul/2016
 
 \lx boro
-\ph ᵐboro
 \hm 1
+\ph ᵐboro
 \ps n
 \gr
 \ge poisson-perroquet
@@ -3888,11 +4054,11 @@ kava.
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx boro
-\ph ᵐboro
 \hm 2
+\ph ᵐboro
 \ps adj
 \va bworo
 \gr blak
@@ -3904,7 +4070,7 @@ kava.
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx boroboro
 \ph ᵐboroᵐboro
@@ -3924,7 +4090,7 @@ kava.
 
 \lx boso
 \ph ᵐboso
-\ps prép
+\ps prep
 \gr
 \ge
 \gn under
@@ -3935,7 +4101,7 @@ kava.
 \nt
 \nq pb= boso iawo
 \dc
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx ~botongo
 \ph (i·)ᵐbotoŋo
@@ -3948,17 +4114,18 @@ kava.
 \wn
 \dn interpose (s.th., oneself) between A and B, so as to prevent A (typically an agentive
 participant in motion) from reaching B (typically a static target)
+\so DG1-06b !!
 \rf
 \un Synt.
 \en The grammatical object is sometimes A (yielding meanings such as ‘stop, prevent’), sometimes B (yielding
 meanings such as ‘protect, take care’).
 \sn 1
-\dn block, stand in the way of <s.th.>
+\dn block, stand in the way of ‹s.th.›
 \rf
 \xv U-botongo ero etapu, u-sali!
 \xn Stop blocking the water (with your hands), let it go!
 \sn 2
-\dn stop, prevent <s.o.> from doing s.th. (fv:me
+\dn stop, prevent ‹s.o.› from doing s.th. (fv:me
 fl:or fv:nara +Irr.); forbid
 \rf
 \xv Li-botongo ene me ne-le.
@@ -3969,21 +4136,21 @@ fl:or fv:nara +Irr.); forbid
 \sn 3
 \wn object non-sg
 \uv
-\dn separate <people> from each other
+\dn separate ‹people› from each other
 \rf
 \xv Ka ni-aiu ni-vio ni-botongo da.
 \on two men fighting
 \xn So I rose and separated them.
 \lf
 \sn 4
-\dn impede access to <s.th.>
+\dn impede access to ‹s.th.›
 \rf
 \xv Vilisao i-botongo se mataiko ponu.
 \xn The tornado was blocking the passage.
 \sn 5
 \wn serialised after posture V
-\dn be in a position that blocks access to <s.th.>, whether deliberately or not, to impede
-access to <s.o., s.th.>; fl:hence (sit+) on <s.th.>; (sit+) besides fl:or with <s.o., s.th.> as a
+\dn be in a position that blocks access to ‹s.th.›, whether deliberately or not, to impede
+access to ‹s.o., s.th.›; fl:hence (sit+) on ‹s.th.›; (sit+) besides fl:or with ‹s.o., s.th.› as a
 way to protect
 \rf
 \xv Bara ba-te ba-botongo okoro ponu.
@@ -3996,14 +4163,14 @@ way to protect
 \xn She’s sitting with the baby (to look after him).
 \lf
 \sn 6
-\dn protect <s.o., s.th.> from a potential danger
+\dn protect ‹s.o., s.th.› from a potential danger
 \rf DP2-15b+
 \xv Dapa li-woi nuduro ne touro, me i-botongo temaka.
 \xn They put up taboo signs on the seashore, to protect the area (from poachers).
 \sn 7
 \hn hence
 \uv
-\dn take care of, look after <s.o., s.th.>
+\dn take care of, look after ‹s.o., s.th.›
 \rf
 \xv Dapa Paiu li-botongo dapa France.
 \xn The villagers of Paiou were looking after the French.
@@ -4019,14 +4186,14 @@ way to protect
 \sn 8
 \hn esp
 \wn reflexive construction
-\dn take care of <o.s.>, be cautious
+\dn take care of ‹o.s.›, be cautious
 \rf
 \xv U-botongo eo u-ejau!
 \on reflexive construction
 \xn Take good care of yourself!
 \sn 9
 \wn serialised after action V
-\dn do s.th. in favour of <s.o.>
+\dn do s.th. in favour of ‹s.o.›
 \rf DG1-05b+
 \xv Ni-vet' piene ni-botongo eo.
 \xn I stood up for you. [ax:lit. I spoke I protected you]
@@ -4047,7 +4214,7 @@ way to protect
 \nt
 \nq
 \dc 23/Nov/2009
-\dt 02/Feb/2014
+\dt 24/Jul/2016
 
 \lx botu
 \ph ᵐbotu
@@ -4084,8 +4251,8 @@ way to protect
 \dt 12/May/2012
 
 \lx ~bu
+\hm 1
 \ph (i·)ᵐbu
-\hm 2
 \ps vi
 \gr dai
 \ge mourir
@@ -4100,11 +4267,11 @@ way to protect
 \nt
 \nq
 \dc 22/Mar/2008
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~bu
+\hm 2
 \ph (i·)ᵐbu
-\hm 3
 \ps vt
 \gr rolem
 \sn 1
@@ -4120,7 +4287,7 @@ way to protect
 \nt namolo + uie vilo + paper + bete + bavede
 \sn 2
 \hn esp
-\dn furl <sail, fv:bavede>
+\dn furl ‹sail, fv:bavede›
 \sd Naut
 \rf
 \xv Bavede iada ka la-bu.
@@ -4130,11 +4297,11 @@ way to protect
 \nt
 \nq
 \dc 22/Mar/2008
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx bu-
-\ph ᵐbu(i·)
-\hm 1
+\hm 3
+\ph ᵐbu-
 \ps ppp
 \gr
 \ge
@@ -4154,7 +4321,7 @@ way to protect
 \nt
 \nq
 \dc 23/Mar/2008
-\dt 27/Nov/2012
+\dt 24/Jul/2016
 
 \lx ~bubu
 \ph (i·)ᵐbuᵐbu
@@ -4355,8 +4522,8 @@ way to protect
 \dt 12/May/2012
 
 \lx buro
-\ph ᵐburo
 \hm 1
+\ph ᵐburo
 \ps n
 \gr
 \ge tamanu
@@ -4374,11 +4541,11 @@ way to protect
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx buro
-\ph ᵐburo
 \hm 2
+\ph ᵐburo
 \ps n
 \gr singsing
 \ge chant
@@ -4400,7 +4567,7 @@ way to protect
 \ll song of?
 \hn
 \uv
-\dn song about <s.th., s.o.>; song designed for <s.th.>
+\dn song about ‹s.th., s.o.›; song designed for ‹s.th.›
 \rf
 \xv buro bula Teulu
 \xn the song of the wind Teulu
@@ -4422,7 +4589,7 @@ bamboos
 \nt
 \nq
 \dc 19/Nov/2009
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx bute
 \ph ᵐbute
@@ -4492,8 +4659,8 @@ bamboos
 \dt 12/May/2012
 
 \lx da
-\ph ⁿda
 \hm 1
+\ph ⁿda
 \ps pp
 \gr tufela
 \ge 3:du
@@ -4507,11 +4674,11 @@ bamboos
 \nt
 \nq
 \dc 16/Mar/2008
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx ~da
-\ph (i·)ⁿda
 \hm 2
+\ph (i·)ⁿda
 \ps vt
 \gr
 \sn 1
@@ -4538,7 +4705,7 @@ be more than. Forms comparative structures
 \nt
 \nq
 \dc 16/Mar/2008
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx dada
 \ph ⁿdaⁿda
@@ -4622,17 +4789,155 @@ be more than. Forms comparative structures
 \lx dapa
 \ph ⁿdapa
 \ps pp
-\gr
-\ge
+\va dap’
+\a dap’
+\gr olgeta
+\sd Gram
+\sn 1
+\ge 3pl
+\re *
 \gn 3pl
 \rn *
-\dn
+\wn subject, object or possessor
+\dn anaphoric third plural pronoun, referring to a group of people already mentioned in discourse
+\rf Lap-Simevio.09
+\xv Dapa li-madau.
+\on subject
+\xn They were scared.
 \rf
-\lf
+\xv Ni-ovei dapa.
+\on object
+\xn I know them.
+\rf
+\xv Li-pei dapa.
+\on reflexive
+\xn They were rejoicing [themselves].
+\rf
+\xv kie dapa
+\on possessor of dependent noun
+\xn their graves
+\rf
+\xv enga dapa
+\xn their names
+\wn
+\sn 2
+\hn rare
+\dn generic plural pronoun: people, generic ‘they’
+\rf d07.Kenu:01
+\xv dapa ne kulumoe
+\xn people in the village (villagers)
+\un Sem.
+\en In this meaning, fv:dapa is less common than fv:idi, the impersonal 3pl pronoun, which is always
+non-anaphoric (‘people’).
+\lf Syn.
+\lv idi
+\sn 3
+\wn appellative
+\dn people! guys!
+\rf Lap-BenTua.004
+\xv Ei! Dapa! Na toñaki ae na?
+\xn Hey, people! What sort of ship is that?
+\rf Lap-BenTua.096
+\xv Ebel' ini me, dapa!
+\xn This is excellent, guys!
+\sn 4
+\wn foll. by Noun
+\dn plural marker
+\rf
+\xv dapa teliki
+\xn the chiefs
+\rf
+\xv dapa et’ iape
+\xn his mothers
+\lf Syn.
+\lv uña
+\sn 5
+\wn foll. by NP modifier
+\dn in the absence of a noun head, fv:dapa serves as head in a plural NP with human reference:
+people, those (who)+
+\rf
+\xv dapa kula
+\on +quantifier
+\xn some people
+\rf
+\xv dapa abia
+\on
+\xn many people
+\rf
+\xv dapa bworo
+\on +adjective
+\xn Black people
+\rf
+\xv dapa wopine
+\xn [the great/old ones] grown men; authorities; ancestors
+\rf
+\xv dapa Teanu
+\on +locative
+\xn the people of Teanu
+\xv dapa Iura
+\xn Vanuatu people
+\rf
+\xv dapa noma
+\on +adverb
+\xn people of the past, ancestors
+\rf
+\xv dapa peini toñaki pon
+\on +linker
+\xn the people on that ship
+\rf Tamate.090
+\xv dapa po li-kila emele
+\on +relative clause, subject
+\xn those who are married
+\rf EP 2005-06-27.17
+\xv dapa pe uña teliki li-lamini tanoe se dapa
+\on +relative clause with resumptive
+\xn those who were given some ground by the authorities
+\xv
+\sn 6
+\wn +possessor vl:ie
+\dn ‹s.o.›’s people: relatives, family; community
+\sd Kin
+\rf
+\xv dapa ie mwaliko po i-bu
+\xn the family of the person who died
+\rf
+\xv dapa enone
+\xn my people, my relatives
+\xm dapa iakapa
+\xb our people
+\rf
+\xv Dapa iakapa ka awoiu!
+\xn Our people are doomed!
+\el ax:See
+\et da
+\nt
+\dc 24/Jul/2016
+\dt 24/Jul/2016
+
+\lx dapa gete
+\ph ⁿdapa ᵑgete
+\ps n
+\gr
+\ge
+\wn plural of |vl{mwatagete}
+\dn young unmarried boys, fl:typic. male teenagers
+\sd
+\rf Tamate.043
+\xv Kape pe-loko dapa gete enone, da meliko viñevi, pe-lui ne moe re.
+\xn We'll take my boys and my girls, and lead them to that house over there.
+\rf Kava.23
+\xv Dapa gete le-wabe, le-lui tev' dapa li-anu.
+\xn The young men fill up (the cups) and give them to (the elders) for them to drink.
+\rf Tamate.127
+\xv Teliki, samame dap' wopine, dapa gete, ne toplau; da viñevi, ne mwoe.
+\xn The chief, together with elders and young boys, can go in the men’s club (vl:toplau); but women stay
+in their houses.
+\lf Cf.
+\lv toplau
 \el
 \nt
-\dc
-\dt 12/May/2012
+\dc 24/Jul/2016
+\dt 24/Jul/2016
 
 \lx daviñevi
 \ph ⁿdaviɲevi
@@ -4748,7 +5053,7 @@ be more than. Forms comparative structures
 \ge
 \gn tuna
 \dn k.o. tuna
-\sc Thunnus|ax{ sp.}
+\sc Thunnus |ax{sp.}
 \sd Fish
 \rf
 \se dere wablubu
@@ -4756,7 +5061,7 @@ be more than. Forms comparative structures
 \gr
 \ll round tuna
 \dn k.o. bonito fish
-\sc Thunnus|ax{ sp.}
+\sc Thunnus |ax{sp.}
 \sd Fish
 \rf DG2-21a
 \se dere mie boe
@@ -4770,7 +5075,7 @@ be more than. Forms comparative structures
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 12/May/2012
+\dt 31/Jul/2016
 
 \lx dero
 \ph ⁿdero
@@ -4796,7 +5101,7 @@ be more than. Forms comparative structures
 \ge
 \gn halfbeak
 \dn halfbeak, garfish
-\sc Hemirhamphus|ax{ spp}
+\sc Hemirhamphus |ax{spp}
 \sd Fish
 \nt Récifs p.21 = identif° pas sûre!!
 \rf DG2-21a
@@ -4805,7 +5110,7 @@ be more than. Forms comparative structures
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 12/May/2012
+\dt 31/Jul/2016
 
 \lx devele
 \ph ⁿdevele
@@ -4829,10 +5134,10 @@ be more than. Forms comparative structures
 \sn 1
 \ge
 \gn shave
-\dn cut off, prune <tree>
+\dn cut off, prune ‹tree›
 \so BT
 \sn 2
-\dn shave <beard>
+\dn shave ‹beard›
 \rf
 \xv U-di vagumia eo ko!
 \xn Shave your beard!
@@ -4841,7 +5146,7 @@ be more than. Forms comparative structures
 \nt
 \nq
 \dc
-\dt 24/May/2012
+\dt 17/Jul/2016
 
 \lx die
 \ph ⁿdie
@@ -4880,8 +5185,8 @@ be more than. Forms comparative structures
 \dt 12/May/2012
 
 \lx dingobe
-\ph ⁿdiŋoᵐbe
 \hm 1
+\ph ⁿdiŋoᵐbe
 \ps n
 \va digobe
 \gr
@@ -4897,11 +5202,11 @@ be more than. Forms comparative structures
 \nt The final consonant of POc *sikop is reconstructed by Blust (2002:113)
 \nq
 \dc 28/Nov/2009
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx dingobe
-\ph ⁿdiŋoᵐbe
 \hm 2
+\ph ⁿdiŋoᵐbe
 \ps n
 \va digobe
 \gr
@@ -4913,16 +5218,16 @@ be more than. Forms comparative structures
 \el
 \nq
 \dc 28/Nov/2009
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx ~do
-\ph (i·)ⁿdo
 \hm 1
+\ph (i·)ⁿdo
 \ps vt
 \gr planem
 \ge planter
 \gn plant
-\dn plant <trees>
+\dn plant ‹trees›
 \rf DP1-26a
 \xv Li-do bale
 \xn plant a breadfruit
@@ -4950,11 +5255,11 @@ be more than. Forms comparative structures
 \nt
 \nq
 \dc 19/Nov/2009
-\dt 24/Jun/2016
+\dt 24/Jul/2016
 
 \lx ~do
-\ph (i·)ⁿdo
 \hm 2
+\ph (i·)ⁿdo
 \ps vt
 \gr
 \ge avaler
@@ -4969,16 +5274,16 @@ be more than. Forms comparative structures
 \nt
 \nq
 \dc 19/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~do
-\ph (i·)ⁿdo
 \hm 3
+\ph (i·)ⁿdo
 \ps vt
 \gr
 \ge
 \gn
-\dn scrape off <fish scales, fv:ngava> when scaling a fish
+\dn scrape off ‹fish scales, fv:ngava› when scaling a fish
 \rf
 \xv U-do ngava, awoiu u-ia bea mina.
 \xn You scrape off the scales, and then gut it.
@@ -4987,7 +5292,7 @@ be more than. Forms comparative structures
 \nt
 \nq
 \dc 19/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx doko
 \ph ⁿdoko
@@ -5013,7 +5318,7 @@ be more than. Forms comparative structures
 \ge pompaneau
 \gn pompano
 \dn Pompano
-\sc Trachinotus|ax{ sp.}
+\sc Trachinotus |ax{sp.}
 \sd Fish
 \rf DG2-21a
 \lf
@@ -5021,7 +5326,7 @@ be more than. Forms comparative structures
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 12/May/2012
+\dt 31/Jul/2016
 
 \lx duduko
 \ph ⁿduⁿduko
@@ -5099,7 +5404,7 @@ be more than. Forms comparative structures
 \xn canoe hull
 \sn 3
 \wn
-\dn real, genuine, true, actual; authentic version of <s.th.>
+\dn real, genuine, true, actual; authentic version of ‹s.th.›
 \rf DP1-27b
 \xv Ebele kuo i-karem demene.
 \xn Genuine canoes have an outrigger.
@@ -5140,7 +5445,7 @@ Japan.
 \cf
 \ce
 \dc 17/Nov/2009
-\dt 12/May/2012
+\dt 17/Jul/2016
 
 \lx ebele piene
 \ph eᵐbele piene
@@ -5188,15 +5493,15 @@ Japan.
 \dt 12/May/2012
 
 \lx ebieve
-\ph eᵐbieve
 \hm 1
+\ph eᵐbieve
 \ps n
 \gr
 \ge
 \gn Erythrina
 \dn Indian coral tree
 \sc Erythrina variegata
-\sc E. indica
+\sc Erythrina indica
 \sd Bot
 \rf DG2-11a/b
 \en
@@ -5209,11 +5514,11 @@ The annual flowering of this tree was traditionally a marker of the yam-planting
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 12/May/2012
+\dt 31/Jul/2016
 
 \lx ebieve
-\ph eᵐbieve
 \hm 2
+\ph eᵐbieve
 \ps n
 \gr
 \ge
@@ -5239,7 +5544,7 @@ flower (fv:ebieve1).
 \nt
 \nq
 \dc 07/Feb/2010
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx ebo
 \ph eᵐbo
@@ -5303,15 +5608,34 @@ flower (fv:ebieve1).
 \ph (i·)ekeke
 \ps vi
 \gr
-\ge
+\ge rire
 \gn laugh
-\dn
-\rf
+\dn laugh
+\rf d02.Krae:32
+\xv Awoiu, menu ka i-re tengiro, ka i-ekeke.
+\xn The child stopped crying, and laughed.
 \lf
 \el
 \nt
-\dc
-\dt 24/May/2012
+\dc 18/Jul/2016
+\dt 18/Jul/2016
+
+\lx ~eketele
+\ph (i·)eketele
+\ps vi
+\gr
+\ge sursauter
+\gn startle
+\dn be surprised, taken by surprise; startle
+\rf d12.Sintia:45
+\xv Ni-ko ni-ejau eo u-eketele.
+\xn I wanted to surprise you. [ax:lit. to make you startle]
+\lf
+\el
+\nt exact meaning?
+\nq
+\dc 18/Jul/2016
+\dt 18/Jul/2016
 
 \lx ~ekili
 \ph (i·)ekili
@@ -5538,7 +5862,7 @@ flower (fv:ebieve1).
 \gr
 \ge embrasser
 \gn kiss
-\dn kiss <s.o.>
+\dn kiss ‹s.o.›
 \rf DP2-06b
 \xv Ni-ko ni-engi eo.
 \xn I want to kiss you.
@@ -5547,7 +5871,7 @@ flower (fv:ebieve1).
 \nt
 \nq
 \dc 25/Nov/2009
-\dt 24/May/2012
+\dt 17/Jul/2016
 
 \lx eo
 \ph eo
@@ -5697,7 +6021,7 @@ generation (M, MZ, MBW, FZ, FBW)
 \rf DG2-16a
 \sn 2
 \dn ascidian, k.o. marine invertebrate
-\sc Ascidiacea|ax{ spp}
+\sc Ascidiacea |ax{spp}
 \sd Sea
 \rf DG2-21a
 \lf
@@ -5705,7 +6029,7 @@ generation (M, MZ, MBW, FZ, FBW)
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 29/Nov/2009
+\dt 31/Jul/2016
 
 \lx etengi
 \ph eteŋi
@@ -5875,17 +6199,22 @@ generation (M, MZ, MBW, FZ, FBW)
 
 \lx gete
 \ph ᵑgete
-\ps
-\gr
-\ge
-\gn
-\dn
+\ps n
+\gr boe
+\ge garçon
+\gn boy
+\dn boy
 \rf
-\lf
+\un
+\en Element found in several compounds: fv:mwatagete ‘boy (sg.)’, |fv{dapa gete} ‘boys (pl.)’, fv:mwagete ‘boy's
+clubhouse’.
+\lf Cf.
+\lv mwatagete
 \el
 \nt
-\dc
-\dt 12/May/2012
+\nq
+\dc 24/Jul/2016
+\dt 24/Jul/2016
 
 \lx gilita
 \ph ᵑgilita
@@ -5930,8 +6259,8 @@ generation (M, MZ, MBW, FZ, FBW)
 \dt
 
 \lx ~i
-\ph (i·)i
 \hm 1
+\ph (i·)i
 \ps vi
 \gr singaot
 \ge crier
@@ -5946,10 +6275,9 @@ distant or invisible person in the bush
 \nt
 \nq
 \dc 23/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx i-
-\ph i(i·)
 \hm 2
 \ps ppp
 \gr
@@ -5966,11 +6294,11 @@ distant or invisible person in the bush
 \nt
 \nq
 \dc 23/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ia
-\ph ia
 \hm 1
+\ph ia
 \ps intj
 \gr
 \ge
@@ -5984,11 +6312,11 @@ distant or invisible person in the bush
 \nt
 \nq
 \dc 17/Nov/2009
-\dt 23/Nov/2009
+\dt 24/Jul/2016
 
 \lx ia
-\ph ia
 \hm 2
+\ph ia
 \ps coord
 \gr
 \ge mais
@@ -6000,41 +6328,43 @@ distant or invisible person in the bush
 \nt
 \nq
 \dc 17/Nov/2009
-\dt 23/Nov/2009
+\dt 24/Jul/2016
 
 \lx ~ia
-\ph (i·)ia
 \hm 3
+\ph (i·)ia
 \ps vt
 \gr
 \sn 1
 \ge
 \gn
-\dn rub intensely <s.th.> so as to alter its shape; file <s.th.>
+\dn rub intensely ‹s.th.› so as to alter its shape; file ‹s.th.›
 \rf
 \xv li-ia aero
 \xn file shells (to make shell-money)
 \sn 2
 \uv
-\dn light <fire, fv:iawo> by rubbing wooden sticks together
+\dn light ‹fire, fv:iawo› by rubbing wooden sticks together
 \rf xxx
 \xv Li-ia iawo ñe vilo.
 \xn We light fire with (pieces of) wood.
-\lf
+\lf Cf.
+\lv ~maili2
+\ln light fire
 \el
 \nt
 \nq
 \dc 17/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~ia
-\ph (i·)ia
 \hm 4
-\ps
+\ph (i·)ia
+\ps vt
 \gr
 \ge
 \gn gut
-\dn remove <guts of fish+>
+\dn remove ‹guts of fish+›
 \rf
 \xv U-do ngava, awoiu u-ia bea mina.
 \xn You scrape off the scales, and then gut it [ax:lt. remove its guts].
@@ -6045,7 +6375,7 @@ distant or invisible person in the bush
 \nt
 \nq exact meaning of verb alone??
 \dc 17/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx iaba
 \ph iaᵐba
@@ -6250,26 +6580,26 @@ distant or invisible person in the bush
 \dt 12/May/2012
 
 \lx ie
-\ph ie
 \hm 1
+\ph ie
 \ps n
 \gr dolfin
 \ge dauphin
 \gn dolphin
 \dn dolphin
 \sd Fish
-\sc Delphinidae|ax{ spp}
+\sc Delphinidae |ax{spp}
 \rf DP1-20a + DG2-21a
 \lf
 \el
 \nt
 \nq
 \dc 19/Nov/2009
-\dt 29/Nov/2009
+\dt 31/Jul/2016
 
 \lx ie
-\ph ie
 \hm 2
+\ph ie
 \ps clf
 \gr bilong
 \ge de
@@ -6285,7 +6615,7 @@ distant or invisible person in the bush
 \nt
 \nq
 \dc 19/Nov/2009
-\dt 19/Nov/2009
+\dt 24/Jul/2016
 
 \lx iebe
 \ph ieᵐbe
@@ -6294,7 +6624,7 @@ distant or invisible person in the bush
 \ge
 \gn
 \dn k.o. fern
-\sc Pteridophyta|fs{ spp}
+\sc Pteridophyta |ax{spp}
 \sd Bot
 \rf DG2-11b
 \lf
@@ -6303,7 +6633,7 @@ distant or invisible person in the bush
 \nt
 \nq
 \dc 28/Feb/2010
-\dt 12/May/2012
+\dt 31/Jul/2016
 
 \lx iepiene
 \ph iepiene
@@ -6338,7 +6668,7 @@ distant or invisible person in the bush
 \gr
 \ll Casuarina of the sea
 \dn branching tree coral
-\sc Gorgonaceae|ax{ spp}
+\sc Gorgonaceae |ax{spp}
 \sd Sea
 \rf
 \xv
@@ -6347,7 +6677,7 @@ distant or invisible person in the bush
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 28/Feb/2010
+\dt 31/Jul/2016
 
 \lx Iglan
 \ph iᵑglan
@@ -6617,8 +6947,8 @@ distant or invisible person in the bush
 \dt
 
 \lx iu
-\ph iu
 \hm 1
+\ph iu
 \ps adv
 \gr antap
 \ge en_haut
@@ -6630,23 +6960,23 @@ distant or invisible person in the bush
 \nt
 \nq
 \dc 15/Nov/2009
-\dt 15/Nov/2009
+\dt 24/Jul/2016
 
 \lx ~iu
-\ph (i·)iu
 \hm 2
+\ph (i·)iu
 \ps vt
 \gr berem
 \ge enterrer
 \gn bury
-\dn bury <s.th., s.o.> in the ground
+\dn bury ‹s.th., s.o.› in the ground
 \rf
 \lf
 \el
 \nt
 \nq
 \dc 15/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx iui
 \ph iui
@@ -6682,17 +7012,35 @@ distant or invisible person in the bush
 
 \lx iula
 \ph iula
-\ps
+\ps nop
 \gr
-\ge
-\gn
-\dn
+\sn 1
+\dn rope of ‹s.th.›: creates compounds referring to types of rope
+\sd Techn
+\lf
+\lv
+\se iula teuko
+\ps n
+\gr
+\dn fishing line, string used for angling
+\sn 2
+\gn anchor
+\dn chain of ‹ship›, to which the anchor
+(fv:tetaula) is attached; fl:hence anchor
+\rf DG1-30b
+\xv iula tepuke
+\xn anchor of a canoe
 \rf
+\xv iula toñaki
+\xn anchor of a ship
+\rf Lap-BenTua.090
+\xv Iula toñaki ponu, ene ni-romo ñe mata ene. 
+\xn That (ship) anchor, I have seen it with my own eyes.
 \lf
 \el
 \nt
-\dc
-\dt
+\dc 16/Jul/2016
+\dt 17/Jul/2016
 
 \lx iumi
 \ph iumi
@@ -6744,7 +7092,7 @@ distant or invisible person in the bush
 \ge ortie
 \gn nettle
 \dn nettle tree, a toxic plant (Urticaceae)
-\sc Dendrocnide|ax{ spp}
+\sc Dendrocnide |ax{spp}
 \sd Bot
 \rf
 \sn 2
@@ -6757,7 +7105,7 @@ distant or invisible person in the bush
 \nt
 \nq
 \dc 19/Nov/2009
-\dt 12/May/2012
+\dt 31/Jul/2016
 
 \lx iunubo
 \ph iunuᵐbo
@@ -6817,7 +7165,7 @@ distant or invisible person in the bush
 
 \lx ive
 \ph ive
-\ps préd
+\ps pred
 \gr
 \ge
 \gn
@@ -6830,7 +7178,7 @@ distant or invisible person in the bush
 \nt
 \nq
 \dc 24/Nov/2009
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx jeboro
 \ph ᶮɟeᵐboro
@@ -6848,15 +7196,15 @@ distant or invisible person in the bush
 \gr
 \ll red basil
 \dn red variety of Coleus
-\sc Coleus|ax{ spp}
-\sc Solenostemon|ax{ spp}
+\sc Coleus |ax{spp}
+\sc Solenostemon |ax{spp}
 \sd Bot
 \rf DG2-11a
 \el
 \nt
 \nq
 \dc 20/Feb/2010
-\dt 12/May/2012
+\dt 31/Jul/2016
 
 \lx jebute
 \ph ᶮɟeᵐbute
@@ -6960,8 +7308,8 @@ made of wood or plastic.
 \dt 12/May/2012
 
 \lx ka
-\ph ka
 \hm 1
+\ph ka
 \ps coord
 \gr mo
 \ge et
@@ -6978,11 +7326,11 @@ made of wood or plastic.
 \nt
 \nq
 \dc 16/Nov/2009
-\dt 23/Nov/2009
+\dt 24/Jul/2016
 
 \lx ka
-\ph ka
 \hm 2
+\ph ka
 \ps asp
 \gr
 \sn 1
@@ -7000,11 +7348,11 @@ made of wood or plastic.
 \nt
 \nq
 \dc 16/Nov/2009
-\dt 16/Nov/2009
+\dt 24/Jul/2016
 
 \lx ~ka
-\ph (i·)ka
 \hm 3
+\ph (i·)ka
 \ps vi
 \gr kam
 \ge venir
@@ -7028,11 +7376,11 @@ made of wood or plastic.
 \nt
 \nq
 \dc 16/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~ka
-\ph (i·)ka
 \hm 4
+\ph (i·)ka
 \ps vi
 \gr
 \ge comme
@@ -7050,7 +7398,7 @@ made of wood or plastic.
 \nt
 \nq
 \dc 16/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~kae
 \ph (i·)kae
@@ -7135,17 +7483,25 @@ made of wood or plastic.
 
 \lx kaiawo
 \ph kaiawo
-\ps
-\gr
-\ge
-\gn
-\dn
-\rf
-\lf
+\ps n
+\gr smok
+\ge fumée
+\gn smoke
+\dn smoke
+\rf d10.Bekem:26
+\xv Pon kaiawo tae, ova revo.
+\xn That's not smoke, that's steam.
+\rf Mwasu.056
+\xv Ei! Kaiawo pon! I-ke re, ne kulumoe re!
+\xn Hey, look at the smoke! It's coming from over there,
+from that village over there!
+\lf Cf.
+\lv iawo
+\ln fire
 \el
 \nt
 \dc
-\dt
+\dt 16/Jul/2016
 
 \lx kailape
 \ph kailape
@@ -7163,48 +7519,6 @@ made of wood or plastic.
 
 \lx kaipa
 \ph kaipa
-\ps
-\gr
-\ge
-\gn
-\dn
-\rf
-\lf
-\el
-\nt
-\dc
-\dt
-
-\lx kala
-\ph kala
-\ps
-\gr
-\ge
-\gn
-\dn
-\rf
-\lf
-\el
-\nt
-\dc
-\dt
-
-\lx kaluiki
-\ph kaluiki
-\ps
-\gr
-\ge
-\gn
-\dn
-\rf
-\lf
-\el
-\nt
-\dc
-\dt
-
-\lx kama
-\ph kama
 \ps
 \gr
 \ge
@@ -7251,7 +7565,7 @@ made of wood or plastic.
 \gn grouper
 \hn gen
 \dn grouper
-\sc Epinephelinae|ax{ spp}
+\sc Epinephelinae |ax{spp}
 \sd Fish
 \rf DG2-21a
 \rf DG2-02b
@@ -7268,7 +7582,7 @@ made of wood or plastic.
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 29/Nov/2009
+\dt 31/Jul/2016
 
 \lx kanimoro
 \ph kanimoro
@@ -7290,7 +7604,7 @@ made of wood or plastic.
 \ps vt
 \ge mâcher
 \gn chew
-\dn chew <s.th.>, fl:esp. areca nut
+\dn chew ‹s.th.›, fl:esp. areca nut
 \rf
 \xv Li-nge to, li-kanu buioe me puluko.
 \xn They would suck on sugarcane, and also chew areca nuts with betel leaves.
@@ -7314,7 +7628,7 @@ Vanikoro is, with Tikopia, the world's easternmost place where the chewing of ar
 \nt
 \nq
 \dc 21/Nov/2009
-\dt 24/May/2012
+\dt 17/Jul/2016
 
 \lx kangele
 \ph kaŋele
@@ -7329,6 +7643,20 @@ Vanikoro is, with Tikopia, the world's easternmost place where the chewing of ar
 \nt
 \dc
 \dt 12/May/2012
+
+\lx kangele teuko
+\ps n
+\gr
+\ge
+\gn
+\dn
+\rf
+\lf
+\el
+\nt
+\nq
+\dc 16/Jul/2016
+\dt 16/Jul/2016
 
 \lx kape
 \ph kape
@@ -7346,17 +7674,28 @@ Vanikoro is, with Tikopia, the world's easternmost place where the chewing of ar
 
 \lx kara
 \ph kara
-\ps
-\gr
-\ge
-\gn
-\dn
+\ps nop
+\gr rus
+\ge racine
+\gn root
+\uv tree
+\dn root
+\sd Bot
+\rf q.Wud.013
+\xv kara kava
+\xn kava root
 \rf
+\xv kara boke
+\xn banyan root
+\rf DG1-41a
+\xv Tepapa, li-toe kara nebe.
+\xn To make a stomping board, you cut a root of rosewood tree.
 \lf
-\el
+\el POc
+\et *wakaR
 \nt
-\dc
-\dt
+\dc 19/Jul/2016
+\dt 19/Jul/2016
 
 \lx ~karau
 \ph (i·)karau
@@ -7562,7 +7901,7 @@ usually with |vl{~wene}.
 \ge suivre
 \gn follow
 \sn 1
-\dn join <s.o.> in motion or in action; follow
+\dn join ‹s.o.› in motion or in action; follow
 \rf
 \xv Ba-ko ba-katau ene le-le ne toloto?
 \xn Do you guys want to join me to the lake?
@@ -7570,7 +7909,7 @@ usually with |vl{~wene}.
 \lv ~kila2
 \sn 2
 \hn fig
-\dn follow, come after <s.o.>
+\dn follow, come after ‹s.o.›
 \rf
 \xv tili' one pe i-katau ene viri
 \xn [my brother who follows me behind] my next brother (in age)
@@ -7584,13 +7923,13 @@ usually with |vl{~wene}.
 \lv makumoso
 \ln firstborn
 \sn 3
-\dn follow <s.th.>
+\dn follow ‹s.th.›
 \rf
 \xv Kape le-tabo le-katau na kiapa ponu.
 \xn Let's retrace our own steps again.
 \sn 4
 \wn often serialised
-\dn follow <path, road+>; (move, walk+) along <place>
+\dn follow ‹path, road+›; (move, walk+) along ‹place›
 \rf d01.Rot:16
 \xv U-katau anoko u-vene u-le amjaka.
 \xn Just follow the road a little further up.
@@ -7606,8 +7945,8 @@ usually with |vl{~wene}.
 \sn 5
 \wn +location
 \uv
-\dn (do s.th.) systematically, from <place> to <place>; (do) in every
-<place>
+\dn (do s.th.) systematically, from ‹place› to ‹place›; (do) in every
+‹place›
 \rf
 \xv Uña toñaki van li-ka, li-ka li-dai temaka i-katau uña basakulumoe.
 \xn Ships used to come and explore the area, going from one island to the other
@@ -7627,7 +7966,7 @@ places’].
 \sn 6
 \hn fig
 \uv
-\dn follow intellectually <a changing referent>; refer to, adapt to, (do
+\dn follow intellectually ‹a changing referent›; refer to, adapt to, (do
 s.th.) according to
 \rf
 \xv Noma li-katau ñe metele.
@@ -7639,7 +7978,7 @@ moon.
 \gr
 \ll eyes follow
 \uv s.o.
-\dn observe carefully <s.th.>
+\dn observe carefully ‹s.th.›
 \rf
 \xv U-ka u-te u-romo. Mata i-katau tetawene na!
 \xn Come sit here and look. Observe carefully [ax:lit. let your eyes follow] these
@@ -7647,20 +7986,20 @@ drawings!
 \sn 7
 \hn
 \wn often serialised
-\dn adapt o.'s actions+ to <s.o., s.th.>; fl:hence (do) along, according to
-<s.th.>
+\dn adapt o.'s actions+ to ‹s.o., s.th.›; fl:hence (do) along, according to
+‹s.th.›
 \rf
 \xv Le-woi okoro awoiu le-(w)oburo i-katau.
 \xn We pound bamboos (giving the rhythm), and then we sing along.
 \sn 8
 \hn
-\dn be sufficient in quantity; enough for <s.o., s.th.>
-\rf
+\dn be sufficient in quantity; enough for ‹s.o., s.th.›
+\rf Tamate.099
 \xv Li-bi vongoro we teliki iote, teliki iote, i-katau dapa awoiu.
 \xn They collected almonds for each chief, one after the other, enough for [ax:lit.
 following] them all.
 \sn 9
-\dn be suitable for, suit <s.o., s.th.>
+\dn be suitable for, suit ‹s.o., s.th.›
 \rf DP1-30b
 \xv Buro pon i-katau abo ne ene!
 \on hum
@@ -7676,7 +8015,7 @@ following] them all.
 \nt
 \nq
 \dc 20/Nov/2009
-\dt 24/Jun/2016
+\dt 24/Jul/2016
 
 \lx kate
 \ph kate
@@ -7843,8 +8182,8 @@ drug of Vanikoro is really the areca nut (vl:buioe).
 \dt
 
 \lx ~ke
-\ph (i·)ke
 \hm 1
+\ph (i·)ke
 \ps vt
 \gr kaikai
 \ge mordre
@@ -7864,11 +8203,11 @@ drug of Vanikoro is really the areca nut (vl:buioe).
 \nt
 \nq
 \dc 26/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~ke
-\ph (i·)ke
 \hm 2
+\ph (i·)ke
 \ps vi
 \gr
 \sn 1
@@ -7897,7 +8236,7 @@ from the island, towards the ocean
 \nt
 \nq
 \dc 26/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx keba
 \ph keᵐba
@@ -8064,8 +8403,8 @@ from the island, towards the ocean
 \dt 24/May/2012
 
 \lx kie
-\ph kie
 \hm 1
+\ph kie
 \ps n
 \gr pandanas
 \ge pandanus
@@ -8094,17 +8433,17 @@ from the island, towards the ocean
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 28/Nov/2009
+\dt 24/Jul/2016
 
 \lx kie
-\ph kie
 \hm 2
+\ph kie
 \ps nop
 \gr
 \sn 1
 \ge trou
 \gn hole
-\dn hole of <s.th.> dug in the ground
+\dn hole of ‹s.th.› dug in the ground
 \rf
 \xv Li-ae kie tepapa i-dadai awoiu ponu, li-iu tepapa ene.
 \xn They dug holes for the dancing boards all around (the village area), and then
@@ -8114,7 +8453,7 @@ they buried the boards in them.
 \ln hole
 \sn 2
 \hn esp
-\dn grave of <s.o.>, sepulture
+\dn grave of ‹s.o.›, sepulture
 \rf
 \xv Nga mwaliko i-bu, le-iu ebele ini i-wene ne kie ini.
 \xn When somebody dies, their body is buried in a grave.
@@ -8126,7 +8465,7 @@ they buried the boards in them.
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 28/Nov/2009
+\dt 24/Jul/2016
 
 \lx kijin
 \ph kiᶮɟin
@@ -8157,14 +8496,14 @@ they buried the boards in them.
 \dt
 
 \lx ~kila
-\ph (i·)kila
 \hm 1
+\ph (i·)kila
 \ps vt
 \gr kolem
 \sn 1
 \ge appeler
 \gn call
-\dn call out to <s.o.>
+\dn call out to ‹s.o.›
 \rf
 \xv Abu u-kila in' i-koie!
 \xn Call him in!
@@ -8173,13 +8512,13 @@ they buried the boards in them.
 \xn Someone in the village is blowing the conch, calling out to people to come and
 dance.
 \sn 2
-\dn invoke <deity>, with a prayer or curse
+\dn invoke ‹deity›, with a prayer or curse
 \rf
 \xv Li-la viko li-lateli, li-ka li-kila tadoe pon li-ko “Visipure! U-abu ne adawo!”
 \xn Once they had put the sacred money down, they began to invoke their gods:
 “Fisipure! Come down from your clouds!”
 \sn 3
-\dn call, get <s.o.> on the phone fl:or the teleradio
+\dn call, get ‹s.o.› on the phone fl:or the teleradio
 \rf DP1-07a
 \xv Abu ne-kila Puma!
 \on teleradio
@@ -8189,7 +8528,7 @@ dance.
 is done by teleradio.
 \sn 4
 \wn followed by vl:~ko2
-\dn call <s.th., s.o.> with such and such a name
+\dn call ‹s.th., s.o.› with such and such a name
 \rf
 \xv Dapa li-kila li-ko “Beme” pe ini beme.
 \xn They call him “Baldhead” because he's bald.
@@ -8201,17 +8540,17 @@ is done by teleradio.
 \nt
 \nq
 \dc 16/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~kila
-\ph (i·)kila
 \hm 2
+\ph (i·)kila
 \ps vt
 \gr folem
 \sn 1
 \ge suivre
 \gn join
-\dn follow, join <s.o., s.th.> in motion or action
+\dn follow, join ‹s.o., s.th.› in motion or action
 \rf
 \xv A-ko u-ka u-kila keba?
 \xn Would you like to join us?
@@ -8221,7 +8560,7 @@ is done by teleradio.
 \nt + samame join ?
 \sn 2
 \uv
-\dn marry <s.o.>
+\dn marry ‹s.o.›
 \rf
 \xv Ni-kila emele pe Tetevo.
 \xn I married a woman from Utupua.
@@ -8258,7 +8597,7 @@ marry her.
 \nt
 \nq
 \dc
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~kilase
 \ph (i·)kilase
@@ -8269,7 +8608,7 @@ marry her.
 \sn 1
 \ge
 \gn address
-\dn address, talk to <s.o.>, fl:esp. with a formal or solemn tone; invoke
+\dn address, talk to ‹s.o.›, fl:esp. with a formal or solemn tone; invoke
 \rf
 \xv Li-puie li-kilasi tadoe adapa me i-somoli toñaki ie Laperusi.
 \xn So they addressed solemnly their god, begging him to destroy the ships of
@@ -8278,7 +8617,7 @@ Lapérouse.
 \lf Cf.
 \lv ~votei
 \sn 2
-\dn inform <s.o.> (about s.th., |fv{ñe}), fl:esp. in some length; explain,
+\dn inform ‹s.o.› (about s.th., |fv{ñe}), fl:esp. in some length; explain,
 tell
 \rf
 \xv Ini i-kilasi mwalik' iape, ñe ngaten' na po i-rom' pon.
@@ -8292,7 +8631,7 @@ tell
 \nt
 \nq
 \dc 24/Nov/2009
-\dt 24/May/2012
+\dt 17/Jul/2016
 
 \lx kilasi
 \ph kilasi
@@ -8328,7 +8667,7 @@ tell
 \gr
 \ge
 \gn
-\dn long, thin appendage hanging from <s.th.> in high number
+\dn long, thin appendage hanging from ‹s.th.› in high number
 \rf AF-Q-44++
 \xv kiñe abo
 \xn blades of grass
@@ -8363,7 +8702,7 @@ fv:tamate ritual mask, by way of the Spirit's hair
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 12/May/2012
+\dt 17/Jul/2016
 
 \lx kiñe-biouro
 \ph kiɲe·ᵐbiouro
@@ -8374,7 +8713,7 @@ fv:tamate ritual mask, by way of the Spirit's hair
 \gn octopus
 \ll long-tentacles
 \dn octopus
-\sc Octopus|ax{ spp}
+\sc Octopus |ax{spp}
 \sd Fish
 \rf
 \xv motomoro ie kiñe-biouro
@@ -8384,7 +8723,7 @@ fv:tamate ritual mask, by way of the Spirit's hair
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 24/May/2012
+\dt 31/Jul/2016
 
 \lx kiñekiñe
 \ph kiɲekiɲe
@@ -8418,8 +8757,8 @@ fv:tamate ritual mask, by way of the Spirit's hair
 \dt
 
 \lx ko
-\ph ko
 \hm 1
+\ph ko
 \ps adv
 \gr fastaem
 \un
@@ -8456,17 +8795,17 @@ the addressee's speech or action
 \nt
 \nq
 \dc 15/Nov/2009
-\dt 25/Nov/2009
+\dt 24/Jul/2016
 
 \lx ~ko
-\ph (i·)ko
 \hm 2
+\ph (i·)ko
 \ps vt
 \gr se
 \sn 1
 \ge dire
 \gn say
-\dn say <s.th.>, declare. Introduces direct reported speech
+\dn say ‹s.th.›, declare. Introduces direct reported speech
 \rf CG1-03a
 \xv Na, piene adapa Teanu a-ko ae?
 \xn [this, the language of Teanu, you say what?] How do you say this in Teanu?
@@ -8489,11 +8828,11 @@ the addressee's speech or action
 \nt
 \nq
 \dc 15/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~ko
-\ph (i·)ko
 \hm 3
+\ph (i·)ko
 \wr A
 \ps vi
 \gr open
@@ -8526,11 +8865,11 @@ the addressee's speech or action
 \nt
 \nq
 \dc 23/Mar/2008
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~ko
-\ph (i·)ko
 \hm 4
+\ph (i·)ko
 \ps vt
 \gr
 \ge attendre
@@ -8551,7 +8890,7 @@ the addressee's speech or action
 \nt
 \nq
 \dc 29/Mar/2008
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx kobe
 \ph koᵐbe
@@ -8609,21 +8948,21 @@ the addressee's speech or action
 \gr
 \ge
 \gn introduce
-\dn causative of |fv{~koie} ‘enter’: cause <s.o., s.th.> to go in, introduce
+\dn causative of |fv{~koie} ‘enter’: cause ‹s.o., s.th.› to go in, introduce
 \sn 1
-\dn cause <s.th.> to go in, fl:hence insert, put in, pack
+\dn cause ‹s.th.› to go in, fl:hence insert, put in, pack
 \rf DG1-10b
 \xv U-koioi etapu!
 \xn Don't put it in!
 \sn 2
-\dn cause <s.o.> to go in, fl:hence bring in, lead <s.o.> in
+\dn cause ‹s.o.› to go in, fl:hence bring in, lead ‹s.o.› in
 \rf DG4-04b
 \xv Ai' iape kape i-la men' iape i-koioi ne Toplau.
 \xn The father would introduce his son into the Men's House.
 \sn 3
 \wn geocentric coordinates
 \uv
-\dn cause <s.th.> to go inland: take <s.th.> from the sea towards the
+\dn cause ‹s.th.› to go inland: take ‹s.th.› from the sea towards the
 shore, fl:or from the shore towards the village
 \rf DP2-15b+
 \xv Dapa kula li-katei noma nuduro tilu ponu, li-koioi tetakoie, i-le i-vene ne
@@ -8632,7 +8971,7 @@ moko taniboro.
 zone.
 \sn 4
 \wn id.
-\dn cause <s.o.> to go inland, fl:esp. welcome <travellers> on the beach
+\dn cause ‹s.o.› to go inland, fl:esp. welcome ‹travellers› on the beach
 and lead them inland
 \rf
 \xv Ka li-loko dapa li-koioi. Li-koioi li-su buluko ka li-koie li-vagasi ta-koie.
@@ -8644,7 +8983,7 @@ until they reached (the village) inland.
 \nt
 \nq
 \dc 16/Nov/2009
-\dt 24/May/2012
+\dt 17/Jul/2016
 
 \lx koiui
 \ph kojui
@@ -8859,20 +9198,6 @@ until they reached (the village) inland.
 \dc
 \dt 12/May/2012
 
-\lx ktau
-\ph ktau
-\ps
-\gr
-\ge
-\gn
-\dn
-\rf
-\lf
-\el
-\nt
-\dc
-\dt
-
 \lx kukubo
 \ph kukuᵐbo
 \ps
@@ -8888,18 +9213,22 @@ until they reached (the village) inland.
 \dt 12/May/2012
 
 \lx kula
+\hm 2
 \ph kula
-\ps
-\gr
-\ge
-\gn
-\dn
+\ps nop
+\gr haf
+\ge demi
+\gn half
+\dn half of ‹s.th.›
+\rf DP1-33b
+\xv Ni-nabe jokoro lea iune ka kula.
+\xn I measured the bamboo to be one fathom and a half.
 \rf
-\lf
+\mn kulaña
 \el
 \nt
-\dc
-\dt
+\dc 19/Jul/2016
+\dt 19/Jul/2016
 
 \lx kulaña
 \ph kulaɲa
@@ -8908,19 +9237,27 @@ until they reached (the village) inland.
 \gr haf
 \ge demi
 \gn half
-\dn half of <s.th.>
-\rf DG1-40a
-\xv Li-bo nga kulaña metele
-\xn We carve it in the shape of a half-moon.
+\dn half of ‹s.th.›
+\rm DG1-40
+\xm Li-bo nga kulaña metele.
+\xb We carve it in the shape of a half-moon.
 \rf DP1-33b
 \xv Ni-nabe jokoro lea iune ka kula.
 \xn I measured the bamboo to be one fathom and a half.
 \lf
+\se kulaña metele
+\ps n
+\gr
+\ll half moon
+\dn semi-circle
+\rf DG1-41a
+\xv Tepapa, li-toe kara nebe li-bo nga kulaña metele.
+\xn To make a stomping board, you cut a root of rosewood tree, and carve it in the shape of a semi-circle.
 \el
 \nt cf. kula
 \nq
-\dc
-\dt 12/May/2012
+\dc 17/Jul/2016
+\dt 19/Jul/2016
 
 \lx kuledi
 \ph kuleⁿdi
@@ -9102,10 +9439,10 @@ Japan.
 \ge prendre
 \gn take
 \uv
-\dn take <one thing> (fl:vs. |fv{~loko}, ‘take several things’)
+\dn take ‹one thing› (fl:vs. |fv{~loko}, ‘take several things’)
 \sn 1
 \wn
-\dn take <s.th.> with o.'s hands, grab, carry
+\dn take ‹s.th.› with o.'s hands, grab, carry
 \rf
 \xv Nganae pe kape le-la tae.
 \xn They didn't need to carry anything.
@@ -9115,7 +9452,7 @@ Japan.
 \sn 2
 \hn esp
 \wn often first verb in serialisation
-\dn take <s.th.> in order to use it fl:or move it. Serves to introduce a
+\dn take ‹s.th.› in order to use it fl:or move it. Serves to introduce a
 new participant in a situation, often an instrument or a theme, even
 when no actual ‘grabbing’ event is referred to.
 \rf
@@ -9141,14 +9478,14 @@ his son and introduce him].
 \ps vt
 \gr
 \ll take carry-away
-\dn take <s.th.> away
+\dn take ‹s.th.› away
 \rf
 \mn ~lui
 \se ~la ~teli
 \ps vt
 \gr
 \ll take put-down
-\dn put <s.th.> down
+\dn put ‹s.th.› down
 \rf
 \mn ~la ~teli
 \sn 3
@@ -9172,7 +9509,7 @@ his son and introduce him].
 by an earthquake.
 \sn 4
 \wn
-\dn give <s.th.>
+\dn give ‹s.th.›
 \rf
 \xv U-la i-ka kiane!
 \xn [take it it comes quickly] Give it to me, quick!
@@ -9191,19 +9528,19 @@ water].
 \ps vt
 \gr
 \ll take give
-\dn give <s.th.> to s.o.
+\dn give ‹s.th.› to s.o.
 \rf
 \mn ~la ~mini
 \sn 5
 \hn fig
-\dn take <s.th. abstract>, keep
+\dn take ‹s.th. abstract›, keep
 \rf
 \xv Ni-la piene ono.
 \xn I'm recording [taking] your language.
 \sn 6
 \hn
 \uv s.o.
-\dn understand <s.o., s.th.>
+\dn understand ‹s.o., s.th.›
 \rf
 \xv Ka ni-la awa eo.
 \xn [I took your mind] I understand what you mean.
@@ -9215,7 +9552,7 @@ water].
 \xb You haven't got the point yet?
 \sn 7
 \uv action
-\dn require, take <amount of time>
+\dn require, take ‹amount of time›
 \rf
 \xv I-la wik iune!
 \xn It takes a whole week!
@@ -9245,7 +9582,7 @@ non-compositional phrases
 \nt
 \nq
 \dc 23/Nov/2009
-\dt 24/May/2012
+\dt 17/Jul/2016
 
 \lx labaro
 \ph laᵐbaro
@@ -9361,7 +9698,7 @@ non-compositional phrases
 \sn 4
 \hn
 \wn non-sg subject
-\dn exchange <s.th.>, trade, swap
+\dn exchange ‹s.th.›, trade, swap
 \rf
 \xv Kia la-laiaini tapepa.
 \xn We're swapping presents.
@@ -9381,7 +9718,7 @@ non-compositional phrases
 \nt
 \nq also "exchange"?
 \dc 17/Mar/2008
-\dt 24/May/2012
+\dt 17/Jul/2016
 
 \lx laioi
 \ph lajoi
@@ -9445,7 +9782,7 @@ non-compositional phrases
 \gr poisonem
 \ge ensorceler
 \gn bewitch
-\dn bewitch, kill <s.o.> using sorcery
+\dn bewitch, kill ‹s.o.› using sorcery
 \rf DG1 23
 \xv Noma li-lanasu idi ne ngatene engaenga: ebele nga namolo iaidi, viabasa idi,
 kula none aidi, viñe buioe aidi.
@@ -9460,7 +9797,7 @@ such as, their clothes, their hair, the food they left, the nut they chewed…
 \nt
 \nq
 \dc 23/Nov/2009
-\dt 24/May/2012
+\dt 17/Jul/2016
 
 \lx langasuo
 \ph laŋasuo
@@ -10047,7 +10384,7 @@ each other strictly.
 \ge rassembler
 \gn collect
 \wn typic. first verb in serialisation
-\dn take <several objects>, fl:esp. before displacing them somewhere
+\dn take ‹several objects›, fl:esp. before displacing them somewhere
 \rf
 \xv Le-loko ajekele le-iui ne revo.
 \xn They collect the rubbish and throw it into the sea.
@@ -10056,8 +10393,8 @@ each other strictly.
 \lv ~la
 \sn 2
 \uv
-\dn take <people> somewhere, lead
-\rf
+\dn take ‹people› somewhere, lead
+\rf Tamate.043
 \xv Kape pe-loko dapa gete enone, da meliko viñevi, pe-lui ne moe re.
 \xn We'll take my boys and my girls, and lead them to that house over there.
 \rf
@@ -10084,7 +10421,7 @@ or displacement
 \nt
 \nq
 \dc 15/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx lokoie
 \ph lokoie
@@ -10258,7 +10595,7 @@ i-ke.
 \gn crayfish
 \ll blind crab
 \dn crayfish, crawfish, spiny lobster
-\sc Palinuridae|ax{ spp}
+\sc Palinuridae |ax{spp}
 \sd Sea
 \rf DG2-02b
 \lf Cf.
@@ -10268,7 +10605,7 @@ i-ke.
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 12/May/2012
+\dt 31/Jul/2016
 
 \lx louboaido
 \ph louᵐboaiⁿdo
@@ -10384,13 +10721,13 @@ with its area
 \dt
 
 \lx ~lu
-\ph (i·)lu
 \hm 1
+\ph (i·)lu
 \ps vt
 \gr
 \ge râper
 \gn grate
-\dn scrape <tuber> fl:or grate <coconut flesh>, with a bivalve shell
+\dn scrape ‹tuber› fl:or grate ‹coconut flesh›, with a bivalve shell
 (fv:aero2) or grater
 \rf DG1-34b
 \xv I-tau jebute awoiu ponu, i-lu.
@@ -10402,16 +10739,16 @@ with its area
 \nt
 \nq
 \dc 15/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~lu
-\ph (i·)lu
 \hm 2
+\ph (i·)lu
 \ps vt
 \gr
 \ge ranger
 \gn fold
-\dn fold <s.th.>, esp. in order to put it away
+\dn fold ‹s.th.›, esp. in order to put it away
 \nq vrai sens = plier???
 \rf
 \xv Kape le-lu bete.
@@ -10430,22 +10767,37 @@ with its area
 \el
 \nt
 \nq
-\dc
-\dt 24/May/2012
+\dc 24/May/2012
+\dt 24/Jul/2016
 
-\lx lubi
-\ph luᵐbi
-\ps
+\lx ~lubi
+\ph (i·)luᵐbi
+\wr A
+\ps vi
 \gr
-\ge
-\gn
-\dn
-\rf
+\ge tourner
+\gn turn
+\uv wind+
+\dn turn, turn around; change direction
+\rf Tamate.051
+\xv Ngiro ka i-lubi.
+\xn The wind has turned.
 \lf
+\se
+\ps vt
+\wr B
+\gr
+\uv wind+
+\dn spin ‹s.th.›, make ‹s.th.› whirl around
+\sd
+\rf DG1-18a
+\xv Vilisao i-lubi kuo ka i-apini idi.
+\xn The tornado spun the ship and killed everybody.
+\rf
 \el
-\nt
-\dc
-\dt 12/May/2012
+\nq CHECK meaning
+\dc 17/Jul/2016
+\dt 25/Jul/2016
 
 \lx ~lui
 \ph (i·)lui
@@ -10454,14 +10806,14 @@ with its area
 \gr tekem
 \ge porter
 \gn carry
-\dn causative of |fv{~le} ‘go’: make <s.o., s.th.> go somewhere, fl:hence
+\dn causative of |fv{~le} ‘go’: make ‹s.o., s.th.› go somewhere, fl:hence
 take away, carry
 \lf Ant.
 \lv ~kamai
 \ln bring
 \nt
 \sn 1
-\dn take <s.th.> somewhere, carry
+\dn take ‹s.th.› somewhere, carry
 \rf
 \xv Ni-bu bete ene me ne-lui.
 \xn I've rolled my mat to take it away.
@@ -10484,10 +10836,10 @@ take away, carry
 |{tab}|fv{~abui} |{tab}|{tab}|fs{take down} 
 |{tab}|fv{~tabe} |{tab}|{tab}|fs{hold in o.'s arms} 
 |{tab}|fv{~papa} |{tab}|{tab}|fs{carry on o.'s back} 
-|{tab}|fv{~valangia} |{tab}|{tab}|fs{carry on stick} 
+|{tab}|fv{~valangia}   |{tab}|fs{carry on stick} 
 |{tab}fv:~wo2 |{tab}|{tab}|fs{carry on forehead strap}
 \sn 2
-\dn take <s.o.> somewhere fl:or away
+\dn take ‹s.o.› somewhere fl:or away
 \rf
 \xv Kupa pi-lui ini teve taluaito.
 \xn We took him to the doctor.
@@ -10508,7 +10860,7 @@ them.
 \nt
 \nq
 \dc 24/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx lukilo
 \ph lukilo
@@ -10614,8 +10966,8 @@ them.
 \dt
 
 \lx ma
-\ph ma
 \hm 1
+\ph ma
 \ps nop
 \gr han
 \ge main
@@ -10628,17 +10980,17 @@ them.
 \nt
 \nq
 \dc 15/Nov/2009
-\dt 28/Nov/2009
+\dt 24/Jul/2016
 
 \lx ma
-\ph ma
 \hm 2
+\ph ma
 \wr A
 \ps nop
 \gr
 \ge antre
 \gn lair
-\dn place where <animal+> usually dwells: den, lair, burrow
+\dn place where ‹animal+› usually dwells: den, lair, burrow
 \rf DG1-47b
 \xv ma loubo
 \xn a crab's hole
@@ -10647,26 +10999,30 @@ them.
 \wr B
 \sn 1
 \wn after vl:moe ‘house’
-\dn (lair) of <s.o.>
+\dn (lair) of ‹s.o.›
 \rf
 \xv moe* ma tadoe
 \xn Devils' lair (ancestral temple)
+\rf d06.Devil:16
+\xv Li-pinoe li-dai ra ra awoiu, li-tabo li-le ne bonge ma dapa.
+\on dancing Spirits
+\xn They dance on and on, until they return to their cave home.
 \lf Cf.
 \lv mam
 \sn 2
-\dn (house) for <s.th.>
+\dn (house) for ‹s.th.›
 \rf DG1-46b
 \xv moe ma longe
 \xn firewood house (where wood is stocked)
 \el
 \nt
 \nq
-\dc
-\dt 15/Nov/2009
+\dc 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~ma
-\ph (i·)ma
 \hm 3
+\ph (i·)ma
 \ps vi
 \gr
 \sn 1
@@ -10690,7 +11046,7 @@ them.
 \nt
 \nq
 \dc 15/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx mabere
 \ph maᵐbere
@@ -10728,57 +11084,71 @@ them.
 \ph maᵐbukaia
 \ps
 \gr
-\ge
-\gn
-\dn
-\rf
-\lf
+\ge anus
+\gn anus
+\dn anus
+\sd Anat
+\rf Goblins.17
+\xv I-u ñe mabukaia.
+\xn He wiped his anus.
+\lf Syn.
+\lv mwa tedele
 \el
 \nt
-\dc
-\dt 12/May/2012
+\dc 18/Jul/2016
+\dt 18/Jul/2016
 
-\lx mada
-\ph maⁿda
+\lx mada uko
+\ph maⁿda uko
 \ps
 \gr
-\ge
-\gn
-\dn
-\rf
-\lf
+\ge lente
+\gn nit
+\dn egg of louse, nit
+\rf q.Anemol.58
+\lf Cf.
+\lv uko
+\ln louse
 \el
 \nt
-\dc
-\dt 12/May/2012
+\dc 18/Jul/2016
+\dt 18/Jul/2016
 
-\lx madau
-\ph maⁿdau
+\lx ~madau
+\ph (i·)maⁿdau
+\ps vi
+\gr fraet
+\ge apeuré
+\gn fear
+\dn be afraid, be scared (of, fv:ñe)
+\rf Tamate.151
+\xv Pe-madau etapu, ponu menuko iaba.
+\xn Don't be scared, this is our friend.
+\rf Lap-Simevio.09
+\xv Dapa li-madau ñe toñaki ponu. 
+\xn They were afraid of that ship.
+\lf
+\el POc
+\et *matakut
+\nt
+\dc 18/Jul/2016
+\dt 18/Jul/2016
+
+\lx ~made
+\ph (i·)maⁿde
 \ps
 \gr
-\ge
-\gn
-\dn
-\rf
+\ge aiguiser
+\gn sharpen
+\dn sharpen, carve ‹wood› so as to give it a sharp or pointy shape
+\rf d07.Kenu:05
+\xv I-bo ebele kuo; awoiu, i-made basa, ka teviri.
+\xn After cutting out the canoe hull, he carved out its prow and its stern.
 \lf
 \el
 \nt
-\dc
-\dt 12/May/2012
-
-\lx made
-\ph maⁿde
-\ps
-\gr
-\ge
-\gn
-\dn
-\rf
-\lf
-\el
-\nt
-\dc
-\dt 12/May/2012
+\dc 18/Jul/2016
+\dt 18/Jul/2016
 
 \lx madele
 \ph maⁿdele
@@ -10787,7 +11157,7 @@ them.
 \ge palourde
 \gn clam
 \dn giant clam
-\sc Tridacninae|ax{ spp}
+\sc Tridacninae |ax{spp}
 \sd Sea
 \rf DG2-02b
 \xv Madele i-betei.
@@ -10797,7 +11167,7 @@ them.
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 12/May/2012
+\dt 31/Jul/2016
 
 \lx maga
 \ph maᵑga
@@ -10845,8 +11215,8 @@ them.
 \dt
 
 \lx ~maili
-\ph (i·)maili
 \hm 1
+\ph (i·)maili
 \ps vi
 \gr gru
 \sn 1
@@ -10874,16 +11244,16 @@ them.
 \nt
 \nq
 \dc 16/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~maili
-\ph (i·)maili
 \hm 2
+\ph (i·)maili
 \ps vt
 \gr laetem
 \ge
 \gn
-\dn light <fire, fv:iawo>
+\dn light ‹fire, fv:iawo›
 \rf
 \xv
 \en |fv{~maili iawo} is sometimes contracted as |fv{~maliawo}.
@@ -10894,7 +11264,7 @@ them.
 \nt
 \nq
 \dc 16/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx maiuko
 \ph maiuko
@@ -11095,8 +11465,8 @@ them.
 \dt
 
 \lx mama
-\ph mama
 \hm 1
+\ph mama
 \ps nop
 \gr voes
 \sn 1
@@ -11123,7 +11493,7 @@ them.
 \sn 3
 \hn rare
 \uv
-\dn message sent by <s.o.>
+\dn message sent by ‹s.o.›
 \sn 4
 \hn esp
 \uv man
@@ -11136,11 +11506,11 @@ them.
 \nt
 \nq
 \dc 19/Nov/2009
-\dt 20/Nov/2009
+\dt 24/Jul/2016
 
 \lx mama
-\ph mama
 \hm 2
+\ph mama
 \ps n
 \gr puding
 \ge pudding
@@ -11161,7 +11531,7 @@ almonds (|fv{vongoro}), and served in important social occasions
 \nt
 \nq
 \dc 19/Nov/2009
-\dt 19/Nov/2009
+\dt 24/Jul/2016
 
 \lx mamabe
 \ph mamaᵐbe
@@ -11423,8 +11793,8 @@ Scientific American etc.
 \dt 12/May/2012
 
 \lx mata
-\ph mata
 \hm 1
+\ph mata
 \ps nop
 \gr
 \sn 1
@@ -11489,7 +11859,7 @@ Scientific American etc.
 \sn 7
 \hn
 \wn
-\dn area in front of <house>, forecourt
+\dn area in front of ‹house›, forecourt
 \rf
 \xv ne mata moe 'none
 \xn in my forecourt
@@ -11498,11 +11868,11 @@ Scientific American etc.
 \nt
 \nq
 \dc 17/Nov/2009
-\dt 22/Nov/2009
+\dt 24/Jul/2016
 
 \lx mata
-\ph mata
 \hm 2
+\ph mata
 \ps nop
 \va mataña
 \gr
@@ -11547,16 +11917,16 @@ Scientific American etc.
 \nt
 \nq
 \dc 17/Nov/2009
-\dt 21/Feb/2010
+\dt 24/Jul/2016
 
 \lx ~mata
-\ph (i·)mata
 \hm 3
+\ph (i·)mata
 \ps vt
 \gr
 \ge bercer
 \gn rock
-\dn rock <baby>
+\dn rock ‹baby›
 \rf
 \xv Keba ba-bwatui ba-ko ba-mata ini, ia metae.
 \xn We tried to rock him (asleep), but no way!
@@ -11565,7 +11935,7 @@ Scientific American etc.
 \nt
 \nq
 \dc 17/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx mata bute
 \ph mata ᵐbute
@@ -11575,7 +11945,7 @@ Scientific American etc.
 \gn
 \ll taro sprout
 \dn k.o. plant with red leaves (Euphorbiaceae)
-\sc Homalanthus|ax{ spp}
+\sc Homalanthus |ax{spp}
 \sd Bot
 \rf DG2-11a
 \un
@@ -11585,7 +11955,7 @@ Scientific American etc.
 \nt
 \nq
 \dc 20/Feb/2010
-\dt 12/May/2012
+\dt 31/Jul/2016
 
 \lx mata luro
 \ph mata luro
@@ -11665,7 +12035,7 @@ Scientific American etc.
 \ge
 \gn
 \dn k.o. tree, perhaps:
-\sc Semecarpus|ax{ spp}
+\sc Semecarpus |ax{spp}
 \sd Bot
 \rf DG2-11a
 \un
@@ -11687,7 +12057,7 @@ Scientific American etc.
 \nt
 \nq
 \dc 20/Feb/2010
-\dt 28/Feb/2010
+\dt 31/Jul/2016
 
 \lx mataña
 \ph mataɲa
@@ -11814,7 +12184,7 @@ Scientific American etc.
 \ge
 \gn butterfly
 \dn butterfly
-\sc Lepido^ptera|fs{ spp}
+\sc Lepido^ptera |ax{spp}
 \sd Ins
 \rf
 \xv
@@ -11823,7 +12193,7 @@ Scientific American etc.
 \et *ᵐbeᵐbe
 \nt
 \dc 12/May/2012
-\dt 12/May/2012
+\dt 31/Jul/2016
 
 \lx ~mede
 \ph (i·)meⁿde
@@ -11833,13 +12203,13 @@ Scientific American etc.
 \sn 1
 \ge mener
 \gn
-\dn lead <s.o.>, whether in motion or in action
+\dn lead ‹s.o.›, whether in motion or in action
 \rf xxx
 \xv Buro pe li-mede idi ñei.
 \xn It's a song for leading (the dancers).
 \sn 2
 \hn esp
-\dn mislead, deceive, lie to <s.o.>
+\dn mislead, deceive, lie to ‹s.o.›
 \rf
 \xv U-mede kupa etapu!
 \xn Don't deceive us!
@@ -11858,7 +12228,7 @@ Scientific American etc.
 \nt
 \nq
 \dc 15/Nov/2009
-\dt 24/May/2012
+\dt 17/Jul/2016
 
 \lx medigo
 \ph meⁿdiᵑgo
@@ -11882,7 +12252,7 @@ Scientific American etc.
 \gn cordyline
 \dn Victory leaf (Agavaceae)
 \sc Cordyline fruticosa
-\sc C. terminalis
+\sc Cordyline terminalis
 \sd Bot
 \rf DG2-11a
 \lf
@@ -11890,7 +12260,7 @@ Scientific American etc.
 \nt
 \nq
 \dc 20/Feb/2010
-\dt 12/May/2012
+\dt 31/Jul/2016
 
 \lx megilo
 \ph meᵑgilo
@@ -11919,6 +12289,9 @@ Scientific American etc.
 \dn climatic disaster leading to famine; fl:hence famine, massive and
 unexpected food shortage in a population
 \rf
+\lf Cf.
+\lv apono
+\ln cyclone
 \se vilo peini melevele
 \ps n
 \gr
@@ -11938,7 +12311,7 @@ case of famine
 \nt
 \nq
 \dc 20/Feb/2010
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx ~meli
 \ph (i·)meli
@@ -11996,8 +12369,8 @@ case of famine
 \dt
 
 \lx memia
-\ph memia
 \hm 1
+\ph memia
 \ps nop
 \gr
 \ge
@@ -12016,11 +12389,11 @@ case of famine
 \nt
 \nq
 \dc 24/Nov/2009
-\dt 24/Nov/2009
+\dt 24/Jul/2016
 
 \lx memia
-\ph memia
 \hm 2
+\ph memia
 \ps adj
 \gr
 \ge
@@ -12039,7 +12412,7 @@ for fear their teeth might taste-bitter]
 \nt
 \nq
 \dc 24/Nov/2009
-\dt 24/Nov/2009
+\dt 24/Jul/2016
 
 \lx ~mene
 \ph (i·)mene
@@ -12061,7 +12434,7 @@ for fear their teeth might taste-bitter]
 \xn “Come, let's go!” But the woman refused.
 \sn 3
 \hn
-\dn be tired of, fed up with <s.th.>
+\dn be tired of, fed up with ‹s.th.›
 \rf
 \xv A-mene pe u-e none ponu?
 \xn Aren't you tired of eating that food?
@@ -12070,7 +12443,7 @@ for fear their teeth might taste-bitter]
 \nt
 \nq
 \dc 19/Nov/2009
-\dt 24/May/2012
+\dt 17/Jul/2016
 
 \lx menu
 \ph menu
@@ -12285,7 +12658,7 @@ for fear their teeth might taste-bitter]
 \ps n
 \gr
 \dn moray eel
-\sc Muraenidae|ax{ spp}
+\sc Muraenidae |ax{spp}
 \sd Fish
 \rf
 \se meviko lekele
@@ -12300,7 +12673,7 @@ for fear their teeth might taste-bitter]
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 12/May/2012
+\dt 31/Jul/2016
 
 \lx miabolo
 \ph miaᵐbolo
@@ -12323,7 +12696,7 @@ for fear their teeth might taste-bitter]
 \ge cycas
 \gn cycad
 \dn cycad
-\sc Cycas|ax{ spp}
+\sc Cycas |ax{spp}
 \sd Bot
 \rf DG2-10b
 \lf
@@ -12331,7 +12704,7 @@ for fear their teeth might taste-bitter]
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 12/May/2012
+\dt 31/Jul/2016
 
 \lx mijaka
 \ph miᶮɟaka
@@ -12443,7 +12816,7 @@ for fear their teeth might taste-bitter]
 \ge seiche
 \gn cuttlefish
 \dn cuttlefish, squid
-\sc Sepia|ax{ sp.}
+\sc Sepia |ax{sp.}
 \sd Fish
 \rf DG2-02b
 \lf
@@ -12451,7 +12824,7 @@ for fear their teeth might taste-bitter]
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 29/Nov/2009
+\dt 31/Jul/2016
 
 \lx misilo
 \ph misilo
@@ -12600,17 +12973,26 @@ advice; fl:hence reprimand (s.o., fv:se)
 
 \lx moboro
 \ph moᵐboro
-\ps
-\gr
-\ge
-\gn
-\dn
-\rf
-\lf
+\ps n
+\gr loiaken
+\ge rotin
+\gn rattan
+\dn k.o. lawyer-cane fl:or rattan
+\sc Calamus sp.
+\sc Flagellaria spp.
+\sd Bot
+\rf DG1-42a
+\rf Tamate.117
+\xv I-vio ka li-wabeiu ñe moboro teva, me blateno i-vio, susuko, ne to.
+\xn They used four rattan canes as props, so that the pole could stand firmly
+in the middle.
+\lf Cf.
+\lv woworo
+\lv viapwene
 \el
 \nt
-\dc
-\dt 12/May/2012
+\dc 18/Jul/2016
+\dt 19/Jul/2016
 
 \lx mobosigie
 \ph moᵐbosiᵑgie
@@ -13016,8 +13398,8 @@ trunk
 \dt 23/Nov/2009
 
 \lx moro
-\ph moro
 \hm 1
+\ph moro
 \ps n
 \gr dei
 \ge jour
@@ -13031,11 +13413,11 @@ trunk
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 28/Nov/2009
+\dt 24/Jul/2016
 
 \lx moro
-\ph moro
 \hm 2
+\ph moro
 \ps n
 \gr
 \ge
@@ -13055,11 +13437,11 @@ trunk
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 28/Nov/2009
+\dt 24/Jul/2016
 
 \lx moso
-\ph moso
 \hm 1
+\ph moso
 \ps adj
 \gr
 \sn 1
@@ -13084,11 +13466,11 @@ to old age and maturity: |fv{amoso}, |fv{momoso}, |fv{makumoso}.
 \et *matuqa
 \nt
 \dc 12/May/2012
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx moso
-\ph moso
 \hm 2
+\ph moso
 \ps n
 \gr
 \ge
@@ -13105,11 +13487,11 @@ to old age and maturity: |fv{amoso}, |fv{momoso}, |fv{makumoso}.
 \nt
 \nq
 \dc 12/May/2012
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx moso
-\ph moso
 \hm 3
+\ph moso
 \ps adj
 \gr
 \ge
@@ -13125,7 +13507,7 @@ to old age and maturity: |fv{amoso}, |fv{momoso}, |fv{makumoso}.
 \nt
 \nq ?? Poc
 \dc 12/May/2012
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx mote
 \ph mote
@@ -13244,8 +13626,8 @@ light]
 \dt
 
 \lx mouro
-\ph mouro
 \hm 1
+\ph mouro
 \ps n
 \gr
 \ge gauche
@@ -13258,11 +13640,11 @@ light]
 \nt
 \nq
 \dc 19/Nov/2009
-\dt 20/Nov/2009
+\dt 24/Jul/2016
 
 \lx mouro
-\ph mouro
 \hm 2
+\ph mouro
 \ps nop
 \gr
 \ge groupe
@@ -13287,7 +13669,7 @@ light]
 \nt
 \nq
 \dc 19/Nov/2009
-\dt 20/Nov/2009
+\dt 24/Jul/2016
 
 \lx moworo
 \ph moworo
@@ -13343,7 +13725,7 @@ light]
 \gn not_know
 \wn static reading
 \hn comm
-\dn not know, be ignorant of <s.th.>; have no idea (if, fv:~ko2)
+\dn not know, be ignorant of ‹s.th.›; have no idea (if, fv:~ko2)
 \rm
 \xm En' ni-mui ni-ko ponu Moresi men' iape iote emele.
 \xb I didn't know Mores had a girl.
@@ -13369,7 +13751,7 @@ light]
 \xn He cannot speak.
 \sn 3
 \wn dynamic reading
-\dn forget, be unable to remember <s.th.>
+\dn forget, be unable to remember ‹s.th.›
 \rf
 \xv Dapa pie aipa ka vitoko kape le-mui piene aipa.
 \xn Our grandchildren will soon forget our language.
@@ -13382,7 +13764,7 @@ light]
 \xn I forgot to say it.
 \sn 5
 \hn rare
-\dn forget <object>, leave behind
+\dn forget ‹object›, leave behind
 \rf DP1-26b
 \xv Ni-mui temamene 'none i-wene ne moe.
 \xn I left behind my bag in the house!
@@ -13390,7 +13772,7 @@ light]
 \nt
 \nq
 \dc 19/Nov/2009
-\dt 24/May/2012
+\dt 17/Jul/2016
 
 \lx mukae
 \ph mukae
@@ -13457,19 +13839,35 @@ FZDH, FZSW; HFZC, WFZC…)
 \dc 21/Nov/2009
 \dt 22/Nov/2009
 
-\lx mumu
-\ph mumu
-\ps
-\gr
-\ge
-\gn
-\dn
+\lx ~mumu
+\ph (i·)mumu
+\ps vt
+\gr covetem
+\sn 1
+\ge convoiter
+\gn covet
+\dn covet, desire ‹s.th.›
+\nt
+\rf Mwasu.060
+\xv Ni-mumu none ono.
+\xn I wish I had your food.
+\rf Mwasu.060
+\xv Li-mumu viko.
+\xn They are greedy [lit. they desire money]
+\sn 2
+\wn
+\hn esp
+\uv
+\dn feel sexual desire for ‹s.o.›
 \rf
+\rm
+\xm Mwalkote i-mumu emele.
+\xb The man is attracted to a woman.
 \lf
 \el
 \nt
-\dc
-\dt
+\dc 16/Jul/2016
+\dt 16/Jul/2016
 
 \lx mumule
 \ph mumule
@@ -13623,33 +14021,25 @@ FZDH, FZSW; HFZC, WFZC…)
 \dc
 \dt 12/May/2012
 
-\lx mwata
-\ph mʷata
-\ps
-\gr
-\ge
-\gn
-\dn
-\rf
-\lf
-\el
-\nt
-\dc
-\dt 12/May/2012
-
 \lx mwatagete
 \ph mʷataᵑgete
-\ps
-\gr
-\ge
-\gn
-\dn
-\rf
-\lf
+\ps n
+\gr yangfala
+\ge jeune.homme
+\gn youngster
+\pl dapa gete
+\dn young unmarried boy
+\rf d12.Sintia:35
+\xv Mwatagete iote ka i-teli mama ini se.
+\xn She's already been promised to a boy.
+\un Anth
+\en Traditionally, male teenagers used to receive education in a Club house called |fv{Toplau Mwagete}.
+\lf Cf.
+\lv gete
 \el
 \nt
-\dc
-\dt 12/May/2012
+\dc 24/Jul/2016
+\dt 24/Jul/2016
 
 \lx mwoe
 \ph mʷoe
@@ -13680,8 +14070,8 @@ FZDH, FZSW; HFZC, WFZC…)
 \dt
 
 \lx na
-\ph na
 \hm 1
+\ph na
 \ps dx
 \va ne
 \gr hemia
@@ -13699,23 +14089,23 @@ FZDH, FZSW; HFZC, WFZC…)
 \nt
 \nq
 \dc 16/Nov/2009
-\dt 26/Nov/2009
+\dt 24/Jul/2016
 
 \lx na
-\ph na
 \hm 2
+\ph na
 \ps nop
 \gr ples
 \ge endroit
 \gn place
-\dn place of <s.o., s.th.>
+\dn place of ‹s.o., s.th.›
 \rf DG4-05a++
 \un
 \en Often implies that the event is only virtually present in the location — whether it
 has ceased to take place, or has not begun yet.
 \sn 1
 \uv s.th.
-\dn location of <s.th.>
+\dn location of ‹s.th.›
 \rf DG4-04a+05a
 \xv na moe 'none
 \xn the location of my house (past or future)
@@ -13728,7 +14118,7 @@ has ceased to take place, or has not begun yet.
 \lf
 \sn 2
 \uv s.o.
-\dn place associated with <s.o.>, whether in a temporary or permanent
+\dn place associated with ‹s.o.›, whether in a temporary or permanent
 way
 \rf
 \xv na ene pe ni-lebie
@@ -13740,16 +14130,16 @@ way
 \xm na ene
 \sn 3
 \uv
-\dn itinerary taken by <s.o.> in a past or future journey
+\dn itinerary taken by ‹s.o.› in a past or future journey
 \el
 \nt
 \nq
 \dc 16/Nov/2009
-\dt 16/Nov/2009
+\dt 24/Jul/2016
 
 \lx na
-\ph na
 \hm 3
+\ph na
 \ps conj
 \gr
 \ge
@@ -13761,7 +14151,7 @@ way
 \nt
 \nq
 \dc 26/Nov/2009
-\dt 26/Nov/2009
+\dt 24/Jul/2016
 
 \lx nabe
 \ph naᵐbe
@@ -13900,7 +14290,7 @@ way
 \gr
 \ge
 \gn
-\dn what relation to <s.o.>? Question word standing for kin term
+\dn what relation to ‹s.o.›? Question word standing for kin term
 \rf DP2-15b
 \xv Ini nava eo?
 \xn What is she to you? (e.g. your sister? cousin?)
@@ -13911,7 +14301,7 @@ way
 \nt
 \nq
 \dc 23/Nov/2009
-\dt 12/May/2012
+\dt 17/Jul/2016
 
 \lx ne
 \ph ne
@@ -13928,8 +14318,8 @@ way
 \dt
 
 \lx nebe
-\ph neᵐbe
 \hm 1
+\ph neᵐbe
 \ps n
 \gr
 \ge sole
@@ -13944,26 +14334,28 @@ way
 \nt
 \nq
 \dc 15/Nov/2009
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx nebe
-\ph neᵐbe
 \hm 2
+\ph neᵐbe
 \ps n
 \gr
 \ge Pterocarpus
-\gn Pterocarpus
+\gn Rosewood
 \de Sang-dragon, Bois-de-Rose
 \dn New Guinea Rosewood
 \sc Pterocarpus indicus
-\rf DG1-40
 \sd Bot
+\rf DG1-41a
+\xv Tepapa, li-toe kara nebe li-bo nga kulaña metele.
+\xn To make a stomping board, you cut a root of rosewood tree, and carve it in the shape of a semi-circle.
 \lf
 \el
 \nt
 \nq
 \dc 15/Nov/2009
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx nedemo
 \ph neⁿdemo
@@ -14008,8 +14400,8 @@ way
 \dt
 
 \lx ~nene
-\ph (i·)nene
 \hm 1
+\ph (i·)nene
 \ps vi
 \gr shaen
 \ge briller
@@ -14022,12 +14414,12 @@ way
 \el
 \nt
 \nq
-\dc
-\dt 24/May/2012
+\dc 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~nene
-\ph (i·)nene
 \hm 2
+\ph (i·)nene
 \ps vt
 \gr
 \ge sucer
@@ -14044,7 +14436,7 @@ way
 \nt
 \nq
 \dc 16/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx nengele
 \ph neŋele
@@ -14072,7 +14464,7 @@ way
 \xn I'll massage her body because some spots (on her body) are painful.
 \lf
 \sn 3
-\dn accessories for <s.th.>
+\dn accessories for ‹s.th.›
 \rf
 \xv nengele makone
 \xn [accessories of dance] the accessories necessary to carry out traditional
@@ -14081,7 +14473,7 @@ dances (instruments, jumping boards+)
 \nt
 \nq
 \dc 19/Nov/2009
-\dt 12/May/2012
+\dt 17/Jul/2016
 
 \lx netebe
 \ph neteᵐbe
@@ -14201,7 +14593,7 @@ dances (instruments, jumping boards+)
 \ln face, forehead
 \sn 2
 \hn gen
-\dn front part of <s.th.>
+\dn front part of ‹s.th.›
 \rf
 \xv noma toñaki
 \xn the prow of the ship
@@ -14210,7 +14602,7 @@ dances (instruments, jumping boards+)
 \sn 3
 \hn
 \uv time period
-\dn end of <s.th.>
+\dn end of ‹s.th.›
 \rf
 \xv ne noma metele
 \xn at the end of the month
@@ -14282,7 +14674,7 @@ moon.
 \nt
 \nq
 \dc 17/Nov/2009
-\dt 23/Nov/2009
+\dt 17/Jul/2016
 
 \lx noma
 \ph noma
@@ -14407,8 +14799,8 @@ moon.
 \dt
 
 \lx none
-\ph none
 \hm 1
+\ph none
 \ps n
 \gr
 \ge
@@ -14427,11 +14819,11 @@ moon.
 \el
 \nt
 \dc 20/Feb/2010
-\dt 20/Feb/2010
+\dt 24/Jul/2016
 
 \lx none
-\ph none
 \hm 2
+\ph none
 \ps n
 \gr kaikai
 \ge
@@ -14455,7 +14847,7 @@ moon.
 \nt
 \nq
 \dc 20/Feb/2010
-\dt 20/Feb/2010
+\dt 24/Jul/2016
 
 \lx nubuko
 \ph nuᵐbuko
@@ -14489,8 +14881,8 @@ moon.
 \dt 12/May/2012
 
 \lx nuduro
-\ph nuⁿduro
 \hm 1
+\ph nuⁿduro
 \ps n
 \dn centipede
 \sc Chilopoda |ax{spp}
@@ -14504,11 +14896,11 @@ moon.
 \nt
 \nq
 \dc 20/Feb/2010
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx nuduro
-\ph nuⁿduro
 \hm 2
+\ph nuⁿduro
 \ps n
 \gr
 \dn by analogy of shape with the centipede (fv:nuduro1),
@@ -14562,7 +14954,7 @@ coconut palm).
 \gr
 \ll attach a taboo-leaf
 \dn reserve (s.th., s.o.: |fv{se}) for oneself; fl:hence get engaged to (s.o.)
-\rf
+\rf d12.Sintia:35
 \xv Mwatagete iote ka i-vi nuduro se.
 \xn She's already engaged to someone. [ax:lit. A boy has already put up a taboo on
 her]
@@ -14581,12 +14973,12 @@ or not
 \nt
 \nq
 \dc 22/Nov/2009
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx n’ adie
-\ph n’ aⁿdie
+\ph naⁿdie
 \wr A
-\ps prép
+\ps prep
 \va ne adie
 \a n'adie
 \a n' adie
@@ -14635,7 +15027,7 @@ village will hold a funeral ceremony.
 \nt
 \nq
 \dc
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx ña
 \ph ɲa
@@ -14869,18 +15261,51 @@ a bunch of kids were correcting the form to "Ñilale" with /l/.
 \dt 12/May/2012
 
 \lx ngapiene
-\ph ŋapiene
-\ps
-\gr
-\ge
-\gn
-\dn
+\ph ŋapiˈene
+\ps n
+\gr festivol
+\ge festival
+\gn festival
+\dn dance festival. People feast for several days, and dance by stomping on boards (vl:tepapa), laid
+out on the ground in a circle around a ritual pole (vl:blateno)
+\sd Ethn
 \rf
+\xv li-vete ngapiene
+\xn announce the festival
+\rm Lupo.37
+\xm I-leng' i-ko mobo ngapiene kape ka i-pu i-sali.
+\xb She heard that the next morning, the festival would break up and finish.
+\rf Lupo.33
+\xv Ngapiene ka i-sali pon ta — bwogo tili.
+\xn Then the festival comes to an end, after five days.
+\un
+\en These dance festivals occur seldom nowadays; but they are central to many traditional stories.
 \lf
+\tn |{tab}|fb{The dance festival} £ |{tab}[|vl{ngapiene}*] 
+|vl{xxx.} 
+|fs{‘xxx.’}
+\se ~mini ngapiene
+\ps voi
+\gr
+\ll give festival
+\uv people
+\dn hold a festival
+\sd
+\rf
+\xv Ka li-la ngatene peini me kape le-mini ngapiene.
+\xn They began the work so they could hold the festival.
+\se ebele ngapiene
+\ps n
+\gr
+\ll body of festival
+\dn end of the festival
+\rf Tamate.141
+\xv Ini i-ko kape i-viane ebele ngapiene, i-ko: nga nanana, mobo ngapiene awoiu.
+\xn He said they would hit the end of the festival, that it would end the next day.
 \el
 \nt
-\dc
-\dt 12/May/2012
+\dc 19/Jul/2016
+\dt 21/Jul/2016
 
 \lx ngapwae
 \ph ŋapʷae
@@ -14993,7 +15418,7 @@ meaning ‘to work’.
 \gr
 \ge mâcher
 \gn chew
-\dn chew <sugarcane+> so as to suck out its juice while avoiding to eat
+\dn chew ‹sugarcane+› so as to suck out its juice while avoiding to eat
 the fibres
 \rf
 \xv Dameliko li-nge to.
@@ -15006,7 +15431,7 @@ the fibres
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 24/May/2012
+\dt 17/Jul/2016
 
 \lx ngele
 \ph ŋele
@@ -15029,14 +15454,14 @@ the fibres
 \ge
 \gn
 \dn river eel
-\sc Anguilliformes|ax{ spp}
+\sc Anguilliformes |ax{spp}
 \sd Fish
 \lf
 \el
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 12/May/2012
+\dt 31/Jul/2016
 
 \lx ngiro
 \ph ŋiro
@@ -15185,14 +15610,14 @@ the fibres
 \ps n
 \ll male bamboo
 \dn k.o. bamboo
-\sc Bambusa|ax{ spp}
+\sc Bambusa |ax{spp}
 \sd Bot
 \rf DG2-11b
 \se oko woko
 \ps n
 \ll
 \dn k.o. bamboo
-\sc Bambusa|ax{ spp}
+\sc Bambusa |ax{spp}
 \sd Bot
 \rf DG2-11b
 \el POc
@@ -15200,7 +15625,7 @@ the fibres
 \nt
 \nq
 \dc 20/Feb/2010
-\dt 28/Feb/2010
+\dt 31/Jul/2016
 
 \lx okoro
 \ph okoro
@@ -15212,7 +15637,7 @@ the fibres
 \ge
 \gn
 \dn bamboo
-\sc Bambusa|ax{ spp}
+\sc Bambusa |ax{spp}
 \sd Bot
 \rf
 \xv mulusa okoro
@@ -15223,7 +15648,7 @@ the fibres
 \gr
 \ll empty (?) bamboo
 \dn variety of bamboo
-\sc Bambusa|ax{ spp}
+\sc Bambusa |ax{spp}
 \sd Bot
 \rf
 \se okoro mulusa pine
@@ -15231,7 +15656,7 @@ the fibres
 \gr
 \ll large-internode bamboo
 \dn variety of bamboo, larger and stronger
-\sc Bambusa|ax{ spp}
+\sc Bambusa |ax{spp}
 \sd Bot
 \sn 2
 \wn
@@ -15280,7 +15705,7 @@ bushknife, machete
 \et *qauR
 \nt
 \dc 21/Feb/2010
-\dt 28/Feb/2010
+\dt 31/Jul/2016
 
 \lx olawo
 \ph olawo
@@ -15289,7 +15714,7 @@ bushknife, machete
 \ge
 \gn
 \dn coral
-\sc Acroporidae|ax{ spp}
+\sc Acroporidae |ax{spp}
 \sd Sea
 \rf DG2-21a
 \lf
@@ -15297,7 +15722,7 @@ bushknife, machete
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 28/Feb/2010
+\dt 31/Jul/2016
 
 \lx ole
 \ph ole
@@ -15386,7 +15811,7 @@ bushknife, machete
 \ll friendly fish
 \hn gen
 \dn kingfish, trevally
-\sc Carangidae|ax{ spp}
+\sc Carangidae |ax{spp}
 \sd Fish
 \rf DG2-02b + 21a
 \lf Cf.
@@ -15402,7 +15827,7 @@ bushknife, machete
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 29/Nov/2009
+\dt 31/Jul/2016
 
 \lx one
 \ph one
@@ -15848,7 +16273,7 @@ sheaths
 \gr
 \ge
 \gn carry
-\dn carry <child+> on o.'s back (fl:vs. |fv{~tabe} ‘carry on o.'s chest’)
+\dn carry ‹child+› on o.'s back (fl:vs. |fv{~tabe} ‘carry on o.'s chest’)
 \rf DP1-14b
 \xv Ini i-papa men' iap' pon la-ke.
 \xn She took her baby on her back and out they went.
@@ -15859,7 +16284,7 @@ sheaths
 \nt
 \nq
 \dc 25/Nov/2009
-\dt 24/May/2012
+\dt 17/Jul/2016
 
 \lx ~pape
 \ph (i·)pape
@@ -15920,13 +16345,13 @@ sheaths
 \dt
 
 \lx ~pei
-\ph (i·)pei
 \hm 1
+\ph (i·)pei
 \ps vrfl
 \gr hapi
 \ge content
 \gn happy
-\dn rejoice <o.s.>: be happy, merry, satisfied
+\dn rejoice ‹o.s.›: be happy, merry, satisfied
 \rf
 \xv Ni-lengi ni-p' ene tamwase.
 \xn I was very happy to hear (the news).
@@ -15938,11 +16363,11 @@ sheaths
 \nt
 \nq
 \dc 20/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~pei
-\ph (i·)pei
 \hm 2
+\ph (i·)pei
 \ps vti
 \gr
 \ge jaloux
@@ -15956,7 +16381,7 @@ sheaths
 \nt
 \nq
 \dc 20/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx peini
 \ph peini
@@ -16214,11 +16639,11 @@ or female (SC, DC+)
 \wr B
 \gr
 \sn 1
-\dn taste bitter fl:or unpleasant to <s.o.>
+\dn taste bitter fl:or unpleasant to ‹s.o.›
 \sn 2
 \hn esp
 \uv fish
-\dn poison <s.o.>, make <s.o.> sick
+\dn poison ‹s.o.›, make ‹s.o.› sick
 \rf q.Fish.002
 \xv Nga namuko i-pono eo, kape sa eo i-meli.
 \xn If fish poisons you, your stomach will ache.
@@ -16227,7 +16652,7 @@ or female (SC, DC+)
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 24/May/2012
+\dt 17/Jul/2016
 
 \lx ponu
 \ph ponu
@@ -16247,17 +16672,22 @@ or female (SC, DC+)
 
 \lx pongo
 \ph poŋo
-\ps
+\ps nop
 \gr
 \ge
-\gn
-\dn
-\rf
+\gn top
+\dn upper part of ‹s.th.›: top, tip
+\rf d01.Rot:16
+\xv U-katau anoko u-vene u-le amjaka, u-vagasi pongo gilita.
+\xn Follow the path upwards a little bit, and you'll reach the top of the hill.
+\rf Lap-BenTua.005
+\xv Tepuke ponu, moe aplaka pon, ne pongo kuo pon.
+\xn The 'tepuke' ship has a small cabin, on top of the ship.
 \lf
 \el
 \nt
-\dc
-\dt 12/May/2012
+\dc 20/Jul/2016
+\dt 20/Jul/2016
 
 \lx Popokia
 \ph Popokia
@@ -16274,8 +16704,8 @@ or female (SC, DC+)
 \dt
 
 \lx ~pu
-\ph (i·)pu
 \hm 1
+\ph (i·)pu
 \ps vi
 \gr ron
 \ge couler
@@ -16293,11 +16723,11 @@ or female (SC, DC+)
 \nt
 \nq
 \dc 16/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~pu
-\ph (i·)pu
 \hm 2
+\ph (i·)pu
 \ps vi
 \gr
 \sn 1
@@ -16312,7 +16742,7 @@ or female (SC, DC+)
 \hn fig
 \uv meeting, celebration
 \dn break up, come to an end
-\rf
+\rf Lupo.37
 \xv I-leng' i-ko mobo ngapiene kape ka i-pu i-sali.
 \xn She heard that the next morning, the festival would break up and finish.
 \lf Cf.
@@ -16321,7 +16751,7 @@ or female (SC, DC+)
 \nt
 \nq
 \dc 16/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx pua
 \ph pua
@@ -16549,8 +16979,8 @@ forceful recruiting of manpower from Vanikoro and other islands.
 \dt
 
 \lx re
-\ph re
 \hm 1
+\ph re
 \ps dx
 \gr
 \ge là-bas
@@ -16562,11 +16992,11 @@ forceful recruiting of manpower from Vanikoro and other islands.
 \nt
 \nq
 \dc 16/Nov/2009
-\dt 16/Nov/2009
+\dt 24/Jul/2016
 
 \lx ~re
-\ph (i·)re
 \hm 2
+\ph (i·)re
 \ps vt
 \gr
 \ge laisser
@@ -16574,7 +17004,7 @@ forceful recruiting of manpower from Vanikoro and other islands.
 \dn let go of, leave
 \sn 1
 \uv
-\dn let go of <s.th.>, release, drop
+\dn let go of ‹s.th.›, release, drop
 \rf
 \xv U-re mevia* eo.
 \xn [Release your breath!] Have a rest!
@@ -16587,7 +17017,7 @@ forceful recruiting of manpower from Vanikoro and other islands.
 \se ~re i-wene
 \ps phr
 \ll leave-it it-lies
-\dn leave <s.th.> somewhere
+\dn leave ‹s.th.› somewhere
 \rf
 \xv U-re i-wene!
 \xn Leave it there!
@@ -16595,13 +17025,13 @@ forceful recruiting of manpower from Vanikoro and other islands.
 \en Sometimes contracted to |vl{~rewene}*.
 \sn 2
 \uv
-\dn leave <s.th.> somewhere; put <s.th.> down, lay, set
+\dn leave ‹s.th.› somewhere; put ‹s.th.› down, lay, set
 \rf
 \xv Voko iote pon li-re ne elene Lege ponu.
 \xn They took stones and laid them down in the clearing of Lengge.
 \sn 3
 \hn esp
-\dn set <trap>; cast <net>
+\dn set ‹trap›; cast ‹net›
 \rf
 \xv Kape la-re tetaki me la-labu neido konge ne ero.
 \xn We will set a trap to catch small shrimps in the river.
@@ -16609,22 +17039,22 @@ forceful recruiting of manpower from Vanikoro and other islands.
 \xv Ne-le ne-re pele.
 \xn I'm going net-fishing.
 \sn 4
-\dn spend <money, fv:viko>, pay <fine>
+\dn spend ‹money, fv:viko›, pay ‹fine›
 \rf DP2-11b
 \xv Ka a-romo leka! Kape u-re viko!
 \xn You had eye contact with your cousin! You will have to pay a fine!
 \sn 5
 \uv
-\dn let go of, release <s.o.>; leave <s.o.> alone
+\dn let go of, release ‹s.o.›; leave ‹s.o.› alone
 \rf DG1-06a+
 \xv U-re ene!
 \xn Leave me alone!
 \sn 6
 \hn
-\dn allow <s.o.> to do s.th.
+\dn allow ‹s.o.› to do s.th.
 \nq ??
 \sn 7
-\dn leave <s.o.>; drop <s.o.> somewhere, walk <s.o.> back
+\dn leave ‹s.o.›; drop ‹s.o.› somewhere, walk ‹s.o.› back
 \nq
 \rf Nabu email
 \xv Awa ene i-su pe ni-re kaipa damiliko iono.
@@ -16635,7 +17065,7 @@ forceful recruiting of manpower from Vanikoro and other islands.
 \sn 8
 \hn
 \uv
-\dn divorce <s.o.>
+\dn divorce ‹s.o.›
 \rf DG1-06a
 \xv Ka i-re emele iape.
 \xn [he has released his wife] He is divorced.
@@ -16644,7 +17074,7 @@ forceful recruiting of manpower from Vanikoro and other islands.
 \nt
 \nq
 \dc 16/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx rema
 \ph rema
@@ -16798,33 +17228,19 @@ oven.
 \dc
 \dt
 
-\lx rom'
-\ph rom'
-\ps
+\lx ro’
+\hm 2
+\ps vt
 \gr
 \ge
 \gn
-\dn
+\dn short form of fv:~romo ‘see’
 \rf
 \lf
 \el
 \nt
-\dc
-\dt
-
-\lx ro'
-\ph ro'
-\ps
-\gr
-\ge
-\gn
-\dn
-\rf
-\lf
-\el
-\nt
-\dc
-\dt
+\dc 24/Jul/2016
+\dt 24/Jul/2016
 
 \lx ruene
 \ph ruene
@@ -16931,12 +17347,12 @@ almond shelf; then they lit a fire underneath.
 \dt 12/May/2012
 
 \lx ~sai
-\ph (i·)sai
 \hm 1
+\ph (i·)sai
 \wr A
 \ps vt
 \gr
-\dn land <canoe> on a beach
+\dn land ‹canoe› on a beach
 \rf Tamate.042
 \xv Dapa li-ka li-wokobe da po la-sai kuo.
 \xn People welcomed them as they landed their canoe (on the beach).
@@ -16959,17 +17375,17 @@ almond shelf; then they lit a fire underneath.
 \nt
 \nq
 \dc 17/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~sai
-\ph (i·)sai
 \hm 2
+\ph (i·)sai
 \ps vt
 \gr
 \sn 1
 \ge
 \gn
-\dn liken <s.o., s.th.> to (|fv{ñe}) s.th. else; confuse with s.th. else
+\dn liken ‹s.o., s.th.› to (|fv{ñe}) s.th. else; confuse with s.th. else
 \rf DG4-06b
 \xv Ni-rom anive iote pine ni-sai ñe kuo 'none ne.
 \xn I saw a large dugong, I thought it was (as big as) my canoe.
@@ -16979,7 +17395,7 @@ almond shelf; then they lit a fire underneath.
 \sn 2
 \ll laugh compare s.o.?
 \wn never alone; always serialised after |vl{~ekeke} ‘laugh’
-\dn (laugh) at, (make fun) of <s.o.>
+\dn (laugh) at, (make fun) of ‹s.o.›
 \rf DP2-10a
 \xv U-ekeke u-sai ene etapu!
 \xn Stop making fun of me!
@@ -16990,7 +17406,7 @@ almond shelf; then they lit a fire underneath.
 \nt
 \nq
 \dc 16/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~sai ñe
 \ph (i·)sai ɲe
@@ -16998,7 +17414,7 @@ almond shelf; then they lit a fire underneath.
 \gr
 \ge
 \gn
-\dn eat out the taste of <kava> with refreshing food
+\dn eat out the taste of ‹kava› with refreshing food
 \rf Mwasu.36
 \xv U-le u-bi avie, me u-kamai, me le-sai ñe kava.
 \xn Go pick some Malay apples, and bring them so we can eat out the taste of
@@ -17008,7 +17424,7 @@ kava.
 \nt
 \nq
 \dc 17/Nov/2009
-\dt 24/May/2012
+\dt 17/Jul/2016
 
 \lx sakoro
 \ph sakoro
@@ -17036,12 +17452,14 @@ kava.
 \ps vt
 \gr
 \sn 1
-\dn release <s.th. which was blocked or tense>, let go of
+\dn release ‹s.th. which was blocked or tense›, let go of
 \rf
 \xv U-botongo ero etapu, u-sali!
 \xn Stop blocking the water (with your hands), let it go!
+\lf Syn.
+\lv ~re2
 \sn 2
-\dn untie, release <s.th.>
+\dn untie, release ‹s.th.›
 \rf
 \xv U-le u-vene u-sali luro i-abu.
 \xn Go up and release a few coconuts down.
@@ -17049,7 +17467,7 @@ kava.
 \lv ~ioi
 \ln throw
 \sn 3
-\dn shoot <gun, fv:tekipa> by releasing the trigger
+\dn shoot ‹gun, fv:tekipa› by releasing the trigger
 \rf DP1-32a
 \xv Ni-sali tekipa li-kovi.
 \xn I shot at them but they dodged it.
@@ -17079,7 +17497,7 @@ kava.
 \rf
 \xv Makone ka i-sali.
 \xn The dances are over.
-\rf
+\rf Lupo.33
 \xv Ngapiene ka i-sali pon ta — bwogo tili.
 \xn Then the festival (vl:ngapiene) comes to an end, after five days.
 \rm DG1-47b
@@ -17093,7 +17511,7 @@ kava.
 \nt
 \nq
 \dc 16/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx samame
 \ph samame
@@ -17397,7 +17815,7 @@ kava.
 \gr
 \ge réparer
 \gn fix
-\dn repair, fix <s.th.>
+\dn repair, fix ‹s.th.›
 \rf DP1-20a
 \xv Pi-wete otovo pi-ko pe-songai moe.
 \xn We are making the roofing to repair our house.
@@ -17406,7 +17824,7 @@ kava.
 \nt
 \nq
 \dc 19/Nov/2009
-\dt 24/May/2012
+\dt 17/Jul/2016
 
 \lx sopu
 \ph sopu
@@ -17465,14 +17883,14 @@ kava.
 \dt
 
 \lx ~su
-\ph (i·)su
 \hm 1
+\ph (i·)su
 \ps vt
 \gr bonem
 \sn 1
 \ge allumer
 \gn set_fire
-\dn set fire to, burn <s.th.> to get rid of it
+\dn set fire to, burn ‹s.th.› to get rid of it
 \rf
 \xv Ajekele pon, kape le-su.
 \xn This is rubbish, we're about to burn it.
@@ -17486,7 +17904,7 @@ kava.
 \ln burn
 \sn 2
 \uv
-\dn light <torch, fv:buluko>
+\dn light ‹torch, fv:buluko›
 \rf
 \xv Li-su buluko ka li-koioi dapa li-vagasi ta-koie.
 \xn (The islanders) lit torchlights and led them inland.
@@ -17494,7 +17912,7 @@ kava.
 \sn 3
 \hn
 \uv
-\dn set fire to <cultivated land, fv:sekele> in order to make it ready for
+\dn set fire to ‹cultivated land, fv:sekele› in order to make it ready for
 cultivation; practise slash-and-burn cultivation
 \rf cf. DP1-29b
 \xv Nanana kape le-su sekele.
@@ -17503,11 +17921,11 @@ cultivation; practise slash-and-burn cultivation
 \nt
 \nq
 \dc 17/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~su
-\ph (i·)su
 \hm 2
+\ph (i·)su
 \ps vi
 \gr sat
 \sn 1
@@ -17536,7 +17954,7 @@ cultivation; practise slash-and-burn cultivation
 \nt
 \nq
 \dc 17/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~sube
 \ph (i·)suᵐbe
@@ -17649,7 +18067,7 @@ infringe (s.th., |fv{ñe})
 \sn 4
 \uv words+
 \dn proper, correct, flawless
-\rf
+\rf d10.Bekem:22
 \xv Dapa li-ejau ngatene susuko tae.
 \xn They didn't do (the ritual) correctly.
 \sn 5
@@ -17695,7 +18113,7 @@ infringe (s.th., |fv{ñe})
 \nt
 \nq
 \dc 22/Nov/2009
-\dt 29/Nov/2009
+\dt 24/Jul/2016
 
 \lx susuko
 \ph susuko
@@ -17712,8 +18130,8 @@ infringe (s.th., |fv{ñe})
 \dt
 
 \lx ta
-\ph ta
 \hm 1
+\ph ta
 \ps ptc
 \gr
 \ge
@@ -17728,17 +18146,17 @@ infringe (s.th., |fv{ñe})
 \nt
 \nq
 \dc 17/Nov/2009
-\dt 17/Nov/2009
+\dt 24/Jul/2016
 
 \lx ~ta
-\ph (i·)ta
 \hm 2
+\ph (i·)ta
 \ps vt
 \gr
 \sn 1
 \ge peler
 \gn peel
-\dn peel <fruit, tuber+>
+\dn peel ‹fruit, tuber+›
 \rf
 \xv Daviñevi li-ta bele mina.
 \xn The women are peeling out the skin (of yams).
@@ -17747,7 +18165,7 @@ infringe (s.th., |fv{ñe})
 \xn He's peeling a pineapple with a small knife.
 \rf
 \sn 2
-\dn split <nut> in two
+\dn split ‹nut› in two
 \rf
 \xv li-ta vebe
 \xn split a ‘cutnut’
@@ -17758,11 +18176,11 @@ infringe (s.th., |fv{ñe})
 \nt
 \nq
 \dc 17/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~ta
-\ph (i·)ta
 \hm 3
+\ph (i·)ta
 \ps vi
 \gr
 \sn 1
@@ -17790,7 +18208,7 @@ infringe (s.th., |fv{ñe})
 \nt
 \nq
 \dc 17/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx tabau
 \ph taᵐbau
@@ -17826,7 +18244,7 @@ infringe (s.th., |fv{ñe})
 \gr holem
 \ge tenir
 \gn hold
-\dn carry <s.o., s.th.> above o.'s belt, |fl{i.e.} in o.'s arms fl:or on o.'s
+\dn carry ‹s.o., s.th.› above o.'s belt, |fl{i.e.} in o.'s arms fl:or on o.'s
 shoulders
 \rf
 \xv Ini i-aiu i-ka i-le i-koie i-tabe pi' iape.
@@ -17853,7 +18271,7 @@ their shoulders).
 \nt
 \nq
 \dc 24/Nov/2009
-\dt 30/Apr/2014
+\dt 17/Jul/2016
 
 \lx ~tabo
 \ph (i·)taᵐbo
@@ -17920,7 +18338,7 @@ except that it does not take verbal prefixes.
 \gr
 \ge
 \gn decorate
-\dn decorate <building+> in preparation for a celebration
+\dn decorate ‹building+› in preparation for a celebration
 \sd
 \rf AF04-04-07 (03'54")
 \xv Pi-tabulu mwoe.
@@ -17930,7 +18348,7 @@ except that it does not take verbal prefixes.
 \nt
 \nq
 \dc 28/Feb/2010
-\dt 24/May/2012
+\dt 17/Jul/2016
 
 \lx tadoe
 \ph taⁿdoe
@@ -18089,6 +18507,7 @@ except that it does not take verbal prefixes.
 \gn healer
 \dn traditional healer – both a seer and a sorcerer
 \sd Ethn
+\so ?? dessin DG2-13b ?
 \rf
 \lf Cf.
 \lv tongolukilo
@@ -18101,25 +18520,32 @@ except that it does not take verbal prefixes.
 \sd Mod
 \lf Syn.
 \lv dokita
-\el
+\el Vaeak.-Taum.
+\et taulaitu
+\eg seer, prophet, shaman
 \nt
 \nq
 \dc 23/Nov/2009
-\dt 23/Nov/2009
+\dt 23/Jul/2016
 
 \lx tamate
 \ph tamate
-\ps
+\ps n
 \gr
 \ge
 \gn
 \dn
 \rf
 \lf
-\el
+\el Mota
+\et tamate
+\eg dead person; soul, spirit; ghost; secret society; headdress
+\el PNVanuatu
+\et *qata-mate
+\eg dead person
 \nt
-\dc
-\dt
+\dc 23/Jul/2016
+\dt 23/Jul/2016
 
 \lx tamava
 \ph tamava
@@ -18201,9 +18627,9 @@ except that it does not take verbal prefixes.
 \rf
 \lf
 \el
-\nt
+\nt Tik. lāvaki = missing; dead (??)
 \dc
-\dt 12/May/2012
+\dt 23/Jul/2016
 
 \lx tano
 \ph tano
@@ -18408,11 +18834,13 @@ except that it does not take verbal prefixes.
 \sd Ornith
 \rf DG2-16a
 \lf
-\el
+\el Tik.
+\et tavake
+\eg Phaethon lepturus
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 12/May/2012
+\dt 23/Jul/2016
 
 \lx tavali
 \ph tavali
@@ -18443,8 +18871,8 @@ except that it does not take verbal prefixes.
 \dt 12/May/2012
 
 \lx tawo
-\ph tawo
 \hm 1
+\ph tawo
 \ps n
 \gr haebiskas
 \ge hibiscus
@@ -18462,7 +18890,7 @@ except that it does not take verbal prefixes.
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 28/Nov/2009
+\dt 24/Jul/2016
 
 \lx tawora
 \ph tawora
@@ -18479,9 +18907,9 @@ except that it does not take verbal prefixes.
 \dt
 
 \lx te
-\ph te
 \hm 1
-\ps prép
+\ph te
+\ps prep
 \gr
 \ge
 \gn
@@ -18492,11 +18920,11 @@ except that it does not take verbal prefixes.
 \nt
 \nq
 \dc 26/Nov/2009
-\dt 26/Nov/2009
+\dt 24/Jul/2016
 
 \lx te
-\ph te
 \hm 2
+\ph te
 \ps ptc
 \gr
 \ge
@@ -18509,11 +18937,11 @@ except that it does not take verbal prefixes.
 \nt
 \nq
 \dc 26/Nov/2009
-\dt 26/Nov/2009
+\dt 24/Jul/2016
 
 \lx ~te
-\ph (i·)te
 \hm 3
+\ph (i·)te
 \ps vi
 \gr
 \sn 1
@@ -18597,11 +19025,11 @@ permanently
 \nt
 \nq
 \dc 26/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx -te
-\ph (i·)te
 \hm 4
+\ph (i·)te
 \ps num
 \gr
 \ge
@@ -18616,7 +19044,7 @@ permanently
 \nt
 \nq
 \dc 26/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~te teve
 \ph (i·)te teve
@@ -18626,14 +19054,14 @@ permanently
 \ll be with
 \hn literal
 \uv s.o.
-\dn live with <s.th., s.o.>
+\dn live with ‹s.th., s.o.›
 \rf
 \rf
 \xv Noma, po apali i-maili i-ven' i-ka, i-te tev' ai' iape me et' iape.
 \xn In the old days, when a child grew up, he would stay with his parents.
 \sn 2
 \hn esp
-\dn be married with <s.o.>; have <s.o.> as partner or spouse
+\dn be married with ‹s.o.›; have ‹s.o.› as partner or spouse
 \rf
 \xv Ka i-te te' mwaliko, we mamote?
 \xn [is she living with a man] Has she got a man in her life, or not yet?
@@ -18642,7 +19070,7 @@ permanently
 \nt
 \nq
 \dc 26/Nov/2009
-\dt 24/May/2012
+\dt 17/Jul/2016
 
 \lx tealongo
 \ph tealoŋo
@@ -18741,8 +19169,8 @@ carry food
 \dt 12/May/2012
 
 \lx tebo
-\ph teᵐbo
 \hm 1
+\ph teᵐbo
 \ps n
 \gr ren
 \ge pluie
@@ -18754,11 +19182,11 @@ carry food
 \nt
 \nq
 \dc 23/Nov/2009
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx tebo
-\ph teᵐbo
 \hm 2
+\ph teᵐbo
 \ps n
 \gr kabis
 \ge chou
@@ -18771,7 +19199,7 @@ carry food
 \nt
 \nq
 \dc 23/Nov/2009
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx tedele
 \ph teⁿdele
@@ -18889,6 +19317,23 @@ diamond-shaped fan with its handle
 \dc 24/Nov/2009
 \dt 24/Nov/2009
 
+\lx tekipa
+\ph tekipa
+\ps n
+\gr
+\ge fusil
+\gn gun
+\dn fire gun
+\rf DP1-32a
+\xv Ni-sali tekipa li-kovi.
+\xn I shot at them but they dodged it.
+\lf
+\el
+\nt Polyn.
+\nq
+\dc 24/Jul/2016
+\dt 24/Jul/2016
+
 \lx tekume
 \ph tekume
 \ps
@@ -18904,8 +19349,26 @@ diamond-shaped fan with its handle
 \dt
 
 \lx tekumete
-\ph tekumete
 \hm 1
+\ph tekumete
+\ps n
+\gr
+\ge
+\gn
+\dn large wooden bowl for serving food
+\sd Artf
+\rf
+\lf
+\el Polynesian
+\et kumete
+\eg wooden bowl
+\nt
+\dc 09/May/2010
+\dt 24/Jul/2016
+
+\lx tekumete
+\hm 2
+\ph tekumete
 \ps n
 \gr
 \ge
@@ -18921,23 +19384,7 @@ incl. fv:tekumete2
 \nt
 \nq
 \dc 28/Feb/2010
-\dt 09/May/2010
-
-\lx tekumete
-\ph tekumete
-\hm 2
-\ps n
-\gr
-\ge
-\gn
-\dn k.o. wooden dish
-\sd Artf
-\rf
-\lf
-\el Polynesian
-\nt
-\dc 09/May/2010
-\dt 09/May/2010
+\dt 24/Jul/2016
 
 \lx tekupie
 \ph tekupie
@@ -18999,8 +19446,8 @@ incl. fv:tekumete2
 \dt
 
 \lx tele
-\ph tele
 \hm 1
+\ph tele
 \ps n
 \gr
 \ge paroi
@@ -19015,11 +19462,11 @@ incl. fv:tekumete2
 \nt
 \nq
 \dc 17/Nov/2009
-\dt 18/Nov/2009
+\dt 24/Jul/2016
 
 \lx tele
-\ph tele
 \hm 2
+\ph tele
 \ps n
 \gr oel
 \ge huile
@@ -19036,7 +19483,7 @@ incl. fv:tekumete2
 \nt
 \nq
 \dc 17/Nov/2009
-\dt 17/Nov/2009
+\dt 24/Jul/2016
 
 \lx telepakau
 \ph telepakau
@@ -19086,14 +19533,14 @@ incl. fv:tekumete2
 \wn
 \hn
 \uv plant
-\dn grow <leaves+>
+\dn grow ‹leaves+›
 \rf DP2-21a
 \xv Jebute i-teli uie.
 \xn The taros have grown leaves.
 \se ~teli utele
 \ps voi
 \gr
-\ll grow a base
+\ll plant a base
 \dn begin, start (to do, fv:me + Irr.)
 \rf
 \un
@@ -19118,7 +19565,7 @@ family
 \nt
 \nq
 \dc 17/Mar/2008
-\dt 02/Jul/2016
+\dt 17/Jul/2016
 
 \lx teliki
 \ph teliki
@@ -19157,7 +19604,7 @@ family
 \gn pigeon
 \hn gen
 \dn pigeon
-\sc Columbidae|ax{ spp}
+\sc Columbidae |ax{spp}
 \sd Ornith
 \sn 2
 \hn esp
@@ -19178,7 +19625,7 @@ family
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 29/Nov/2009
+\dt 31/Jul/2016
 
 \lx temaka
 \ph temaka
@@ -19204,9 +19651,9 @@ family
 \rf
 \lf
 \el
-\nt
+\nt no VT
 \dc
-\dt
+\dt 23/Jul/2016
 
 \lx temotu
 \ph temotu
@@ -19270,19 +19717,30 @@ family
 
 \lx tenuro
 \ph tenuro
-\ps
+\ps n
 \gr
+\sn 1
 \ge
 \gn
-\dn
+\dn thick fibres composing the husk of a coconut
 \rf
+\sn 2
+\gn rope
+\dn rope, traditionally made by braiding together coconut fibres
+\sd Techn
+\rf q.Wud.097
+\xv Dama noma vana li-apilo tenuro.
+\xn People in the past used to make coconut-string ropes.
+\rf d07.Kenu:11
+\xv Kape li-odo tenuro me le-vo ñe nengele kuo korone.
+\xn We'll look for a rope so we can attach firmly the elements of the canoe.
 \lf
 \el
-\nt
-\dc
-\dt
+\nt Polyn?
+\dc 17/Jul/2016
+\dt 17/Jul/2016
 
-\lx ten'gale
+\lx ten’gale
 \ph tenᵑgale
 \ps n
 \gr
@@ -19295,7 +19753,7 @@ family
 \el
 \nt
 \dc 19/May/2012
-\dt 19/May/2012
+\dt 19/Jul/2016
 
 \lx tepakare
 \ph tepakare
@@ -19321,9 +19779,9 @@ family
 \rf
 \lf
 \el
-\nt
+\nt no VT
 \dc
-\dt
+\dt 23/Jul/2016
 
 \lx tepao
 \ph tepao
@@ -19336,36 +19794,86 @@ family
 \lf
 \el
 \nt
+\nt no VT
 \dc
-\dt
+\dt 23/Jul/2016
 
 \lx tepapa
 \ph tepapa
-\ps
+\ps n
 \gr
+\sn 1
 \ge
 \gn
-\dn
+\hn gen
+\dn wooden board, plank
 \rf
+\nq check
+\sn 2
+\wn
+\hn esp
+\uv
+\dn stomping boards. During vl:ngapiene festivals, a vl:blateno pole is erected in the middle of
+the village area (fv:mane). Laid out in circle (fv:~dai, fv:~dadai) around it, are a number of
+wooden boards half buried (fv:~iu2) in the ground, on which dancers leap and stomp
+(|fv{~viaene}, |fv{~wate}) during the celebrations, in a loud and joyful dance.
+\sd Ethn
+\rf Tamate.114
+\xv Li-ae kie tepapa i-dadai awoiu ponu, li-iu. Li-iu tepapa i-dai awoiu, blateno
+ka li-toe li-kamai.
+\xn First they dug up the holes for the boards in a circle, then they buried the stomping boards. Finally,
+they cut a wooden pole and brought it.
+\rm DG1-40a
+\xm Li-viane tepapa me aña ini.
+\xb They jump on the boards for the sound it makes.
+\rf Lupo.30
+\xv Li-wate tepapa, li-viane tepapa ponu; ka li-pinoe pon ta ka li-mako.
+\xn They were hitting the boards, stomping on the boards: such was their dance.
 \lf
-\el
+\tn |{tab}|fb{The stomping boards} £ |{tab}[|vl{tepapa}*] 
+|vl{Tepapa, li-toe kara nebe li-bo nga kulaña metele. Awoiu li-ae tanoe li-la tepapa li-botongo ñi. Awoiu idi li-mako ne pongo li-viane me aña ini.} 
+|fs{‘To make a stomping board, you cut a root of rosewood tree, and carve it in the shape of a semi-circle. Then you dig up the ground, and cover the hole with the board. Later, people will dance upon them, stomping for the noise it makes.’}
+\se kie tepapa
+\ps n
+\gr
+\ll hole of board
+\dn hole buried in the ground, used as a resonator underneath the
+stomping board during the vl:ngapiene dances
+\lf Cf.
+\lv kie
+\el Polynesian
+\et te papa
+\eg plank
 \nt
-\dc
-\dt
+\dc 18/Jul/2016
+\dt 22/Jul/2016
 
 \lx tepuke
 \ph tepuke
-\ps
-\gr
-\ge
-\gn
-\dn
-\rf
-\lf
-\el
+\ps n
+\gr kenu
+\ge pirogue
+\gn canoe
+\dn large sailing canoe used by the Polynesians for ocean travel, characterised by its decking and
+cabin
+\rf Lap-BenTua.005
+\xv Tepuke ponu, kuo pine; moe aplaka pon, ne pongo kuo pon.
+\xn The ‘tepuke’ ship is a large canoe; it has a small cabin, on top of the ship.
+\rf Lap-BenTua.004
+\xv Ei! Dapa! Na toñaki ae na? Na toñaki we tepuke?
+\xn Hey, people! What sort of ship is that? Is it a European ship, or a Polynesian sailing canoe?
+\lf Cf.
+\lv kuo
+\ln canoe
+\el Vaeak.-Taum.
+\et te puke
+\eg big traditional canoe for long sea voyages
+\el PPn
+\et *puke
+\eg bow and stern decking of a canoe
 \nt
-\dc
-\dt
+\dc 22/Jul/2016
+\dt 24/Jul/2016
 
 \lx tero
 \ph tero
@@ -19411,17 +19919,42 @@ family
 
 \lx tetaki
 \ph tetaki
-\ps
+\ps n
 \gr
-\ge
-\gn
-\dn
-\rf
+\ge nasse
+\gn trap
+\dn small wicker basket used as a bottle trap, plunged (fv:~re2) in a river to catch
+prawns or shrimps (fv:konge)
+\sd Techn
+\rf d11.Wora:17
+\xv Kape la-re tetaki me la-labu neido konge ne ero.
+\xn Let's plunge some traps and catch some small river shrimps
+\lf
+\el Tik.
+\et t.aki
+\eg bag net, of small mesh+
+\nt no VT
+\nt Polyn.
+\dc 16/Jul/2016
+\dt 23/Jul/2016
+
+\lx tetaula
+\ph tetaula
+\ps n
+\gr
+\ge ancre
+\gn anchor
+\dn anchor of a ship
+\rf DG1-31b
+\un
+\en The anchor is attached to a rope or chain (fv:iula). The term fv:iula can also refer, metonymically,
+to the anchor itself.
 \lf
 \el
-\nt
-\dc
-\dt
+\nt Polynesian?  no Tik.
+\nq
+\dc 16/Jul/2016
+\dt 23/Jul/2016
 
 \lx tetawene
 \ph tetawene
@@ -19437,47 +19970,84 @@ family
 \dc
 \dt
 
-\lx tetawo
+\lx Tetawo
 \ph tetawo
-\ps
+\ps loc
 \gr
 \ge
 \gn
-\dn
-\rf
+\dn ancient village located in the south of Banie, formerly the main village of the
+Tanema language community
+\rf Saulu.27
+\xv Basavono ponu, mamote kulumoe Tetawo mate idi abia li-te ene.
+\xn At that time, the village of Tetawo was still inhabited.
+\un Hist.
+\en The area has now been taken over by Polynesian settlers from Tikopia.
 \lf
+\se piene adapa Tetawo
+\ps n
+\gr
+\ll the language of Tetawo people
+\dn Tanema language, formerly spoken in the south of Banie island
+\sd
+\un
+\en The language of Tanema only had a single speaker in 2012.
 \el
 \nt
-\dc
-\dt
+\dc 16/Jul/2016
+\dt 16/Jul/2016
 
 \lx tete
 \ph tete
-\ps
+\ps num
 \gr
-\ge
-\gn
+\ge trois
+\gn three
 \dn
-\rf
+\rf d04.Kava:47
+\xv Viñe teupu tete we teva, bwara kape votobo eo.
+\xn Three of four cups, that may be enough for you.
+\rm
+\xm Kava pon, noma, enga tete.
+\xb Back in the day, there used to be three different kinds of kava.
+\rf d09.Karen:01
+\xv E, dap' tete! Pi-ka vele?
+\xn Hey, you three! Where are you coming from?
 \lf
-\el
+\el POc
+\et *tolu
 \nt
-\dc
-\dt
+\dc 16/Jul/2016
+\dt 16/Jul/2016
 
-\lx tetele
-\ph tetele
-\ps
-\gr
+\lx ~tetele
+\ph (i·)tetele
+\ps vi
+\gr stat
 \ge
-\gn
-\dn
-\rf
+\gn start
+\dn begin, start
+\rf Tamate.121
+\xv Kata kape le-tetele kape le-pinoe pon ta.
+\xn They were about to start dancing.
+\rm Lap-BenTua.019 
+\xm Ini kape i-tetele pe i-ke mina moe pon.
+\xb He started to get out of the house.
+\un Etym.
+\en Contraction of |fv{~teli utele}, fl:lit. ‘plant a base’.
+\lf
+\se
+\ps vt
+\gr
+\dn start ‹s.th.›
+\rf DG1-26a
+\xv I-tetele buro.
+\xn He started a song.
 \lf
 \el
 \nt
-\dc
-\dt
+\dc 16/Jul/2016
+\dt 17/Jul/2016
 
 \lx tetevo
 \ph tetevo
@@ -19495,17 +20065,33 @@ family
 
 \lx teuko
 \ph teuko
-\ps
+\ps n
 \gr
 \ge
-\gn
-\dn
+\gn fishing line
+\dn fishing line; generic name for the tools used in angling for fish
+\rf d11.Wora:14
+\xv Le-la teuko ne jokoro me le-katei ñe namuko.
+\xn Let's take our bamboo fishing rod, and go angling for fish.
 \rf
-\lf
+\rm DG1-27b
+\lf Cf.
+\lv iula teuko
+\ln fishing string
+\lv kangele teuko
+\ln fishhook
+\se ~ioi teuko
+\ps voi
+\gr
+\ll throw the fishing-line
+\dn go fishing, go angling
+\rf
+\xv Kape ne-ioi teuko ko.
+\xn But first let me go fishing.
 \el
-\nt
-\dc
-\dt
+\nt from Polynesian??
+\dc 16/Jul/2016
+\dt 17/Jul/2016
 
 \lx teva
 \ph teva
@@ -19528,7 +20114,7 @@ family
 \ge
 \gn Premna
 \dn k.o. tree (Verbenaceae)
-\sc Premna|ax{ spp}
+\sc Premna |ax{spp}
 \sd Bot
 \rf DP2-10b
 \lf Cf.
@@ -19538,12 +20124,12 @@ family
 \nt
 \nq
 \dc 20/Feb/2010
-\dt 12/May/2012
+\dt 31/Jul/2016
 
 \lx teve
-\ph teve
 \hm 1
-\ps prép
+\ph teve
+\ps prep
 \gr
 \ge auprès
 \gn
@@ -19554,11 +20140,11 @@ family
 \nt
 \nq
 \dc 20/Nov/2009
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx ~teve
-\ph (i·)teve
 \hm 2
+\ph (i·)teve
 \ps vi
 \gr
 \ge fondre
@@ -19573,7 +20159,7 @@ family
 \nt
 \nq
 \dc 20/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx teveliko
 \ph teveliko
@@ -19689,7 +20275,7 @@ dance.
 \ge
 \gn flying-fish
 \dn flying-fish
-\sc Exocoetus|ax{ spp}
+\sc Exocoetus |ax{spp}
 \sd Fish
 \rf
 \lf
@@ -19697,7 +20283,7 @@ dance.
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 12/May/2012
+\dt 31/Jul/2016
 
 \lx tiba
 \ph tiᵐba
@@ -19829,8 +20415,8 @@ when followed by a noun (‘sibling of X’)
 \dt
 
 \lx to
-\ph to
 \hm 1
+\ph to
 \ps n
 \gr
 \ge sucre
@@ -19850,11 +20436,11 @@ when followed by a noun (‘sibling of X’)
 \nt
 \nq
 \dc 19/Nov/2009
-\dt 19/Nov/2009
+\dt 24/Jul/2016
 
 \lx to
-\ph to
 \hm 2
+\ph to
 \ps nop
 \gr
 \ge milieu
@@ -19885,11 +20471,11 @@ when followed by a noun (‘sibling of X’)
 \nt
 \nq
 \dc 19/Nov/2009
-\dt 19/Nov/2009
+\dt 24/Jul/2016
 
 \lx ~to
-\ph (i·)to
 \hm 3
+\ph (i·)to
 \ps vti
 \gr
 \ge pousser
@@ -19904,11 +20490,11 @@ when followed by a noun (‘sibling of X’)
 \nt
 \nq
 \dc 20/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~tobo
-\ph (i·)toᵐbo
 \hm 1
+\ph (i·)toᵐbo
 \wr A
 \ps vi
 \gr
@@ -19954,11 +20540,11 @@ s.o.›
 \nt
 \nq
 \dc 17/Mar/2008
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~tobo
-\ph (i·)toᵐbo
 \hm 2
+\ph (i·)toᵐbo
 \ps vi
 \gr
 \ge se_retenir
@@ -19976,25 +20562,11 @@ the family who are in mourning.
 \nt
 \nq
 \dc 17/Mar/2008
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx toe
-\ph toe
-\ps
-\gr
-\ge
-\gn
-\dn
-\rf
-\lf
-\el
-\nt
-\dc
-\dt
-
-\lx toe
-\ph toe
 \hm 1
+\ph toe
 \ps n
 \gr
 \ge
@@ -20010,7 +20582,46 @@ the family who are in mourning.
 \nt
 \nq
 \dc 28/Feb/2010
-\dt 09/May/2010
+\dt 24/Jul/2016
+
+\lx ~toe
+\hm 2
+\ph (i·)toe
+\ps vt
+\gr katem
+\ge couper
+\gn cut
+\sn 1
+\dn cut ‹wood+›, chop, with a knife or axe
+\sd Techn
+\rf d07.Kenu:03
+\xv I-romo vilo iote wako, i-toe i-tabau.
+\xn When he sees a tree that fits, he chops it down.
+\rf d10.Bekem:11
+\xv Dapa kula ka li-le li-toe longe ne ngogoro.
+\xn Some men went to cut firewood in the bush.
+\rf DG1-41a
+\xv Tepapa, li-toe kara nebe li-bo nga kulaña metele.
+\xn To make a stomping board, you cut a root of rosewood tree, and carve it (vl:~bo) in the shape of a
+semi-circle.
+\rf
+\xv li-toe sela
+\xn cut the umbilical chord
+\sn 2
+\wn
+\dn make ‹s.th.› out of wood
+\rf
+\xv I-toe kuo iape.
+\xn He cut himself a canoe.
+\rf d07.Kenu:10
+\xv Awoiu kape le-toe langasuo peini, ka nengele wamitaka.
+\xn Then you make the rail (for the canoe) as well as the smaller pegs.
+\lf
+\el POc
+\et *taRaq
+\nt
+\dc 19/Jul/2016
+\dt 19/Jul/2016
 
 \lx tololoa
 \ph tololoa
@@ -20252,7 +20863,7 @@ the family who are in mourning.
 \sn 1
 \ge
 \gn picture
-\dn picture, photo, representation of <s.o., s.th.>
+\dn picture, photo, representation of ‹s.o., s.th.›
 \rf CG1-02
 \xv Ene totokale menu one.
 \xn This is a photo of my kid.
@@ -20262,7 +20873,7 @@ represented on the photo.
 \sn 2
 \wn
 \hn fig
-\dn likeness, resemblance to <s.o.>
+\dn likeness, resemblance to ‹s.o.›
 \rf CG1-02
 \xv I-la totokale ai' iape.
 \xn [he's taken the likeness of his father] He looks like his father!
@@ -20284,7 +20895,7 @@ owner of the photo, not its object.
 \nt
 \nq
 \dc 26/Nov/2009
-\dt 29/Nov/2009
+\dt 17/Jul/2016
 
 \lx toulo
 \ph toulo
@@ -20409,19 +21020,24 @@ owner of the photo, not its object.
 \dc
 \dt
 
-\lx u
-\ph u
-\ps
+\lx ~u
+\ph (i·)u
+\ps vt
 \gr
-\ge
-\gn
-\dn
-\rf
+\ge essuyer
+\gn wipe
+\dn wipe ‹s.th.› dry fl:or clean
+\rf DG4-06b
+\xv U-u mwa eo!
+\xn Wipe your mouth!
+\rm DG4-06b
+\xm I-u mwa tedele iape.
 \lf
+\nt cf. rub ?
 \el
 \nt
-\dc
-\dt
+\dc 18/Jul/2016
+\dt 18/Jul/2016
 
 \lx ua
 \ph ua
@@ -20505,7 +21121,7 @@ they brought them.
 \ge banane
 \gn banana
 \dn banana
-\sc Musa|ax{ spp}
+\sc Musa |ax{spp}
 \sd Bot
 \rf
 \xv li-vo udo
@@ -20556,7 +21172,7 @@ they brought them.
 \et *pudi
 \nt
 \dc 21/Feb/2010
-\dt 12/May/2012
+\dt 31/Jul/2016
 
 \lx ~udu
 \ph (i·)uⁿdu
@@ -20652,8 +21268,8 @@ yet unsuitable for human consumption
 \dt 09/May/2010
 
 \lx uku
-\ph uku
 \hm 1
+\ph uku
 \ps nk
 \pdl 1s
 \pdv uk' one
@@ -20674,11 +21290,11 @@ yet unsuitable for human consumption
 \nt
 \nq
 \dc 21/Nov/2009
-\dt 27/Nov/2009
+\dt 24/Jul/2016
 
 \lx ~uku
-\ph (i·)uku
 \hm 2
+\ph (i·)uku
 \ps vi
 \gr kaf
 \ge tousser
@@ -20693,7 +21309,7 @@ yet unsuitable for human consumption
 \nt
 \nq
 \dc 27/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ule
 \ph ule
@@ -20768,8 +21384,8 @@ yet unsuitable for human consumption
 \dt 12/May/2012
 
 \lx uo
-\ph uo
 \hm 1
+\ph uo
 \ps n
 \gr yam
 \ge igname
@@ -20797,11 +21413,11 @@ yet unsuitable for human consumption
 \nt
 \nq
 \dc 19/Nov/2009
-\dt 20/Feb/2010
+\dt 24/Jul/2016
 
 \lx uo
-\ph uo
 \hm 2
+\ph uo
 \ps n
 \gr hip
 \ge cairn
@@ -20815,7 +21431,7 @@ yet unsuitable for human consumption
 \nt
 \nq
 \dc 19/Nov/2009
-\dt 19/Nov/2009
+\dt 24/Jul/2016
 
 \lx upa
 \ph upa
@@ -20940,13 +21556,13 @@ yet unsuitable for human consumption
 \gn reach
 \sn 1
 \wn +location
-\dn go as far as <specific location>, reach
+\dn go as far as ‹specific location›, reach
 \rf d01.Rot:16
 \xv U-katau anoko u-vene u-le amjaka, u-vagasi pongo gilita.
 \xn Just follow the road a little further up, and you'll reach the top of the hill.
 \sn 2
 \wn serialised after motion vb
-\dn go and reach <somewhere>; fl:hence all the way to <a place>
+\dn go and reach ‹somewhere›; fl:hence all the way to ‹a place›
 \rf
 \xv Li-koioi li-su buluko ka li-koie li-vagasi ta-koie.
 \xn They lit torchlights and led them in, until they reached (the village) inland.
@@ -20955,7 +21571,7 @@ yet unsuitable for human consumption
 \sn 3
 \wn +time
 \uv
-\dn (do) until <specific moment>
+\dn (do) until ‹specific moment›
 \rm
 \xm Pon pi-mokoiu pi-vagasi momobo.
 \xb Then we slept until the morning.
@@ -20970,7 +21586,7 @@ yet unsuitable for human consumption
 \lf Syn.
 \lv ra
 \sn 4
-\dn reach, come to meet <s.o.>; meet
+\dn reach, come to meet ‹s.o.›; meet
 \rf DP2-17a
 \xv Keba kape ba-vagas' eo Ostrelia.
 \xn We will come to (visit) you in Australia.
@@ -20979,7 +21595,7 @@ yet unsuitable for human consumption
 \xn I haven't met Ezzy yet.
 \sn 5
 \uv sickness+
-\dn affect <s.o.>
+\dn affect ‹s.o.›
 \rf q
 \xv Emel' enone malaria i-vagasi.
 \xn My wife has malaria. [ax:lit. malaria has caught her]
@@ -20987,7 +21603,7 @@ yet unsuitable for human consumption
 \nt
 \nq
 \dc 23/Nov/2009
-\dt 24/May/2012
+\dt 17/Jul/2016
 
 \lx ~vai
 \ph (i·)vai
@@ -20995,7 +21611,7 @@ yet unsuitable for human consumption
 \gr
 \ge cuire
 \gn bake
-\dn bake <food>, cook in the stone oven (|fv{awene})
+\dn bake ‹food›, cook in the stone oven (|fv{awene})
 \rf
 \xv Li-vai uo
 \xn bake yams
@@ -21004,7 +21620,7 @@ yet unsuitable for human consumption
 \nt
 \nq check technical detail!!
 \dc 19/Nov/2009
-\dt 24/May/2012
+\dt 17/Jul/2016
 
 \lx vaiene
 \ph faiene
@@ -21021,8 +21637,8 @@ yet unsuitable for human consumption
 \dt 12/May/2012
 
 \lx vakaboro
-\ph fakaᵐboro
 \hm 1
+\ph fakaᵐboro
 \ps n
 \gr
 \ge
@@ -21037,11 +21653,11 @@ yet unsuitable for human consumption
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx vakaboro
-\ph fakaᵐboro
 \hm 2
+\ph fakaᵐboro
 \ps n
 \gr
 \ge
@@ -21057,7 +21673,7 @@ yet unsuitable for human consumption
 \nt
 \nq
 \dc 28/Feb/2010
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx vakaero
 \ph fakaero
@@ -21079,7 +21695,7 @@ yet unsuitable for human consumption
 \gr karem
 \ge transporter
 \gn carry
-\dn carry <burden> on o.'s shoulder using a stick
+\dn carry ‹burden› on o.'s shoulder using a stick
 \rf
 \xv Pi-valangia nganae aipa ponu?
 \xn What are you guys carrying (on your sticks)?
@@ -21089,7 +21705,7 @@ yet unsuitable for human consumption
 \nt
 \nq
 \dc 24/Nov/2009
-\dt 24/May/2012
+\dt 17/Jul/2016
 
 \lx vana
 \ph fana
@@ -21230,8 +21846,8 @@ yet unsuitable for human consumption
 \dt 12/May/2012
 
 \lx ~ve
-\ph (i·)ve
 \hm 1
+\ph (i·)ve
 \ps vi
 \gr
 \ge être_comment
@@ -21282,11 +21898,11 @@ whole event
 \nt
 \nq
 \dc 20/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~ve
-\ph (i·)ve
 \hm 2
+\ph (i·)ve
 \wr A
 \ps vi
 \gr bonem
@@ -21303,7 +21919,7 @@ whole event
 \sn 1
 \uv female animal, woman
 \gn beget
-\dn lay <egg>, give birth to <offspring>
+\dn lay ‹egg›, give birth to ‹offspring›
 \rf
 \xv Kulevelu ponu i-ovei pe i-ve waluluo ini moro abia na.
 \xn This hen is able to lay eggs every day.
@@ -21312,7 +21928,7 @@ whole event
 \xn She will give birth in August.
 \sn 2
 \uv man, woman
-\dn beget, be parent of <s.o.>
+\dn beget, be parent of ‹s.o.›
 \rf
 \xv Da ka lai-ve menu?
 \xn Do they already have a child?
@@ -21321,7 +21937,7 @@ whole event
 \nt
 \nq
 \dc
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx vebe
 \ph feᵐbe
@@ -21360,7 +21976,7 @@ whole event
 \gn pandanus
 \dn k.o. pandanus, the leaves of which cannot be woven (fl:vs fv:kie ~
 fv:woubo)
-\sc Pandanus|ax{ spp}
+\sc Pandanus |ax{spp}
 \sd Bot
 \rf DG2-10b
 \xv Lekele i-nge ua vede.
@@ -21372,7 +21988,7 @@ fv:woubo)
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 12/May/2012
+\dt 31/Jul/2016
 
 \lx ~vei
 \ph (i·)vei
@@ -21647,9 +22263,9 @@ long Heliconia leaves (|fv{lukilo vekai}) during public celebrations
 \ge élever
 \gn raise
 \dn Causative counterpart of |fv{~vene} ‘go up’, fl:hence raise, put up
-<s.th.>
+‹s.th.›
 \sn 1
-\dn erect, put up, stand up <s.th.> vertically
+\dn erect, put up, stand up ‹s.th.› vertically
 \rf
 \xv Li-vesu wolowolo
 \xn erect a cross
@@ -21662,9 +22278,9 @@ long Heliconia leaves (|fv{lukilo vekai}) during public celebrations
 \rf
 \xv Li-nabe na ini wako, li-vesu iuro.
 \xn Once we've marked the site (of the house), we stand up the pillars.
-\rf
-\xv Li-vesu bavede
-\xn hoist the sail
+\rm
+\xm Li-vesu bavede
+\xb hoist the sail
 \lf Cf.
 \lv ~vo2
 \lv ~woi
@@ -21682,7 +22298,7 @@ long Heliconia leaves (|fv{lukilo vekai}) during public celebrations
 \lf Cf.
 \lv ~pwalau
 \sn 2
-\dn perform (?) <dances+>
+\dn perform (?) ‹dances+›
 \rf Tamate.128
 \xv I-ko kape le-vesu makone, ngapiene.
 \xn He wanted people to perform dances, to hold a dancing festival.
@@ -21708,7 +22324,7 @@ long Heliconia leaves (|fv{lukilo vekai}) during public celebrations
 \nt
 \nq
 \dc 25/Nov/2009
-\dt 24/May/2012
+\dt 25/Jul/2016
 
 \lx vete
 \ph fete
@@ -21732,7 +22348,7 @@ long Heliconia leaves (|fv{lukilo vekai}) during public celebrations
 \gn say
 \sn 1
 \wn +object NP or direct speech
-\dn tell, say, declare <s.th.>
+\dn tell, say, declare ‹s.th.›
 \rf
 \xv Pi' one i-vete tae.
 \xn My grandfather never told me.
@@ -21741,7 +22357,7 @@ long Heliconia leaves (|fv{lukilo vekai}) during public celebrations
 \xn So he said “That's fine!”
 \lf
 \sn 2
-\dn mention <s.o., s.th.>, talk about
+\dn mention ‹s.o., s.th.›, talk about
 \rf
 \xv Na tepakola pe li-vete na?
 \xn Is this the giant whom people keep talking about?
@@ -21764,7 +22380,7 @@ long Heliconia leaves (|fv{lukilo vekai}) during public celebrations
 |{tab}|fv{~vodo}   |{tab}|{tab}|fs{think}
 \sn 3
 \uv word+
-\dn mean <s.th.>
+\dn mean ‹s.th.›
 \rf DP2-15a
 \xv Vesepiene iune, i-vete ngatene tilu.
 \on polysemy
@@ -21772,13 +22388,13 @@ long Heliconia leaves (|fv{lukilo vekai}) during public celebrations
 things]
 \lf
 \sn 4
-\dn give away <s.o.>, denounce publicly
+\dn give away ‹s.o.›, denounce publicly
 \rf DG1-06b
 \xv U-vet' ene etapu!
 \xn Don't give me away!
 \sn 5
 \uv chief
-\dn call, convene <event, meeting+>
+\dn call, convene ‹event, meeting+›
 \rf
 \xv Teliki iadapa i-vete ngapiene.
 \xn The chief proclaimed the opening of the Festival.
@@ -21786,7 +22402,7 @@ things]
 \nt
 \nq
 \dc 23/Nov/2009
-\dt 24/May/2012
+\dt 17/Jul/2016
 
 \lx ~vete piene
 \ph (i·)vete piene
@@ -21875,15 +22491,15 @@ things]
 \dt 12/May/2012
 
 \lx ~vi
-\ph (i·)vi
 \hm 1
+\ph (i·)vi
 \ps vt
 \gr
 \ge souffler
 \gn blow
 \sn 1
 \uv wind, s.o.
-\dn blow gently onto <s.th., s.o.>
+\dn blow gently onto ‹s.th., s.o.›
 \rf DG1-45a
 \xv Ngiro i-vi idi.
 \xn The wind is blowing gently on us (like a breeze).
@@ -21892,7 +22508,7 @@ things]
 \ln blow strongly
 \sn 2
 \hn esp
-\dn blow into <wind instrument+> to play music
+\dn blow into ‹wind instrument+› to play music
 \rf DG1-45a
 \xv Li-vi jokoro.
 \xn They're playing [bamboo] panpipes.
@@ -21905,11 +22521,11 @@ things]
 \nt
 \nq
 \dc 18/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~vi
-\ph (i·)vi
 \hm 2
+\ph (i·)vi
 \ps vt
 \gr
 \ge
@@ -21922,8 +22538,8 @@ things]
 \el
 \nt
 \nq
-\dc
-\dt 24/May/2012
+\dc 22/Nov/2009
+\dt 24/Jul/2016
 
 \lx via
 \ph fia
@@ -21962,14 +22578,14 @@ things]
 \ge
 \gn
 \uv s.o.
-\dn trample, hit <s.th.> noisily fl:or violently with o.'s feet
+\dn trample, hit ‹s.th.› noisily fl:or violently with o.'s feet
 \rf DG1-40a
 \xv Li-viane tepapa me aña ini.
 \xn They jump on the (dancing) boards for the sound it makes.
 \sn 2
 \hn
 \uv s.o.
-\dn stumble upon <s.th.> with o.'s feet; fl:hence slip, fall
+\dn stumble upon ‹s.th.› with o.'s feet; fl:hence slip, fall
 \rf DP1-29b
 \xv Netebe pon, nara u-viane!
 \xn This is mud here, make sure you don't stumble!
@@ -21977,7 +22593,7 @@ things]
 \lv ~tabau
 \sn 3
 \uv s.th.
-\dn trip <s.o.> up
+\dn trip ‹s.o.› up
 \rf DP1-16b
 \xv Vilo i-viane ale ene.
 \xn [a plant hit my foot] I banged my foot on a tree.
@@ -21985,7 +22601,7 @@ things]
 \sn 4
 \hn fig
 \uv food plants
-\dn be so plentiful as to trip <their owner> up in their garden.
+\dn be so plentiful as to trip ‹their owner› up in their garden.
 Proverbial saying referring to s.o.'s economic prosperity
 \rf
 \xv Utele i-vian' eo?
@@ -22001,18 +22617,18 @@ trips you up]
 \en The grammatical subject, usually vl:utele ‘root, plant’, is sometimes omitted.
 \sn 5
 \uv s.th.
-\dn hit <s.o.>, touch, fl:esp. with some physical impact
+\dn hit ‹s.o.›, touch, fl:esp. with some physical impact
 \rf
 \sn 6
 \hn fig
 \uv event+
-\dn reach <a certain moment>; last <a certain time>
+\dn reach ‹a certain moment›; last ‹a certain time›
 \rf
 \xv I-viane bwogo tili.
 \xn (the festival) reached the fifth day.
 \sn 7
 \uv event+
-\dn become suddenly known to <s.o.>, with some emotional impact;
+\dn become suddenly known to ‹s.o.›, with some emotional impact;
 fl:hence affect, disturb, move, catch by surprise
 \rf
 \xv Buro i-viane dapa ka li-le.
@@ -22023,7 +22639,7 @@ a (beautiful) song.
 \uv |vl{awa}* ‘neck > will’
 \ll my desire hits s.th.
 \hn comm
-\dn like <s.o., s.th.>; want, desire <s.o., s.th.>
+\dn like ‹s.o., s.th.›; want, desire ‹s.o., s.th.›
 \rf
 \xv Awa ene i-viaene imaluo iape.
 \xn I like her character.
@@ -22049,7 +22665,7 @@ a (beautiful) song.
 \nt
 \nq
 \dc 16/Nov/2009
-\dt 24/May/2012
+\dt 17/Jul/2016
 
 \lx viane
 \ph fiane
@@ -22144,8 +22760,8 @@ a (beautiful) song.
 \dt 12/May/2012
 
 \lx vili
-\ph fili
 \hm 1
+\ph fili
 \ps n
 \gr
 \ge perruche
@@ -22164,16 +22780,16 @@ a (beautiful) song.
 \nt
 \nq
 \dc 17/Nov/2009
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx ~vili
-\ph (i·)vili
 \hm 2
+\ph (i·)vili
 \ps vt
 \gr
 \ge presser
 \gn squeeze
-\dn squeeze, press <s.th.>
+\dn squeeze, press ‹s.th.›
 \rf
 \xv U-la manave awoiu u-vili.
 \on kava
@@ -22183,7 +22799,7 @@ a (beautiful) song.
 \nt
 \nq
 \dc 17/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx vilimoe
 \ph filimoe
@@ -22321,7 +22937,7 @@ a (beautiful) song.
 \sn 1
 \ge
 \gn
-\dn hard shell of <animal+>
+\dn hard shell of ‹animal+›
 \rf
 \xv viñe anuele
 \xn turtle shell
@@ -22357,7 +22973,7 @@ a (beautiful) song.
 \nt
 \nq
 \dc 19/Nov/2009
-\dt 12/May/2012
+\dt 17/Jul/2016
 
 \lx viñevi
 \ph fiɲevi
@@ -22493,7 +23109,7 @@ a (beautiful) song.
 \ge
 \gn
 \dn fan palm
-\sc Licuala|ax{ spp}
+\sc Licuala |ax{spp}
 \sd Bot
 \rf DG2-11b
 \lf
@@ -22502,7 +23118,7 @@ a (beautiful) song.
 \nt
 \nq
 \dc 20/Feb/2010
-\dt 12/May/2012
+\dt 31/Jul/2016
 
 \lx visiboko
 \ph fisiᵐboko
@@ -22512,7 +23128,7 @@ a (beautiful) song.
 \gn stone
 \dn stones used in the traditional oven (fv:awene) for cooking and
 baking food
-\rf
+\rf d10.Bekem:16
 \xv Li-avi visiboko ñe aviro.
 \xn You remove the oven stones with the tongs.
 \lf Cf.
@@ -22520,8 +23136,8 @@ baking food
 \ln stone
 \el
 \nt
-\dc
-\dt 12/May/2012
+\dc 12/May/2012
+\dt 24/Jul/2016
 
 \lx visone
 \ph fisone
@@ -22585,8 +23201,8 @@ baking food
 \dt 12/May/2012
 
 \lx ~vo
-\ph (i·)vo
 \hm 1
+\ph (i·)vo
 \ps vt
 \gr
 \sn 1
@@ -22607,18 +23223,18 @@ baking food
 \nt
 \nq
 \dc 13/Mar/2008
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~vo
-\ph (i·)vo
 \hm 2
+\ph (i·)vo
 \ps vt
 \gr
 \sn 1
 \ge
 \gn
-\dn ‘hit’, reach the limits of ‹a place›; fl:hence fill <a place>, take up
-<room>
+\dn ‘hit’, reach the limits of ‹a place›; fl:hence fill ‹a place›, take up
+‹room›
 \rf DG1-46a
 \xv None ka i-vo sa eo?
 \xn Has your meal filled up your tummy? (|fl{i.e.} are you full?)
@@ -22639,11 +23255,11 @@ tanoe}) in the garden; fl:hence grow big
 \nt
 \nq
 \dc 28/Feb/2010
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~vo
-\ph (i·)vo
 \hm 3
+\ph (i·)vo
 \ps vt
 \gr
 \sn 1
@@ -22680,11 +23296,11 @@ tanoe}) in the garden; fl:hence grow big
 \nt
 \nq
 \dc 13/Mar/2008
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~vo
-\ph (i·)vo
 \hm 4
+\ph (i·)vo
 \ps vt
 \gr plantem
 \ge planter
@@ -22700,7 +23316,7 @@ tanoe}) in the garden; fl:hence grow big
 \nt
 \nq
 \dc 17/Mar/2008
-\dt 02/Jul/2016
+\dt 24/Jul/2016
 
 \lx vodo
 \ph foⁿdo
@@ -22759,8 +23375,8 @@ tanoe}) in the garden; fl:hence grow big
 \dt 12/May/2012
 
 \lx Vono
-\ph fono
 \hm 2
+\ph fono
 \ps loc
 \gr Lovono
 \ge Lovono
@@ -22779,11 +23395,11 @@ with its area
 \nt
 \nq
 \dc 16/Nov/2009
-\dt 14/May/2012
+\dt 24/Jul/2016
 
 \lx vono
-\ph fono
 \hm 1
+\ph fono
 \ps n
 \gr ples
 \dn a generic term referring to space
@@ -22838,7 +23454,7 @@ present world.
 \nt
 \nq
 \dc 17/Nov/2009
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx vongo
 \ph foŋo
@@ -22922,8 +23538,8 @@ present world.
 \dt 12/May/2012
 
 \lx voro
-\ph foro
 \hm 1
+\ph foro
 \ps n
 \gr haebiskas
 \ge hibiscus
@@ -22951,18 +23567,18 @@ present world.
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 12/May/2012
+\dt 24/Jul/2016
 
 \lx voro
-\ph foro
 \hm 2
+\ph foro
 \ps n
 \gr
 \ge
 \gn stingray
 \hn gen
 \dn ray, stingray
-\sc Rajiformes|ax{ spp}
+\sc Rajiformes |ax{spp}
 \sd Fish
 \rf
 \lf
@@ -22971,13 +23587,13 @@ present world.
 \gr
 \ll bird-like ray
 \dn Devil ray
-\sc Mobula|ax{ sp.}
+\sc Mobula |ax{sp.}
 \sd Fish
 \el
 \nt
 \nq
 \dc 28/Nov/2009
-\dt 12/May/2012
+\dt 31/Jul/2016
 
 \lx votei
 \ph fotei
@@ -23080,7 +23696,7 @@ present world.
 \ge remplir
 \gn fill
 \dn fill up
-\rf
+\rf Kava.23
 \xv Dapa gete le-wabe, le-lui tev' dapa li-anu.
 \xn The young men fill up (the cups) and give them to (the elders) for them to
 drink.
@@ -23091,7 +23707,7 @@ drink.
 \nt
 \nq
 \dc 17/Nov/2009
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx wabeiu
 \ph waᵐbeiu
@@ -23168,8 +23784,8 @@ drink.
 \dt 24/May/2012
 
 \lx ~wai
-\ph (i·)wai
 \hm 2
+\ph (i·)wai
 \wr A
 \ps vi
 \gr
@@ -23188,7 +23804,7 @@ drink.
 \ps vt
 \wr B
 \uv s.o., s.th.
-\dn shake <s.th.>
+\dn shake ‹s.th.›
 \rf
 \xv U-wai ebele u-ka pon etapu!
 \xn Don't shake your body like that!
@@ -23202,7 +23818,7 @@ drink.
 \nt
 \nq
 \dc
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx waiero
 \ph wajero
@@ -23304,7 +23920,7 @@ drink.
 \gr
 \ge
 \gn
-\dn side of <s.th.>
+\dn side of ‹s.th.›
 \sn 1
 \uv leg
 \dn side of the waist, hip
@@ -23333,7 +23949,7 @@ drink.
 \el
 \nt
 \dc 28/Feb/2010
-\dt 28/Feb/2010
+\dt 17/Jul/2016
 
 \lx waluko ote
 \ph waluko ote
@@ -23403,7 +24019,7 @@ islands further West
 \gr haedem
 \ge cacher
 \gn hide
-\dn hide <s.th.> (from s.o., fv:mina)
+\dn hide ‹s.th.› (from s.o., fv:mina)
 \rf
 \xv Ka a-wamu labaro 'none vele?
 \xn Where did you hide my shoes?
@@ -23423,7 +24039,7 @@ understand for the casual hearer
 \ps vrfl
 \wr B
 \uv s.o.
-\dn hide <oneself>, hide
+\dn hide ‹oneself›, hide
 \rf
 \xv Li-le li-wamu dapa ne pwa moe.
 \xn They went to hide [ax:lit. hide themselves] beside a house.
@@ -23433,7 +24049,7 @@ understand for the casual hearer
 \nt
 \nq
 \dc 20/Nov/2009
-\dt 24/May/2012
+\dt 17/Jul/2016
 
 \lx wañaka
 \ph waɲaka
@@ -23498,26 +24114,26 @@ understand for the casual hearer
 \sn 1
 \ge arranger
 \gn sort_out
-\dn make <things> come back in order: tidy, straighten, fix <s.th.>
+\dn make ‹things› come back in order: tidy, straighten, fix ‹s.th.›
 \rf DP1-34a
 \xv Ne-wasu ngaten' enaka i-vio.
 \xn I'll tidy up my stuff.
 \sn 2
-\dn correct <mistakes>
+\dn correct ‹mistakes›
 \rf
 \xv U-wasu piene 'none.
 \xn [fix my words] Please correct my mistakes.
 \sn 3
-\dn sort out <issues>, settle <conflict>
+\dn sort out ‹issues›, settle ‹conflict›
 \rf
 \sn 4
-\dn arrange, organise <s.th.>
+\dn arrange, organise ‹s.th.›
 \rf
 \xv U-wasu kuo re u-min' ene.
 \xn Please could you arrange for me a trip on that boat?
 \sn 5
 \hn slg
-\dn fix <a girl>: arrange a romantic relationship with <a girl> on behalf
+\dn fix ‹a girl›: arrange a romantic relationship with ‹a girl› on behalf
 of s.o.
 \rf DP1-32a
 \xv U-le u-wasu emele re u-min' ene!
@@ -23527,21 +24143,52 @@ of s.o.
 \nt
 \nq
 \dc 20/Nov/2009
-\dt 24/May/2012
+\dt 17/Jul/2016
 
-\lx wate
-\ph wate
-\ps
+\lx ~wate
+\hm 1
+\ph (i·)wate
+\ps vt
+\gr kilim
+\ge frapper
+\gn hit
+\dn hit ‹s.th.› with a loud noise, bang on ‹s.th.›, using o.'s hands or feet
+\rf DG1-43b:  faire sursauter ??, faire claquer
+\se ~wate tepapa
+\ps voi
+\va ~viane tepapa
+\gr
+\sn
+\ll bang on boards
+\dn stomp on the dancing boards (fl:see fv:tepapa): perform the main dance at the vl:ngapiene
+festival
+\sd Ethn
+\rf DP2-20b
+\rf Lupo.30
+\xv Li-wate tepapa, li-viane tepapa ponu; ka li-pinoe pon ta ka li-mako.
+\xn They were hitting the boards, stomping on the boards: such was their dance.
+\lf Cf.
+\lv ~pinoe
+\ln perform traditional dance
+\el
+\nt
+\dc 18/Jul/2016
+\dt 21/Jul/2016
+
+\lx ~wate
+\hm 2
+\ph (i·)wate
+\ps vt
 \gr
 \ge
 \gn
-\dn
-\rf
+\dn point at ‹s.th., s.o.›, indicate
+\rf DG1-43b
 \lf
 \el
 \nt
-\dc
-\dt
+\dc 18/Jul/2016
+\dt 21/Jul/2016
 
 \lx waviliro
 \ph waviliro
@@ -23577,23 +24224,8 @@ of s.o.
 \dt 12/May/2012
 
 \lx we
-\ph we
-\hm 1
-\ps conj
-\gr
-\ge
-\gn or
-\dn
-\rf
-\lf
-\el
-\nt
-\dc
-\dt 12/May/2012
-
-\lx we
-\ph we
 \hm 2
+\ph we
 \ps pos
 \gr
 \ge
@@ -23605,8 +24237,8 @@ of s.o.
 \lv enaka
 \el
 \nt
-\dc
-\dt 12/May/2012
+\dc 12/May/2012
+\dt 24/Jul/2016
 
 \lx webwe
 \ph weᵐbʷe
@@ -23757,7 +24389,7 @@ translated
 \ps vti
 \gr
 \ll be-there with
-\dn belong to <s.o.>. Forms possessive predicates equivalent to Eng.
+\dn belong to ‹s.o.›. Forms possessive predicates equivalent to Eng.
 ‘have’
 \rf Paradise.12
 \xv Nganae awa dapa i-viaene, na, i-wen' teve dapa. 
@@ -23770,7 +24402,7 @@ translated
 \nt
 \nq
 \dc 26/Nov/2009
-\dt 24/May/2012
+\dt 17/Jul/2016
 
 \lx ~wete
 \ph (i·)wete
@@ -23780,7 +24412,7 @@ translated
 \pdv ~vele
 \ge harponner
 \gn spear
-\dn violently push a long, hard object into <s.o., s.th.>: pierce, spear,
+\dn violently push a long, hard object into ‹s.o., s.th.›: pierce, spear,
 stab, pound+
 \lf Syn.
 \lv ~woi
@@ -23788,33 +24420,32 @@ stab, pound+
 \lv ~tobo
 \ln poke, pierce
 \sn 1
-\dn spear <fish+>
+\dn spear ‹fish+›
 \rf
 \xv li-wete namuko
 \xn go fishing using a spear
 \sn 2
-\dn shoot <s.o., s.th.> with arrow
+\dn shoot ‹s.o., s.th.› with arrow
 \rf
 \xv Pe li-wete telupe, u-avi visone ka u-iui diro i-le i-wete ini.
 \xn When you hunt [ax:lt. shoot] pigeons, you bend your bow, and let the arrow
 fly and hit it.
 \sn 3
-\dn pound fl:or kill <s.o.> with the end of a long stick, or any similar
-implement
+\dn pound ‹s.o., s.th.› with the end of a long stick, or any similar implement
 \rf
 \xv Vilisao i-abu i-abu i-wete toñaki ie Laperus pon i-metelu.
 \xn The tornado came all the way down and pounded Lapérouse's ship, which
 sank immediately.
 \sn 4
 \hn
-\dn drive <digging stick, |fv{ekuo}> into the ground, to soften it when
+\dn drive ‹digging stick, |fv{ekuo}› into the ground, to soften it when
 planting tubers
 \rf DP1-24a
 \xv ekuo pe li-wete ñe tanoe
 \xn a digging stick [stick used to spear the ground]
 \sn 5
 \wn in gardening
-\dn dig out <swamp taro, fv:vivilo> by driving a digging stick into the
+\dn dig out ‹swamp taro, fv:vivilo› by driving a digging stick into the
 ground; fl:hence harvest
 \sd Techn
 \rf DP1-24a
@@ -23827,7 +24458,7 @@ home.
 Colocasia taros (vl:jebute) are harvested by pulling (fl:Cf. fv:~au1).
 \sn 6
 \wn in cooking
-\dn pound <taros, almonds+> in a bowl, using a long and heavy pestle
+\dn pound ‹taros, almonds+› in a bowl, using a long and heavy pestle
 \rf
 \xv I-tau jebute moioe ponu, i-loko i-ka i-le ne monone ka i-wete. I-wete awoiu ka
 i-ejau mama ada.
@@ -23848,12 +24479,12 @@ Canarium almonds in a bowl (fv:monone) with a pestle
 \un
 \en This dish is prepared for important social occasions.
 \sn 7
-\dn grind <kava+> using a longish coral stone or a pestle
+\dn grind ‹kava+› using a longish coral stone or a pestle
 \rf
 \xv Li-wete kava awoiu ka li-vili.
 \xn After grinding the kava, we squeeze it.
 \sn 8
-\dn pin <clothes, leaves+> using a needle or a small pointed stick
+\dn pin ‹clothes, leaves+› using a needle or a small pointed stick
 \rf
 \lf Cf.
 \lv ~sai
@@ -23861,7 +24492,7 @@ Canarium almonds in a bowl (fv:monone) with a pestle
 \se ~wete otovo
 \ps voi
 \gr
-\ll pin sago leaves
+\ll pin sago
 \dn prepare the roofing of a house, by pinning together sago leaves
 \sd Techn
 \rf cf. DP1-20a
@@ -23875,7 +24506,7 @@ Canarium almonds in a bowl (fv:monone) with a pestle
 \nt
 \nq
 \dc 18/Nov/2009
-\dt 24/May/2012
+\dt 25/Jul/2016
 
 \lx wido
 \ph wiⁿdo
@@ -23924,8 +24555,8 @@ Canarium almonds in a bowl (fv:monone) with a pestle
 \dt
 
 \lx ~wo
-\ph (i·)wo
 \hm 1
+\ph (i·)wo
 \ps vi
 \gr
 \ge fuir
@@ -23942,11 +24573,11 @@ Canarium almonds in a bowl (fv:monone) with a pestle
 \nt
 \nq
 \dc 16/Mar/2008
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~wo
-\ph (i·)wo
 \hm 2
+\ph (i·)wo
 \ps vt
 \gr
 \ge porter
@@ -23965,11 +24596,11 @@ whether to carry firewood or harvested food.
 \nt
 \nq
 \dc 16/Mar/2008
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~wo
-\ph (i·)wo
 \hm 3
+\ph (i·)wo
 \ps vt
 \gr
 \sn 1
@@ -23995,11 +24626,11 @@ whether to carry firewood or harvested food.
 \nt
 \nq
 \dc 16/Mar/2008
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~wo
-\ph (i·)wo
 \hm 4
+\ph (i·)wo
 \ps vi
 \gr karem_frut
 \ge fructifier
@@ -24017,7 +24648,7 @@ whether to carry firewood or harvested food.
 \nt
 \nq
 \dc 22/Mar/2008
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~woi
 \ph (i·)woi
@@ -24035,7 +24666,7 @@ whether to carry firewood or harvested food.
 \xb ?? Someone has stabbed a knife on my back.
 \sn 2
 \hn
-\dn plant <manioc+> into the ground
+\dn plant ‹manioc+› into the ground
 \rf DP1-26a
 \xv Li-woi elela manioka.
 \xn They planted a stock of manioc.
@@ -24058,7 +24689,7 @@ whether to carry firewood or harvested food.
 \sn 4
 \hn
 \uv
-\dn pound, bang <long object> with an impact, e.g. shock or noise
+\dn pound, bang ‹long object› with an impact, e.g. shock or noise
 \rf DP1-22b
 \xv Ni-woi basa ene li-asai.
 \xn I banged by head, and it was stitched up.
@@ -24072,7 +24703,7 @@ whether to carry firewood or harvested food.
 \nt
 \nq
 \dc 13/Mar/2008
-\dt 24/May/2012
+\dt 17/Jul/2016
 
 \lx ~woi okoro
 \ph (i·)woi okoro
@@ -24119,7 +24750,7 @@ sound of which the dancers dance around them.
 \gr
 \ge
 \gn
-\dn welcome <traveller> upon their arrival, fl:typic. on the beach
+\dn welcome ‹traveller› upon their arrival, fl:typic. on the beach
 \rf Tamate.042
 \xv Teliki iadapa li-abu li-ka, li-wokobe da po la-sai kuo.
 \xn The chiefs came down and welcomed them as they landed their canoe (on the
@@ -24129,7 +24760,7 @@ beach).
 \nt
 \nq
 \dc
-\dt 24/May/2012
+\dt 17/Jul/2016
 
 \lx woku
 \ph woku
@@ -24186,7 +24817,7 @@ beach).
 \gr fidim
 \ge nourrir
 \gn feed
-\dn give food to, feed <man, animal>
+\dn give food to, feed ‹man, animal›
 \rf
 \xv A-ko bwara kape u-e namuko, ia vana a-womanga dapa nga ponu!
 \xn You thought you would eat these fish, but actually you're only feeding them!
@@ -24204,7 +24835,7 @@ beach).
 \et *maŋan
 \nq
 \dc 23/Nov/2009
-\dt 24/May/2012
+\dt 17/Jul/2016
 
 \lx wonone
 \ph wonone
@@ -24259,8 +24890,8 @@ beach).
 \dt 12/May/2012
 
 \lx wowo
-\ph wowo
 \hm 1
+\ph wowo
 \ps nop
 \gr
 \ge cime
@@ -24274,11 +24905,11 @@ beach).
 \nt
 \nq
 \dc 16/Mar/2008
-\dt 16/Mar/2008
+\dt 24/Jul/2016
 
 \lx ~wowo
-\ph (i·)wowo
 \hm 2
+\ph (i·)wowo
 \ps vi
 \gr swim
 \ge nager
@@ -24295,11 +24926,11 @@ beach).
 \nt
 \nq
 \dc 16/Mar/2008
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~wowo
-\ph (i·)wowo
 \hm 3
+\ph (i·)wowo
 \ps vt
 \gr planem
 \ge planter
@@ -24315,11 +24946,11 @@ beach).
 \nt
 \nq
 \dc 16/Mar/2008
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx ~wowo
-\ph (i·)wowo
 \hm 4
+\ph (i·)wowo
 \ps vt
 \gr
 \sn 1
@@ -24331,7 +24962,7 @@ beach).
 \xn A woman went to draw saltwater, and brought it back to pour it above the oven.
 \rf
 \sn 2
-\dn bail out <water> from a boat
+\dn bail out ‹water› from a boat
 \rf DP1-22a
 \xv Ni-wowo revo i-ke mina lema kuo.
 \xn I'm bailing out the (sea) water from inside the canoe.
@@ -24340,7 +24971,7 @@ beach).
 \nt
 \nq
 \dc 16/Mar/2008
-\dt 24/May/2012
+\dt 24/Jul/2016
 
 \lx woworo
 \ph woworo
@@ -24349,7 +24980,7 @@ beach).
 \ge
 \gn lawyer-cane
 \dn k.o. lawyer-cane fl:or rattan
-\sc Calamus|ax{ sp.}
+\sc Calamus |ax{sp.}
 \sd Bot
 \rf DP2-15a
 \lf Cf.
@@ -24358,7 +24989,7 @@ beach).
 \nt
 \nq exact identification??
 \dc 23/Nov/2009
-\dt 15/Feb/2010
+\dt 31/Jul/2016
 
 \lx xxx
 \ph xxx
@@ -24374,20 +25005,33 @@ beach).
 \dc
 \dt 09/May/2010
 
-\lx **~ali
-\ph **(i·)ali
-\ps vt
+\lx **kula
+\hm 1
+\ph kula
+\ps qtf
 \gr
 \ge
-\gn (pick?)
-\rn *
-\dn
+\gn some
+\dn a few, some
 \rf
-\xv Lai-ali buioe.
-\xv Lai-ali pele.
-\xn they cast the net
 \lf
 \el
-\nq 2 verbs??
-\dc
-\dt 24/May/2012
+\nt
+\nq xxxxxxxxxxxxx
+\dc 19/Jul/2016
+\dt 19/Jul/2016
+
+\lx **we
+\hm 1
+\ph we
+\ps conj
+\gr
+\ge
+\gn or
+\dn
+\rf
+\lf
+\el
+\nt
+\dc 12/May/2012
+\dt 24/Jul/2016
